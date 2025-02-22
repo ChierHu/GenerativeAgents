@@ -19,3 +19,6 @@ https://link.springer.com/article/10.1007/s11704-024-40311-2
 
 Language Agents: Foundations, Prospects, and Risks
 https://aclanthology.org/2024.emnlp-tutorials.3/
+
+Frontiers of Large Language Model-Based Agentic Systems - Construction, Efficacy and Safety
+https://dl.acm.org/doi/abs/10.1145/3627673.3679105
