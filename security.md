@@ -46,3 +46,6 @@ https://arxiv.org/abs/2410.16155
 ## Fake News/Rumors 假新闻/谣言
 From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution
 https://arxiv.org/abs/2410.19064
+
+Large Language Model-driven Multi-Agent Simulation for News Diffusion Under Different Network Structures
+https://arxiv.org/abs/2410.13909
