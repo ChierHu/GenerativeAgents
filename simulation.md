@@ -36,3 +36,6 @@ https://arxiv.org/abs/2412.07788
 
 Sociotechnical Risks of Simulating Humans with Language Model Agents
 https://www.carolynzou.com/files/zou-llm-robustness.pdf
+## Risk 风险
+All Too Human? Mapping and Mitigating the Risk from Anthropomorphic AI
+https://ojs.aaai.org/index.php/AIES/article/view/31613
