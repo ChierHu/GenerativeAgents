@@ -16,6 +16,9 @@ https://royalsocietypublishing.org/doi/full/10.1098/rsta.2024.0148
 EnvBridge: Bridging Diverse Environments with Cross-Environment Knowledge Transfer for Embodied AI
 https://arxiv.org/abs/2410.16919
 
+Towards Humanoid: Value-Driven Agent Modeling Based on Large Language Models
+https://openreview.net/forum?id=irKHAnZjvc
+
 ## Action 动作
 PoAct: Policy and Action Dual-Control Agent for Generalized Applications
 https://arxiv.org/abs/2501.07054
