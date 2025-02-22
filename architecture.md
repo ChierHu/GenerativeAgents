@@ -8,6 +8,9 @@ https://hal.science/hal-04926292/
 BuildingSage: A safe and secure AI copilot for smart buildings
 https://dl.acm.org/doi/abs/10.1145/3671127.3699677
 
+CARD: Cross-modal Agent Framework for Generative and Editable Residential Design
+https://openreview.net/forum?id=cYQPfdMJHQ
+
 ## Urban Plan 城市规划
 Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning
 https://arxiv.org/abs/2412.20505
