@@ -14,3 +14,8 @@ https://arxiv.org/abs/2411.18908
 
 PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks
 https://arxiv.org/abs/2411.00081
+
+## Workflow 工作流
+
+Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension
+https://arxiv.org/abs/2412.05958
