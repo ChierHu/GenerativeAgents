@@ -19,3 +19,7 @@ https://arxiv.org/abs/2411.00081
 
 Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension
 https://arxiv.org/abs/2412.05958
+
+## Relationship 关系
+The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships
+https://ojs.aaai.org/index.php/AIES/article/view/31694
