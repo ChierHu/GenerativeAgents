@@ -1,0 +1,22 @@
+# Psychology 心理学
+## counseling 心理咨询
+Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection
+https://arxiv.org/abs/2501.15355
+
+Chapter 11 - Towards human digital twins for healthcare agent-based modeling in the Metaverse
+https://www.sciencedirect.com/science/article/pii/B9780443219962000139
+
+Benchmarking AI in Mental Health: A Critical Examination of LLMs Across Key Performance and Ethical Metrics
+https://link.springer.com/chapter/10.1007/978-3-031-78104-9_24
+
+## Psychometrics 心理测量
+Designing LLM-Agents with Personalities: A Psychometric Approach
+https://arxiv.org/abs/2410.19238
+
+
+## User Research 用户研究
+Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant
+https://arxiv.org/abs/2502.01390
+
+Designing and Evaluating AI Personas for Customer and User Understanding - Exploring Use Cases and Attitudes in an Industrial, B2B Context
+https://aaltodoc.aalto.fi/items/cc33f18a-7818-4572-a4bc-2b066d2ea710
