@@ -1,0 +1,12 @@
+# Evaluation 评估
+## Model Evaluation 模型评估
+Dynamic benchmarking framework for LLM-based conversational data capture
+https://arxiv.org/abs/2502.04349
+
+The New Turing Test: The Six Levels of Autonomous AI Robots and Human-Likeness, Superiority, and Benevolence as Measures of Autonomous AI
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5073115
+
+## Agent Evaluation 代理评估
+
+Evaluating The Architecture Of Large Language Model-Based Agents
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017297
