@@ -98,3 +98,7 @@ https://openreview.net/forum?id=PvQj49LzJW
 ## Emotions/Mood 情感/情绪
 Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval
 https://arxiv.org/abs/2410.23041
+
+## Proactive 主动
+Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance
+https://arxiv.org/abs/2410.12361
