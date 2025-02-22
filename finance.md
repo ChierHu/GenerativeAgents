@@ -43,3 +43,12 @@ https://arxiv.org/abs/2411.07161
 ## Bidding 拍卖
 RTBAgent: A LLM-based Agent System for Real-Time Bidding
 https://arxiv.org/abs/2502.00792
+
+## Blockchain区块链
+### Smart contracts 智能合约
+PrettiSmart: Visual Interpretation of Smart Contracts via Simulation
+https://arxiv.org/abs/2412.18484
+
+## Decentralized 去中心化 
+LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning
+https://arxiv.org/abs/2502.05453
