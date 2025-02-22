@@ -8,6 +8,10 @@ https://arxiv.org/abs/2411.11910
 LLMs and generative agent-based models for complex systems research
 https://www.sciencedirect.com/science/article/pii/S1571064524001386
 
+## Simulation 模拟仿真
+AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA
+https://arxiv.org/abs/2410.15222
+
 ## Paper Search 论文搜索
 PaSa: An LLM Agent for Comprehensive Academic Paper Search
 https://arxiv.org/abs/2501.10120
