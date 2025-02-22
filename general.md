@@ -38,6 +38,11 @@ https://arxiv.org/abs/2411.05349
 Multi-Agent Large Language Models for Conversational Task-Solving
 https://arxiv.org/abs/2410.22932
 
+## Multimodality 多模态
+### vision-language models 视觉语言模型
+VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
+https://arxiv.org/abs/2410.16400
+
 ## API
 Creating an LLM-based AI-agent: A high-level methodology towards enhancing LLMs with APIs
 https://arxiv.org/abs/2412.13233
