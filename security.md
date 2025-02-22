@@ -39,7 +39,7 @@ https://arxiv.org/abs/2412.01778
 YuraScanner: Leveraging LLMs for Task-driven Web App Scanning
 https://publications.cispa.de/articles/conference_contribution/YuraScanner_Leveraging_LLMs_for_Task-driven_Web_App_Scanning/27993545?file=51062570
 
-#Jailbreak 越狱
+## Jailbreak 越狱
 A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns
 https://arxiv.org/abs/2410.16155
 
