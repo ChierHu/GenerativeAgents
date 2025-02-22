@@ -21,6 +21,9 @@ https://link.springer.com/chapter/10.1007/978-3-031-71232-6_2
 Teaching via LLM-enhanced simulations: Authenticity and barriers to suspension of disbelief
 https://www.sciencedirect.com/science/article/abs/pii/S1096751624000526?casa_token=j_EMKJizJfAAAAAA:zZreOvM0U_-J3Jm-nvifHkfP_S1EmO6VUnf3BJXva0rKAbM7_vPfDuDRp3_ATqADmfix-9-ThwAl
 
+Students Rather Than Experts: A New AI For Education Pipeline To Model More Human-Like And Personalised Early Adolescences
+https://arxiv.org/abs/2410.15701
+
 ## Computer Education 计算机教育
 The Role of Generative AI in Software Student CollaborAItion
 https://arxiv.org/abs/2501.14084
