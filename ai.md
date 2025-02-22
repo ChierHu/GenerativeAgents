@@ -16,3 +16,9 @@ https://dl.acm.org/doi/abs/10.1145/3627673.3679805
 
 ## Data synthesis 数据合成
 Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
+
+## Recommender Systems 推荐系统
+Recommender Systems Meet Large Language Model Agents: A Survey
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062105
+
+FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing https://arxiv.org/abs/2410.20027
