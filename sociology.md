@@ -106,3 +106,7 @@ https://arxiv.org/abs/2411.01143
 ## Biases 偏见
 Enhancing Fairness in LLM Evaluations: Unveiling and Mitigating Biases in Standard-Answer-Based Evaluations
 https://ojs.aaai.org/index.php/AAAI-SS/article/view/31771
+
+## Reliability 可靠性
+Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?
+https://arxiv.org/abs/2410.23426
