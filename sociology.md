@@ -41,6 +41,68 @@ https://arxiv.org/abs/2412.06435
 Towards Foundation-model-based Multiagent System to Accelerate AI for Social Impact
 https://arxiv.org/abs/2412.07880
 
+Multi-Agents are Social Groups: Investigating Social Influence of Multiple Agents in Human-Agent Interactions
+https://arxiv.org/abs/2411.04578
+
 ## E-commerce 电商
 LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation
 https://arxiv.org/abs/2412.09237
+
+## socialize 社交
+LLM-AIDSim: LLM-Enhanced Agent-Based Influence Diffusion Simulation in Social Networks
+https://www.mdpi.com/2079-8954/13/1/29
+
+Casevo: A Cognitive Agents and Social Evolution Simulator
+https://arxiv.org/abs/2412.19498
+
+Spontaneous Emergence of Agent Individuality Through Social Interactions in Large Language Model-Based Communities
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11675631/
+
+Social Intelligence Enhancement Methods for LLM Agents Based on Retrieval-Augmented Generation
+https://ieeexplore.ieee.org/abstract/document/10865026?casa_token=yhNw3NricLQAAAAA:wjTW7-rVYRA1CFX3HoYdlWB2G0gy2VJDcfmXQQ6n3W1LMhZ_1g0-Agsf78-wZeKeKgql8Z6XUfc
+
+## Individuality 个性
+Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities
+https://arxiv.org/abs/2411.03252
+
+
+## Debate 辩论
+Multi-LLM Debate: Framework, Principals, and Interventions
+https://openreview.net/forum?id=sy7eSEXdPC
+
+ConfidenceCal: Enhancing LLMs Reliability through Confidence Calibration in Multi-Agent Debate
+https://ieeexplore.ieee.org/abstract/document/10808396?casa_token=yC-t4TYQR-sAAAAA:xAjfw4usqZVTMy1NAdC8ta1-1eXORcL3SDDyPu0yovZP1_Ohkt2bSV6xmJ68qYYbfdn1AwDBrXQ
+
+## Group Chat 群聊
+A Social Group Chatbot System by Multiple Topics Tracking and Atkinson-Shiffrin Memory Model Using AI Agents Collaboration
+https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13766?casa_token=vQhpP55k7msAAAAA%3AAi7eioX_t4feAv5UO2RD5YGel1AwKSmLv1oygAR4pGlDQ08YGnR5q7ywIwYRWYp5UlIXBxnDKBsHg_IF
+
+Social-RAG: Retrieving from Group Interactions to Socially Ground AI Generation
+https://arxiv.org/abs/2411.02353
+
+
+## Echo chamber 回音室效应
+
+Emergence of human-like polarization among large language model agents
+https://arxiv.org/abs/2501.05171
+
+
+대규모 언어 모델 기반 에이전트: 사회적 상호작용 시뮬레이션 및 사회적 의미
+https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12034201&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=080000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+
+에코 챔버와 양극화 완화를 위한 AI 기반 시스템 연구한양대학교   김재훈･한경식
+https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12034205&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=080000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+
+Argumentative Experience: Reducing Confirmation Bias on Controversial Issues through LLM-Generated Multi-Persona Debates
+https://arxiv.org/abs/2412.04629
+
+Simulating Social Network with LLM Agents: An Analysis of Information Propagation and Echo Chambers
+https://link.springer.com/chapter/10.1007/978-981-96-0178-3_5
+
+## Advertising Marketing 广告营销
+A Large-scale Time-aware Agents Simulation for Influencer Selection in Digital Advertising Campaigns
+https://arxiv.org/abs/2411.01143
+
+## Biases 偏见
+Enhancing Fairness in LLM Evaluations: Unveiling and Mitigating Biases in Standard-Answer-Based Evaluations
+https://ojs.aaai.org/index.php/AAAI-SS/article/view/31771
