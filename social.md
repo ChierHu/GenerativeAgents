@@ -26,6 +26,21 @@ https://ieeexplore.ieee.org/abstract/document/10783321?casa_token=w_vjkiL3G7EAAA
 Can Machines Think Like Humans? A Behavioral Evaluation of LLM-Agents in Dictator Games
 https://arxiv.org/abs/2410.21359
 
+## Social Media 社交媒体
+Can Generative Agent-Based Modeling Replicate the Friendship Paradox in Social Media Simulations?
+https://arxiv.org/abs/2502.05919
+
+Towards Foundation-model-based Multiagent System to Accelerate AI for Social Impact
+https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/3/796/files/2025/02/aamas_blue_sky.pdf
+
+Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication
+https://arxiv.org/abs/2502.08896
+
+SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent
+https://arxiv.org/abs/2502.08599
+
+OASIS: Open Agent Social Interaction Simulations with One Million Agents
+https://arxiv.org/abs/2411.11581
 
 ## consistency 一致性
 Investigating social alignment via mirroring in a system of interacting language models
