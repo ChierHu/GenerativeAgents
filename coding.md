@@ -19,6 +19,9 @@ https://arxiv.org/abs/2412.15305
 Can Large Language Models Serve as Evaluators for Code Summarization?
 https://arxiv.org/abs/2412.01333
 
+Auto-Enhance: Towards a Meta-Benchmark to Evaluate AI Agents' Ability to Improve Other Agents
+https://openreview.net/forum?id=YAhyaNEoy9
+
 ## Observability 可观察性
 Watson: A Cognitive Observability Framework for the Reasoning of Foundation Model-Powered Agents
 https://arxiv.org/abs/2411.03455
