@@ -112,3 +112,7 @@ https://arxiv.org/abs/2410.12361
 ## Store 商店
 AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant
 https://arxiv.org/abs/2410.18603
+
+## Retrieve 检索
+MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents
+https://arxiv.org/abs/2410.03450
