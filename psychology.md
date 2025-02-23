@@ -30,3 +30,6 @@ https://openreview.net/forum?id=WCa25ExtbJ
 
 Generating and Validating Agent and Environment Code for Simulating Realistic Personality Profiles with Large Language Models
 https://openreview.net/forum?id=p3T9CtEu1S
+
+Exploring the Personality Traits of LLMs through Latent Features Steering
+https://arxiv.org/abs/2410.10863
