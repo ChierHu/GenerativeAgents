@@ -38,6 +38,9 @@ https://arxiv.org/abs/2411.05349
 Multi-Agent Large Language Models for Conversational Task-Solving
 https://arxiv.org/abs/2410.22932
 
+Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks
+https://arxiv.org/abs/2410.12853
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
