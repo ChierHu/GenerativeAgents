@@ -25,3 +25,7 @@ https://openreview.net/forum?id=YAhyaNEoy9
 ## Observability 可观察性
 Watson: A Cognitive Observability Framework for the Reasoning of Foundation Model-Powered Agents
 https://arxiv.org/abs/2411.03455
+
+## Assistants 助手
+Need Help? Designing Proactive AI Assistants for Programming
+https://arxiv.org/abs/2410.04596
