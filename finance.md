@@ -26,6 +26,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052723
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 https://arxiv.org/abs/2412.20138
 
+TraderTalk: An LLM Behavioural ABM applied to Simulating Human Bilateral Trading Interactions
+https://ieeexplore.ieee.org/abstract/document/10807411
+
 ## Data 数据
 FinDABench: Benchmarking Financial Data Analysis Ability of Large Language Models
 https://arxiv.org/abs/2401.02982
