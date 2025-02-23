@@ -34,6 +34,8 @@ https://arxiv.org/abs/2410.18935
 HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing
 https://arxiv.org/abs/2412.01778
 
+AutoPenBench: Benchmarking Generative Agents for Penetration Testing
+https://arxiv.org/abs/2410.03225
 
 ## Vulnerability 漏洞
 YuraScanner: Leveraging LLMs for Task-driven Web App Scanning
