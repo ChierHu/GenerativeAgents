@@ -29,6 +29,9 @@ https://philsci-archive.pitt.edu/24473/
 Proactive Conversational Agents with Inner Thoughts
 https://arxiv.org/abs/2501.00383
 
+Retrieval-Augmented Decision Transformer: External Memory for In-context RL
+https://arxiv.org/abs/2410.07071
+
 ## Innovation 创新
 GAI: Generative Agents for Innovation
 https://arxiv.org/abs/2412.18899
