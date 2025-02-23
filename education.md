@@ -43,3 +43,6 @@ https://arxiv.org/abs/2501.09870
 ## Study Partner 学伴
 Imitating Mistakes in a Learning Companion AI Agent for Online Peer Learning
 https://ieeexplore.ieee.org/abstract/document/10857528
+
+Generative Co-Learners: Enhancing Cognitive and Social Presence of Students in Asynchronous Learning with Generative AI
+https://dl.acm.org/doi/abs/10.1145/3701198
