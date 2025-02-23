@@ -42,10 +42,12 @@ https://arxiv.org/abs/2502.08599
 OASIS: Open Agent Social Interaction Simulations with One Million Agents
 https://arxiv.org/abs/2411.11581
 
-## consistency 一致性
+## Conformity 一致性
 Investigating social alignment via mirroring in a system of interacting language models
 https://arxiv.org/abs/2412.06834
 
+Do as We Do, Not as You Think: the Conformity of Large Language Models
+https://arxiv.org/abs/2501.13381
 
 ## Desire Motivation 欲望动机
 Simulating Human-like Daily Activities with Desire-driven Autonomy
