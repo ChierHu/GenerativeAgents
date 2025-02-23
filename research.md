@@ -19,3 +19,7 @@ https://arxiv.org/abs/2501.10120
 ## Peer Review 同行评议
 Generative Adversarial Reviews: When LLMs Become the Critic
 https://arxiv.org/abs/2412.10415
+
+## Scientists 科学家
+Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
+https://arxiv.org/abs/2410.09403
