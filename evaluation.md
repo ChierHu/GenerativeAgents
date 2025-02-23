@@ -17,3 +17,7 @@ https://arxiv.org/abs/2410.07553
 ### Vision 视觉
 ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
 https://arxiv.org/abs/2410.06555
+
+## Social Intelligence 社交智能
+Entering Real Social World! Benchmarking the Social Intelligence of Large Language Models from a First-person Perspective
+https://arxiv.org/abs/2410.06195
