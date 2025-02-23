@@ -102,3 +102,6 @@ https://arxiv.org/abs/2410.23041
 ## Proactive 主动
 Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance
 https://arxiv.org/abs/2410.12361
+## Store 商店
+AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant
+https://arxiv.org/abs/2410.18603
