@@ -22,3 +22,6 @@ https://aclanthology.org/2024.emnlp-tutorials.3/
 
 Frontiers of Large Language Model-Based Agentic Systems - Construction, Efficacy and Safety
 https://dl.acm.org/doi/abs/10.1145/3627673.3679105
+
+A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges
+https://link.springer.com/article/10.1007/s44336-024-00009-2
