@@ -127,3 +127,7 @@ https://ojs.aaai.org/index.php/AAAI-SS/article/view/31771
 ## Reliability 可靠性
 Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?
 https://arxiv.org/abs/2410.23426
+
+## graph 图论
+LLM-Based Multi-Agent Systems are Scalable Graph Generative Models
+https://arxiv.org/abs/2410.09824
