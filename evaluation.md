@@ -10,3 +10,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5073115
 
 Evaluating The Architecture Of Large Language Model-Based Agents
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017297
+
+COMMA: A Communicative Multimodal Multi-Agent Benchmark
+https://arxiv.org/abs/2410.07553
