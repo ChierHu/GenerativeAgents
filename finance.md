@@ -43,6 +43,9 @@ https://arxiv.org/abs/2412.18174
 RoundTable: Investigating Group Decision-Making Mechanism in Multi-Agent Collaboration
 https://arxiv.org/abs/2411.07161
 
+Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations
+https://arxiv.org/abs/2410.08345
+
 ## Bidding 拍卖
 RTBAgent: A LLM-based Agent System for Real-Time Bidding
 https://arxiv.org/abs/2502.00792
