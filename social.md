@@ -61,6 +61,9 @@ https://arxiv.org/abs/2412.07880
 Multi-Agents are Social Groups: Investigating Social Influence of Multiple Agents in Human-Agent Interactions
 https://arxiv.org/abs/2411.04578
 
+I Want to Break Free! Persuasion and Anti-Social Behavior of LLMs in Multi-Agent Settings with Social Hierarchy
+https://arxiv.org/abs/2410.07109
+
 ## E-commerce 电商
 LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation
 https://arxiv.org/abs/2412.09237
