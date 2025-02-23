@@ -1,4 +1,7 @@
 # Psychology 心理学
+ToM-agent: Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection
+https://openreview.net/forum?id=pxwJU6rTAv
+
 ## counseling 心理咨询
 Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection
 https://arxiv.org/abs/2501.15355
