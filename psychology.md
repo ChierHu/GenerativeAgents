@@ -20,3 +20,13 @@ https://arxiv.org/abs/2502.01390
 
 Designing and Evaluating AI Personas for Customer and User Understanding - Exploring Use Cases and Attitudes in an Industrial, B2B Context
 https://aaltodoc.aalto.fi/items/cc33f18a-7818-4572-a4bc-2b066d2ea710
+
+## Individuality/Personality 个性/性格
+Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities
+https://arxiv.org/abs/2411.03252
+
+Assessing Behavioral Alignment of Personality-Driven Generative Agents in Social Dilemma Games
+https://openreview.net/forum?id=WCa25ExtbJ
+
+Generating and Validating Agent and Environment Code for Simulating Realistic Personality Profiles with Large Language Models
+https://openreview.net/forum?id=p3T9CtEu1S
