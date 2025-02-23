@@ -78,10 +78,12 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11675631/
 Social Intelligence Enhancement Methods for LLM Agents Based on Retrieval-Augmented Generation
 https://ieeexplore.ieee.org/abstract/document/10865026?casa_token=yhNw3NricLQAAAAA:wjTW7-rVYRA1CFX3HoYdlWB2G0gy2VJDcfmXQQ6n3W1LMhZ_1g0-Agsf78-wZeKeKgql8Z6XUfc
 
-## Individuality 个性
+## Individuality/Personality 个性/性格
 Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities
 https://arxiv.org/abs/2411.03252
 
+Assessing Behavioral Alignment of Personality-Driven Generative Agents in Social Dilemma Games
+https://openreview.net/forum?id=WCa25ExtbJ
 
 ## Debate 辩论
 Multi-LLM Debate: Framework, Principals, and Interventions
