@@ -36,3 +36,6 @@ https://openreview.net/forum?id=p3T9CtEu1S
 
 Exploring the Personality Traits of LLMs through Latent Features Steering
 https://arxiv.org/abs/2410.10863
+## Data simulation 数据模拟
+Synthesizing Bonds: Enhancing Adult Attachment Predictions with LLM-Generated Data
+https://openreview.net/forum?id=8WpRt9pjeh
