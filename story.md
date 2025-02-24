@@ -36,6 +36,9 @@ https://arxiv.org/abs/2409.14710
 Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing
 https://arxiv.org/abs/2409.11726
 
+Thinking Before Speaking: A Role-playing Model with Mindset
+https://arxiv.org/abs/2409.13752
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
