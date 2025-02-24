@@ -208,3 +208,7 @@ https://arxiv.org/abs/2409.18028
 ## Prompt 提示词
 Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts
 https://arxiv.org/abs/2409.13449
+## Value 价值观
+Memory with Meaning: Enabling Value-Centric Long-Term Human-Agent Dialogue
+https://dl.acm.org/doi/abs/10.1145/3652988.3673925
+
