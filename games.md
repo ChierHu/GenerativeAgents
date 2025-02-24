@@ -14,6 +14,9 @@ https://www.sciencedirect.com/science/article/pii/S1875952124002623?casa_token=0
 ### Player 玩家
 LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents
 https://arxiv.org/abs/2410.02829
+### NPC
+Primjena umjetne inteligencije u dinamičkom modeliranju ponašanja neigrivih likova
+https://repozitorij.unios.hr/islandora/object/etfos:4992
 
 ## Board Games 桌游
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
