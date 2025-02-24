@@ -21,6 +21,9 @@ https://arxiv.org/abs/2410.18012
 Multi-Agent Systems and Generative Agent-Based Models in Accounting and Auditing
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052723
 
+## Investment 投资
+Hierarchical Organization Simulacra in the Investment Sector
+https://arxiv.org/abs/2410.00354
 
 ## Trading 交易
 TradingAgents: Multi-Agents LLM Financial Trading Framework
