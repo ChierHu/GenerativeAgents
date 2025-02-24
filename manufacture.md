@@ -12,3 +12,7 @@ https://arxiv.org/abs/2410.12475
 ## Control System 控制系统
 ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise
 https://arxiv.org/abs/2410.19811
+
+## Chip Design 芯片设计
+Towards LLM4Floorplan: Agents Can Do What Engineers Do in Chip Design
+https://openreview.net/forum?id=n7s9EwG6hW
