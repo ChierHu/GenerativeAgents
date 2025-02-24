@@ -19,6 +19,9 @@ https://link.springer.com/chapter/10.1007/978-3-031-71232-6_2
 ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning
 https://arxiv.org/abs/2410.02052
 
+Large language models for whole-learner support: opportunities and challenges
+https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1460364/full
+
 ## Teacher Training 教师培训
 Teaching via LLM-enhanced simulations: Authenticity and barriers to suspension of disbelief
 https://www.sciencedirect.com/science/article/abs/pii/S1096751624000526?casa_token=j_EMKJizJfAAAAAA:zZreOvM0U_-J3Jm-nvifHkfP_S1EmO6VUnf3BJXva0rKAbM7_vPfDuDRp3_ATqADmfix-9-ThwAl
