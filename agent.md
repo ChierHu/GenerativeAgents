@@ -43,6 +43,9 @@ https://arxiv.org/abs/2412.13549
 Personalized Large Language Model Assistant with Evolving Conditional Memory
 https://arxiv.org/abs/2312.17257
 
+DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing
+https://openreview.net/forum?id=mNVR9jJYqK
+
 ## Memory 记忆
 On the Structural Memory of LLM Agents
 https://arxiv.org/abs/2412.15266
