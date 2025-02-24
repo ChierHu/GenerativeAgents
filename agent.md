@@ -59,6 +59,9 @@ https://ieeexplore.ieee.org/abstract/document/10756271?casa_token=V2vpdgUA3GMAAA
 Integrating Temporal Representations for Dynamic Memory Retrieval and Management in Large Language Models
 https://arxiv.org/abs/2410.13553
 
+KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems
+https://arxiv.org/abs/2409.14908
+
 ### Episodic memory 情景记忆
 Episodic memory in AI agents poses risks that should be studied and mitigated
 https://arxiv.org/abs/2501.11739
