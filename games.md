@@ -18,6 +18,9 @@ https://arxiv.org/abs/2410.02829
 Primjena umjetne inteligencije u dinamičkom modeliranju ponašanja neigrivih likova
 https://repozitorij.unios.hr/islandora/object/etfos:4992
 
+GPT-NPC: Enhancing NPC Human-Likeness and Autonomy in Video Games
+https://ore.exeter.ac.uk/rest/bitstreams/200625/retrieve
+
 ## Board Games 桌游
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
 https://ojs.aaai.org/index.php/AIIDE/article/view/31861
