@@ -41,6 +41,9 @@ https://arxiv.org/abs/2410.22932
 Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks
 https://arxiv.org/abs/2410.12853
 
+Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning
+https://openreview.net/forum?id=GBIUbwW9D8
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
