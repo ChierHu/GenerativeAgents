@@ -13,6 +13,9 @@ https://proceedings.neurips.cc/paper_files/paper/2024/hash/a06e129e01e0d2ef853e9
 MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based Inter-Robot Negotiation
 https://arxiv.org/abs/2410.14383
 
+Language Grounded Multi-agent Reinforcement Learning with Human-interpretable Communication
+https://arxiv.org/abs/2409.17348
+
 ## Knowledge Graph 知识图谱
 Zero-shot Knowledge Graph Question Generation via Multi-agent LLMs and Small Models Synthesis
 https://dl.acm.org/doi/abs/10.1145/3627673.3679805
