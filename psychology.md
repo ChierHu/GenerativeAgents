@@ -39,3 +39,7 @@ https://arxiv.org/abs/2410.10863
 ## Data simulation 数据模拟
 Synthesizing Bonds: Enhancing Adult Attachment Predictions with LLM-Generated Data
 https://openreview.net/forum?id=8WpRt9pjeh
+
+## Empathy 同理心
+EmpathyRobot: A Dataset and Benchmark for Empathetic Task Planning of Robotic Agent
+https://openreview.net/forum?id=F6h0v1CTpC
