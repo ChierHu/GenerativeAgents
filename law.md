@@ -13,3 +13,7 @@ https://arxiv.org/abs/2412.18697
 
 BenCourt: A Benchmark and Framework for Court Simulation using LLM-based Agents
 https://openreview.net/forum?id=ky11gOdjLy#discussion
+
+## Traffic Insurance Law 交通保险法
+Large Language Model Agent as Insurance Law Assistant
+https://aaltodoc.aalto.fi/items/4b5b6907-caa7-4a21-89fa-7222bdee695e
