@@ -120,6 +120,10 @@ https://arxiv.org/abs/2410.18603
 MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents
 https://arxiv.org/abs/2410.03450
 
+## Insight 洞察
+MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making
+https://arxiv.org/abs/2409.16686
+
 ## Task 任务
 Explicit-Constrained Single Agent for Enhanced Task-Solving in LLMs
 https://openreview.net/forum?id=GO4Sd6LUuY
