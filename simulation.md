@@ -36,6 +36,16 @@ https://arxiv.org/abs/2412.07788
 
 Sociotechnical Risks of Simulating Humans with Language Model Agents
 https://www.carolynzou.com/files/zou-llm-robustness.pdf
+## Digital Twin 数字孪生/模拟人
+What Limits LLM-based Human Simulation: LLMs or Our Design?
+https://arxiv.org/abs/2501.08579
+
+Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study
+https://arxiv.org/abs/2501.00168
+
+Queering AI: Undoing the Self in the Algorithmic Borderlands
+https://arxiv.org/abs/2410.03713
+
 ## 3D Scenes 3D 场景
 Towards Human-like Virtual Beings: Simulating Human Behavior in 3D Scenes
 https://openreview.net/forum?id=yc38vnXhTh
