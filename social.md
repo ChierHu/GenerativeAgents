@@ -26,6 +26,9 @@ https://ieeexplore.ieee.org/abstract/document/10783321?casa_token=w_vjkiL3G7EAAA
 Can Machines Think Like Humans? A Behavioral Evaluation of LLM-Agents in Dictator Games
 https://arxiv.org/abs/2410.21359
 
+Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View
+https://openreview.net/forum?id=u8VOQVzduP
+
 ## Social Media 社交媒体
 Can Generative Agent-Based Modeling Replicate the Friendship Paradox in Social Media Simulations?
 https://arxiv.org/abs/2502.05919
