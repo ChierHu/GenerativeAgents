@@ -14,6 +14,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017297
 COMMA: A Communicative Multimodal Multi-Agent Benchmark
 https://arxiv.org/abs/2410.07553
 
+{}-bench: A Benchmark for \underline{T}ool-\underline{A}gent-\underline{U}ser Interaction in Real-World Domains
+https://openreview.net/forum?id=roNSXZpUDN
+
 ### Vision 视觉
 ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
 https://arxiv.org/abs/2410.06555
