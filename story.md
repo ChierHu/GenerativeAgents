@@ -27,6 +27,9 @@ SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing A
 From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents
 https://arxiv.org/abs/2411.07965
 
+RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems
+https://arxiv.org/abs/2409.16727
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
