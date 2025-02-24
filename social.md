@@ -136,6 +136,10 @@ https://arxiv.org/abs/2409.19338
 ## Advertising Marketing 广告营销
 A Large-scale Time-aware Agents Simulation for Influencer Selection in Digital Advertising Campaigns
 https://arxiv.org/abs/2411.01143
+## Spread 传播
+Modelling Information Spread using Generative
+Agents
+https://sbp-brims.org/2024/papers/working-papers/Vidnerova_SBP-BRiMS2024_Final_66.pdf
 
 ## Biases 偏见
 Enhancing Fairness in LLM Evaluations: Unveiling and Mitigating Biases in Standard-Answer-Based Evaluations
