@@ -33,6 +33,9 @@ https://arxiv.org/abs/2409.16727
 ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning
 https://arxiv.org/abs/2409.14710
 
+Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing
+https://arxiv.org/abs/2409.11726
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
