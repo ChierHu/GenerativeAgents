@@ -47,6 +47,9 @@ https://openreview.net/forum?id=GBIUbwW9D8
 On the limits of agency in agent-based models
 https://arxiv.org/abs/2409.10568
 
+Synergistic Simulations: Multi-Agent Problem Solving with Large Language Models
+https://arxiv.org/abs/2409.13753
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
