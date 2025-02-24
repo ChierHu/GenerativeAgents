@@ -15,6 +15,10 @@ https://arxiv.org/abs/2407.16741
 Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling
 https://arxiv.org/abs/2412.15305
 
+## Alignment 对齐
+AltDev: Achieving Real-Time Alignment in Multi-Agent Software Development
+https://openreview.net/forum?id=lVUuQhjbRd
+
 ## code evaluation 代码评估
 Can Large Language Models Serve as Evaluators for Code Summarization?
 https://arxiv.org/abs/2412.01333
