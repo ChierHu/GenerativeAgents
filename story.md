@@ -30,6 +30,9 @@ https://arxiv.org/abs/2411.07965
 RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems
 https://arxiv.org/abs/2409.16727
 
+ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning
+https://arxiv.org/abs/2409.14710
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
