@@ -8,3 +8,7 @@ https://ieeexplore.ieee.org/document/10768207
 ## Route 路线
 AI-Driven Day-to-Day Route Choice
 https://arxiv.org/abs/2412.03563
+
+## Autonomous driving 自动驾驶
+ALGPT: Multi-Agent Cooperative Framework for Open-Vocabulary Multi-Modal Auto-Annotating in Autonomous Driving
+https://ieeexplore.ieee.org/abstract/document/10681241
