@@ -33,3 +33,6 @@ https://handcock.github.io/publication/icoms2024/zaslavskyICoMS2024.pdf
 ## Health Management 健康管理
 Large Language Model Agents as Prognostics and Health Management Copilots
 https://papers.phmsociety.org/index.php/phmconf/article/view/3906
+## Benchmark 基准
+MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework
+https://arxiv.org/abs/2410.01553
