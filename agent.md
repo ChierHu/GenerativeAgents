@@ -44,6 +44,9 @@ https://arxiv.org/abs/2410.12853
 Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning
 https://openreview.net/forum?id=GBIUbwW9D8
 
+On the limits of agency in agent-based models
+https://arxiv.org/abs/2409.10568
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
