@@ -18,3 +18,6 @@ https://arxiv.org/abs/2412.20505
 ## Smart City 智慧城市
 Leveraging Meta AI, Spatial AI, and Character AI Model for Generative Smart Cities
 https://scholarspace.manoa.hawaii.edu/items/4082c992-41ba-4c72-a112-7b45951d3a95
+
+OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents
+https://arxiv.org/abs/2410.21286
