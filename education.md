@@ -16,6 +16,8 @@ https://ieeexplore.ieee.org/abstract/document/10826103?casa_token=3feWGgqNGu4AAA
 AI-Enhanced Ecological Learning Spaces
 https://link.springer.com/chapter/10.1007/978-3-031-71232-6_2
 
+ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning
+https://arxiv.org/abs/2410.02052
 
 ## Teacher Training 教师培训
 Teaching via LLM-enhanced simulations: Authenticity and barriers to suspension of disbelief
