@@ -1,5 +1,5 @@
 # Games 游戏/博弈
-## 视频游戏 video games
+## video games 电子游戏
 Large Language Models and Games: A Survey and Roadmap
 https://antoniosliapis.com/articles/llm_and_games.php
 
@@ -11,6 +11,9 @@ https://outbox.eait.uq.edu.au/uqsville/OzCHI2024/Long%20Papers/Mental%20State%20
 
 A concise review of intelligent game agent
 https://www.sciencedirect.com/science/article/pii/S1875952124002623?casa_token=06V-tqT4AAIAAAAA:6a4uNOhJFE1Om5tU6L8HNwEc_INPXv88I94M_MpLPAonJMFjN44HN3WFN9SvDNREOS3iF_Xs3Gf6vg
+### Player 玩家
+LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents
+https://arxiv.org/abs/2410.02829
 
 ## Board Games 桌游
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
