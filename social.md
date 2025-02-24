@@ -29,6 +29,10 @@ https://arxiv.org/abs/2410.21359
 Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View
 https://openreview.net/forum?id=u8VOQVzduP
 
+## social 社交
+Estuary: A Framework For Building Multimodal Low-Latency Real-Time Socially Interactive Agents
+https://dl.acm.org/doi/abs/10.1145/3652988.3696198
+
 ## Social Media 社交媒体
 Can Generative Agent-Based Modeling Replicate the Friendship Paradox in Social Media Simulations?
 https://arxiv.org/abs/2502.05919
