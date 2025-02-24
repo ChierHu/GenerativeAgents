@@ -116,3 +116,7 @@ https://arxiv.org/abs/2410.18603
 ## Retrieve 检索
 MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents
 https://arxiv.org/abs/2410.03450
+
+## Task 任务
+Explicit-Constrained Single Agent for Enhanced Task-Solving in LLMs
+https://openreview.net/forum?id=GO4Sd6LUuY
