@@ -123,6 +123,9 @@ https://arxiv.org/abs/2412.04629
 Simulating Social Network with LLM Agents: An Analysis of Information Propagation and Echo Chambers
 https://link.springer.com/chapter/10.1007/978-981-96-0178-3_5
 
+Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks
+https://arxiv.org/abs/2409.19338
+
 ## Advertising Marketing 广告营销
 A Large-scale Time-aware Agents Simulation for Influencer Selection in Digital Advertising Campaigns
 https://arxiv.org/abs/2411.01143
