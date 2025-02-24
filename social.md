@@ -74,12 +74,7 @@ https://arxiv.org/abs/2411.04578
 I Want to Break Free! Persuasion and Anti-Social Behavior of LLMs in Multi-Agent Settings with Social Hierarchy
 https://arxiv.org/abs/2410.07109
 
-## E-commerce 电商
-LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation
-https://arxiv.org/abs/2412.09237
 
-TWO SIDES OF THE SAME COIN: AN E-COMMERCE ECOSYSTEM AGENT-BASED SIMULATION
-https://aisel.aisnet.org/wi2024/59/
 
 ## socialize 社交
 LLM-AIDSim: LLM-Enhanced Agent-Based Influence Diffusion Simulation in Social Networks
@@ -133,9 +128,6 @@ https://link.springer.com/chapter/10.1007/978-981-96-0178-3_5
 Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks
 https://arxiv.org/abs/2409.19338
 
-## Advertising Marketing 广告营销
-A Large-scale Time-aware Agents Simulation for Influencer Selection in Digital Advertising Campaigns
-https://arxiv.org/abs/2411.01143
 ## Spread 传播
 Modelling Information Spread using Generative
 Agents
