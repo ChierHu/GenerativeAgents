@@ -26,3 +26,7 @@ https://dl.acm.org/doi/abs/10.1145/3677388.3696321
 SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents
 From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents
 https://arxiv.org/abs/2411.07965
+
+## Novel 小说
+Agents' Room: Narrative Generation through Multi-step Collaboration
+https://arxiv.org/abs/2410.02603
