@@ -1,4 +1,4 @@
-# User/Human Simulation 用户/人类模拟
+# Human Simulation 人类模拟
 
 Personas within Parameters: Fine-Tuning Small Language Models with Low-Rank Adapters to Mimic User Behaviors
 https://openreview.net/forum?id=WMtvukapVW
@@ -36,6 +36,12 @@ https://arxiv.org/abs/2412.07788
 
 Sociotechnical Risks of Simulating Humans with Language Model Agents
 https://www.carolynzou.com/files/zou-llm-robustness.pdf
+
+## User Simulation 用户模拟
+
+Simulating Authentic User Personas to Generate Analytics for Evaluating Digital Products
+https://www.tdcommons.org/dpubs_series/7372/
+
 ## Digital Twin 数字孪生/模拟人
 What Limits LLM-based Human Simulation: LLMs or Our Design?
 https://arxiv.org/abs/2501.08579
