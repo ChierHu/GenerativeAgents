@@ -25,3 +25,6 @@ https://dl.acm.org/doi/abs/10.1145/3627673.3679105
 
 A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges
 https://link.springer.com/article/10.1007/s44336-024-00009-2
+
+Large Model Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends
+https://arxiv.org/abs/2409.14457
