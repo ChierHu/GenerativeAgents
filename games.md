@@ -14,6 +14,10 @@ https://www.sciencedirect.com/science/article/pii/S1875952124002623?casa_token=0
 ### Player 玩家
 LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents
 https://arxiv.org/abs/2410.02829
+
+EFFICIENTLY IMITATING HUMAN MOVEMENT IN COUNTER-STRIKE
+https://www.proquest.com/docview/3149119064?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+
 ### NPC
 Primjena umjetne inteligencije u dinamičkom modeliranju ponašanja neigrivih likova
 https://repozitorij.unios.hr/islandora/object/etfos:4992
