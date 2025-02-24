@@ -42,6 +42,9 @@ https://arxiv.org/abs/2502.08599
 OASIS: Open Agent Social Interaction Simulations with One Million Agents
 https://arxiv.org/abs/2411.11581
 
+OASIS: Open Agents Social Interaction Simulations on a Large Scale
+https://openreview.net/forum?id=JBzTculaVV
+
 ## Conformity 一致性
 Investigating social alignment via mirroring in a system of interacting language models
 https://arxiv.org/abs/2412.06834
