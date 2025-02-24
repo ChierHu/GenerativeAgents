@@ -51,9 +51,4 @@ Personalized decision-making for agents in face-to-face interaction in virtual r
 https://link.springer.com/article/10.1007/s00530-024-01591-7
 
 
-## Digital Twin 数字孪生/模拟人
-What Limits LLM-based Human Simulation: LLMs or Our Design?
-https://arxiv.org/abs/2501.08579
 
-Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study
-https://arxiv.org/abs/2501.00168
