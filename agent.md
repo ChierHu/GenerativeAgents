@@ -123,3 +123,6 @@ https://arxiv.org/abs/2410.03450
 ## Task 任务
 Explicit-Constrained Single Agent for Enhanced Task-Solving in LLMs
 https://openreview.net/forum?id=GO4Sd6LUuY
+
+Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective
+https://arxiv.org/abs/2409.18028
