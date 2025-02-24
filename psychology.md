@@ -2,6 +2,10 @@
 ToM-agent: Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection
 https://openreview.net/forum?id=pxwJU6rTAv
 
+## developmental psychology 发展心理学
+The SocialAI school: a framework leveraging developmental psychology toward artificial socio-cultural agents
+https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1396359/full
+
 ## counseling 心理咨询
 Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection
 https://arxiv.org/abs/2501.15355
