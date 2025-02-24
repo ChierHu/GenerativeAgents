@@ -133,3 +133,7 @@ https://openreview.net/forum?id=GO4Sd6LUuY
 
 Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective
 https://arxiv.org/abs/2409.18028
+
+## Prompt 提示词
+Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts
+https://arxiv.org/abs/2409.13449
