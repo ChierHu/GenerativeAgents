@@ -96,6 +96,9 @@ https://elar.urfu.ru/handle/10995/140366
 Chatbot Agents Displaying Non-factive Reasoning Enhance Expectation Confirmation
 https://aisel.aisnet.org/icis2024/humtechinter/humtechinter/8/
 
+Textualized Agent-Style Reasoning for Complex Tasks by Multiple Round LLM Generation
+https://arxiv.org/abs/2409.12411
+
 ### Causal 因果 
 
 ADAM: An Embodied Causal Agent in Open-World Environments
