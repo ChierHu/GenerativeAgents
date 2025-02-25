@@ -20,6 +20,12 @@ https://link.springer.com/chapter/10.1007/978-3-031-78104-9_24
 Designing LLM-Agents with Personalities: A Psychometric Approach
 https://arxiv.org/abs/2410.19238
 
+## Emotions/Mood 情感/情绪
+Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval
+https://arxiv.org/abs/2410.23041
+
+Modelling Human-like Emotions with Generative Agents
+http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Regan_etal.pdf
 
 ## User Research 用户研究
 Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant
