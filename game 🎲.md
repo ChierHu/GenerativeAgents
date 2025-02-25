@@ -11,6 +11,11 @@ https://outbox.eait.uq.edu.au/uqsville/OzCHI2024/Long%20Papers/Mental%20State%20
 
 A concise review of intelligent game agent
 https://www.sciencedirect.com/science/article/pii/S1875952124002623?casa_token=06V-tqT4AAIAAAAA:6a4uNOhJFE1Om5tU6L8HNwEc_INPXv88I94M_MpLPAonJMFjN44HN3WFN9SvDNREOS3iF_Xs3Gf6vg
+
+### Game Engine 游戏引擎
+A Text-to-Game Engine for UGC-Based Role-Playing Games
+https://arxiv.org/abs/2407.08195
+
 ### Player 玩家
 LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents
 https://arxiv.org/abs/2410.02829
