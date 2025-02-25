@@ -65,10 +65,10 @@ https://arxiv.org/abs/2408.02920
 Self-learning restriction-based governance of multi-agent systems 
 https://www.proquest.com/docview/3132883256?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
 
-## Multimodality 多模态
-### vision-language models 视觉语言模型
-VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
-https://arxiv.org/abs/2410.16400
+Language Agents: From Next-Token Prediction to Digital Automation
+https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+
+
 
 ## API
 Creating an LLM-based AI-agent: A high-level methodology towards enhancing LLMs with APIs
@@ -117,6 +117,8 @@ https://arxiv.org/abs/2501.00383
 
 Retrieval-Augmented Decision Transformer: External Memory for In-context RL
 https://arxiv.org/abs/2410.07071
+
+
 
 ## Innovation 创新
 GAI: Generative Agents for Innovation
