@@ -56,6 +56,9 @@ https://ieeexplore.ieee.org/abstract/document/10771289
 MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems
 https://arxiv.org/abs/2408.09955
 
+IDEA: Enhancing the Rule Learning Ability of Large Language Model Agent through Induction, Deduction, and Abduction
+https://arxiv.org/abs/2408.10455
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
