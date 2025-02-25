@@ -2,6 +2,9 @@
 「0→ 1」 の事業案検討プロセスにおける生成 AI 活用に関する試論
 https://www.jstage.jst.go.jp/article/globis/3/0/3_7/_article/-char/ja/
 
+## Enterprise 企业
+Enterprise Design, Operations and Computing with AI Agents: Accountability Using DSL
+https://link.springer.com/chapter/10.1007/978-3-031-78338-8_2
 
 ## E-commerce 电商
 LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation
