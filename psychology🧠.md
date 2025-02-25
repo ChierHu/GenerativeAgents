@@ -30,8 +30,13 @@ http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Regan_etal.pdf
 Self-Emotion Blended Dialogue Generation in Social Simulation Agents
 https://arxiv.org/abs/2408.01633
 
+## First-person Experiences 第一人称体验
+
 A New Type of Foundation Model Based on Recordings of People's Emotions and Physiology
 https://arxiv.org/abs/2408.00030
+
+Recording First-person Experiences to Build a New Type of Foundation Model
+https://arxiv.org/abs/2408.02680
 
 ## User Research 用户研究
 Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant
