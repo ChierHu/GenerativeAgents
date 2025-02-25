@@ -23,6 +23,9 @@ https://arxiv.org/abs/2411.18526
 Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents
 https://arxiv.org/abs/2411.09523
 
+CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence
+https://openreview.net/forum?id=DOMP5AgwQz#discussion
+
 ## Incident Response 事件响应
 Multi-Agent Collaboration in Incident Response with Large Language Models
 https://arxiv.org/abs/2412.00652
