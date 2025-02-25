@@ -20,6 +20,9 @@ https://openreview.net/forum?id=roNSXZpUDN
 Analyzing Probabilistic Methods for Evaluating Agent Capabilities
 https://arxiv.org/abs/2409.16125
 
+Evaluation of Different Large Language Model Agent Frameworks for Design Engineering Tasks
+https://www.designsociety.org/publication/47666/Evaluation+of+Different+Large+Language+Model+Agent+Frameworks+for+Design+Engineering+Tasks
+
 ### Vision 视觉
 ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
 https://arxiv.org/abs/2410.06555
