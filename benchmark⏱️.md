@@ -6,6 +6,9 @@ https://arxiv.org/abs/2502.04349
 The New Turing Test: The Six Levels of Autonomous AI Robots and Human-Likeness, Superiority, and Benevolence as Measures of Autonomous AI
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5073115
 
+IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering
+https://arxiv.org/abs/2408.13545
+
 ## Agent Evaluation 代理评估
 
 Evaluating The Architecture Of Large Language Model-Based Agents
