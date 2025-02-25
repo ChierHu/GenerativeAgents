@@ -50,6 +50,9 @@ https://arxiv.org/abs/2410.10863
 Capturing Individuals’ Communication Styles Using Large Language Models
 http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Ishikawa_etal.pdf
 
+How LLMs can evolve various personality traits within social dilemmas
+http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Suzuki_Arita.pdf
+
 ## Data simulation 数据模拟
 Synthesizing Bonds: Enhancing Adult Attachment Predictions with LLM-Generated Data
 https://openreview.net/forum?id=8WpRt9pjeh
