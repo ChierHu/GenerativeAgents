@@ -215,6 +215,9 @@ https://ieeexplore.ieee.org/abstract/document/10825910?casa_token=9pM7RkNiZcwAAA
 MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents
 https://arxiv.org/abs/2410.03450
 
+Retrieval-Enhanced Machine Learning: Synthesis and Opportunities
+https://dl.acm.org/doi/abs/10.1145/3673791.3698439
+
 ## Insight 洞察
 MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making
 https://arxiv.org/abs/2409.16686
