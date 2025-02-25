@@ -5,6 +5,9 @@ https://openreview.net/forum?id=pxwJU6rTAv
 Large Language Models May Capture Human Preferences and Decisions: The Persona Hypothesis 
 https://www.researchgate.net/profile/Navid-Ghaffarzadegan/publication/382489800_Large_Language_Models_May_Capture_Human_Preferences_and_Decisions_The_Persona_Hypothesis/links/66a0176927b00e0ca43ddd1a/Large-Language-Models-May-Capture-Human-Preferences-and-Decisions-The-Persona-Hypothesis.pdf
 
+Grounding Communication in Real-World Action
+https://www.proquest.com/docview/3065206631?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+
 ## developmental psychology 发展心理学
 The SocialAI school: a framework leveraging developmental psychology toward artificial socio-cultural agents
 https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1396359/full
