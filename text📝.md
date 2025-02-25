@@ -11,6 +11,9 @@ https://arxiv.org/abs/2501.16865
 DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing
 https://arxiv.org/abs/2501.14371
 
+Using Generative Agents to Create Tip Sheets for Investigative Data Reporting
+https://arxiv.org/abs/2409.07286
+
 ## Conversation 对话
 Beyond Turn-taking: Introducing Text-based Overlap into Human-LLM Interactions
 https://arxiv.org/abs/2501.18103
