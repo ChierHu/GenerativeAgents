@@ -1,4 +1,9 @@
 # multimodal 多模态
+
+### vision-language models 视觉语言模型
+VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
+https://arxiv.org/abs/2410.16400
+
 ## Video 视频
 Temporal Preference Optimization for Long-Form Video Understanding
 https://arxiv.org/abs/2501.13919
