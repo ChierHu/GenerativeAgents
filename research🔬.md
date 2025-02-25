@@ -30,3 +30,7 @@ https://arxiv.org/abs/2412.10415
 ## Scientists 科学家
 Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
 https://arxiv.org/abs/2410.09403
+
+## Particle Accelerators 粒子加速器 
+Towards Agentic AI on Particle Accelerators
+https://arxiv.org/abs/2409.06336
