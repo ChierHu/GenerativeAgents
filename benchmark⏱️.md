@@ -9,6 +9,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5073115
 IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering
 https://arxiv.org/abs/2408.13545
 
+CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions
+https://aclanthology.org/2024.findings-acl.928/
+
 ## Agent Evaluation 代理评估
 
 Evaluating The Architecture Of Large Language Model-Based Agents
