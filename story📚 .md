@@ -39,6 +39,9 @@ https://arxiv.org/abs/2409.11726
 Thinking Before Speaking: A Role-playing Model with Mindset
 https://arxiv.org/abs/2409.13752
 
+LLM 과 상호작용하는 RAG 기반 AI 캐릭터
+https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11949322
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
