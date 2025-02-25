@@ -29,6 +29,9 @@ https://arxiv.org/abs/2410.21359
 Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View
 https://openreview.net/forum?id=u8VOQVzduP
 
+Large Language Model agents can coordinate beyond human scale
+https://arxiv.org/abs/2409.02822
+
 ## social 社交
 Estuary: A Framework For Building Multimodal Low-Latency Real-Time Socially Interactive Agents
 https://dl.acm.org/doi/abs/10.1145/3652988.3696198
