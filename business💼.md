@@ -20,3 +20,7 @@ https://arxiv.org/abs/2411.01143
 ## retail 零售
 Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories
 https://arxiv.org/abs/2409.12670
+
+## Contract 合同
+Composable Contracts for Multi-Agent Coordination
+https://openreview.net/forum?id=hq0lZ9u68G
