@@ -40,6 +40,10 @@ https://openreview.net/forum?id=p3T9CtEu1S
 
 Exploring the Personality Traits of LLMs through Latent Features Steering
 https://arxiv.org/abs/2410.10863
+
+Capturing Individuals’ Communication Styles Using Large Language Models
+http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Ishikawa_etal.pdf
+
 ## Data simulation 数据模拟
 Synthesizing Bonds: Enhancing Adult Attachment Predictions with LLM-Generated Data
 https://openreview.net/forum?id=8WpRt9pjeh
