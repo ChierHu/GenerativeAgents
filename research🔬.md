@@ -34,3 +34,7 @@ https://arxiv.org/abs/2410.09403
 ## Particle Accelerators 粒子加速器 
 Towards Agentic AI on Particle Accelerators
 https://arxiv.org/abs/2409.06336
+
+## fluid dynamics 流体动力学
+MetaOpenFOAM: an LLM-based multi-agent framework for CFD
+https://arxiv.org/abs/2407.21320
