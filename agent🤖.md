@@ -53,6 +53,9 @@ https://arxiv.org/abs/2409.13753
 Enhancing Efficiency and Flexibility of Rapid Prototyping for Scalable Multimodal Intelligent Agents
 https://ieeexplore.ieee.org/abstract/document/10771289
 
+MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems
+https://arxiv.org/abs/2408.09955
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
