@@ -22,6 +22,10 @@ https://collisteru.net/docs/thesis_prop_redacted.pdf
 From Words to Worlds: Transforming One-line Prompts into Multi-modal Digital Stories with LLM Agents
 https://dl.acm.org/doi/abs/10.1145/3677388.3696321
 
+## Worldbuilding 世界构建
+Patchview: LLM-powered Worldbuilding with Generative Dust and Magnet Visualization
+https://dl.acm.org/doi/abs/10.1145/3654777.3676352?casa_token=70F80WSZxi4AAAAA:htgfWrRTtl6SRsY1KYdebSL68A0lCY3hApUY9j1DhNP3DdHgusfkAH_vA9aQ_08_pcbIW2hVi_kGDeM
+
 ## Drama 戏剧
 Drama Engine: A Framework for Narrative Agents
 https://arxiv.org/abs/2408.11574
