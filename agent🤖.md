@@ -68,6 +68,8 @@ https://www.proquest.com/docview/3132883256?pq-origsite=gscholar&fromopenview=tr
 Language Agents: From Next-Token Prediction to Digital Automation
 https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
 
+Artificial Agency and Large Language Models
+https://arxiv.org/abs/2407.16190
 
 
 ## API
