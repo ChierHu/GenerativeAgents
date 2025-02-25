@@ -58,6 +58,9 @@ https://arxiv.org/abs/2411.11581
 OASIS: Open Agents Social Interaction Simulations on a Large Scale
 https://openreview.net/forum?id=JBzTculaVV
 
+Agent-Based Modelling Meets Generative AI in Social Network Simulations
+https://link.springer.com/chapter/10.1007/978-3-031-78541-2_10
+
 ## Conformity 一致性
 Investigating social alignment via mirroring in a system of interacting language models
 https://arxiv.org/abs/2412.06834
