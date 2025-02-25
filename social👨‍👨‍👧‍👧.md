@@ -138,6 +138,8 @@ https://link.springer.com/chapter/10.1007/978-981-96-0178-3_5
 Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks
 https://arxiv.org/abs/2409.19338
 
+LLMs generate structurally realistic social networks but overestimate political homophily
+https://arxiv.org/abs/2408.16629
 ## Spread 传播
 Modelling Information Spread using Generative
 Agents
