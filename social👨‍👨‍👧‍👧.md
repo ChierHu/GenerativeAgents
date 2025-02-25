@@ -33,6 +33,9 @@ https://openreview.net/forum?id=u8VOQVzduP
 Estuary: A Framework For Building Multimodal Low-Latency Real-Time Socially Interactive Agents
 https://dl.acm.org/doi/abs/10.1145/3652988.3696198
 
+Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence
+https://arxiv.org/abs/2409.06750
+
 ## Social Media 社交媒体
 Can Generative Agent-Based Modeling Replicate the Friendship Paradox in Social Media Simulations?
 https://arxiv.org/abs/2502.05919
