@@ -22,6 +22,10 @@ https://collisteru.net/docs/thesis_prop_redacted.pdf
 From Words to Worlds: Transforming One-line Prompts into Multi-modal Digital Stories with LLM Agents
 https://dl.acm.org/doi/abs/10.1145/3677388.3696321
 
+## Drama 戏剧
+Drama Engine: A Framework for Narrative Agents
+https://arxiv.org/abs/2408.11574
+
 ## Role-Playing 角色扮演
 SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents
 From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents
