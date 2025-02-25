@@ -44,6 +44,9 @@ https://arxiv.org/abs/2410.10863
 Synthesizing Bonds: Enhancing Adult Attachment Predictions with LLM-Generated Data
 https://openreview.net/forum?id=8WpRt9pjeh
 
-## Empathy 同理心
+## Empathy 同理心 共情
 EmpathyRobot: A Dataset and Benchmark for Empathetic Task Planning of Robotic Agent
 https://openreview.net/forum?id=F6h0v1CTpC
+
+LLM-Based Empathetic Response Through Psychologist-Agent Debate
+https://link.springer.com/chapter/10.1007/978-981-97-7232-2_14
