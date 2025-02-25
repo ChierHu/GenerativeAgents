@@ -27,6 +27,9 @@ https://arxiv.org/abs/2410.23041
 Modelling Human-like Emotions with Generative Agents
 http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Regan_etal.pdf
 
+Self-Emotion Blended Dialogue Generation in Social Simulation Agents
+https://arxiv.org/abs/2408.01633
+
 ## User Research 用户研究
 Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant
 https://arxiv.org/abs/2502.01390
