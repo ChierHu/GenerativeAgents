@@ -74,7 +74,8 @@ https://arxiv.org/abs/2411.04578
 I Want to Break Free! Persuasion and Anti-Social Behavior of LLMs in Multi-Agent Settings with Social Hierarchy
 https://arxiv.org/abs/2410.07109
 
-
+Fusing Dynamics Equation: A Social Opinions Prediction Algorithm with LLM-based Agents
+https://arxiv.org/abs/2409.08717
 
 ## socialize 社交
 LLM-AIDSim: LLM-Enhanced Agent-Based Influence Diffusion Simulation in Social Networks
