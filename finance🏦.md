@@ -10,6 +10,7 @@ https://arxiv.org/abs/2502.01506
 
 Scaling AI Adoption in Finance: Modelling Framework : and Implementation Study
 https://conferences.big.tuwien.ac.at/biweek2024/pdfs/biweek2024_paper_118.pdf
+https://link.springer.com/chapter/10.1007/978-3-031-79059-1_14
 
 Generative AI Agents for Knowledge Work Augmentation in Finance
 https://www.annualreviews.org/content/journals/10.1146/annurev-control-022823-033813
