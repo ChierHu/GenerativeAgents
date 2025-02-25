@@ -36,6 +36,9 @@ https://arxiv.org/abs/2502.04686
 PsyPlay: Personality-Infused Role-Playing Conversational Agents
 https://arxiv.org/abs/2502.03821
 
+Outwit, Outplay, Out-Generate: A Framework for Designing Strategic Generative Agents in Competitive Environments
+https://wordplay-workshop.github.io/pdfs/18.pdf
+
 ## Game Theory 博弈论
 Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game
 https://arxiv.org/abs/2501.19398
