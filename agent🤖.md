@@ -50,6 +50,9 @@ https://arxiv.org/abs/2409.10568
 Synergistic Simulations: Multi-Agent Problem Solving with Large Language Models
 https://arxiv.org/abs/2409.13753
 
+Enhancing Efficiency and Flexibility of Rapid Prototyping for Scalable Multimodal Intelligent Agents
+https://ieeexplore.ieee.org/abstract/document/10771289
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
