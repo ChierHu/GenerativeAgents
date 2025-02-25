@@ -14,6 +14,9 @@ https://arxiv.org/abs/2407.16741
 
 Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling
 https://arxiv.org/abs/2412.15305
+## Process 流程
+Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System
+https://arxiv.org/abs/2409.06568
 
 ## Alignment 对齐
 AltDev: Achieving Real-Time Alignment in Multi-Agent Software Development
