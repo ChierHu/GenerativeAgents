@@ -59,6 +59,9 @@ https://arxiv.org/abs/2408.09955
 IDEA: Enhancing the Rule Learning Ability of Large Language Model Agent through Induction, Deduction, and Abduction
 https://arxiv.org/abs/2408.10455
 
+A Taxonomy of Architecture Options for Foundation Model-based Agents: Analysis and Decision Model
+https://arxiv.org/abs/2408.02920
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
