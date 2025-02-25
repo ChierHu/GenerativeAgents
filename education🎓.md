@@ -35,6 +35,9 @@ https://www.sciencedirect.com/science/article/abs/pii/S1096751624000526?casa_tok
 Students Rather Than Experts: A New AI For Education Pipeline To Model More Human-Like And Personalised Early Adolescences
 https://arxiv.org/abs/2410.15701
 
+Enhancing Pre-service Teachers' Competence with a Generative Artificial Intelligence-Enhanced Virtual Reality Simulation
+https://www.researchgate.net/profile/Sumin-Hong-10/publication/383343662_Enhancing_Pre-service_Teachers'_Competence_with_a_Generative_Artificial_Intelligence-Enhanced_Virtual_Reality_Simulation/links/66c8eb6a97265406eaa641c9/Enhancing-Pre-service-Teachers-Competence-with-a-Generative-Artificial-Intelligence-Enhanced-Virtual-Reality-Simulation.pdf
+
 ## Computer Education 计算机教育
 The Role of Generative AI in Software Student CollaborAItion
 https://arxiv.org/abs/2501.14084
