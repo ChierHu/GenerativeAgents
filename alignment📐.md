@@ -8,3 +8,6 @@ https://arxiv.org/abs/2411.19211
 
 Moral Alignment for LLM Agents
 https://arxiv.org/abs/2410.01639
+
+Innovative Approaches to Enhancing Safety and Ethical AI Interactions in Digital Environments
+https://aclanthology.org/2024.yrrsds-1.24/
