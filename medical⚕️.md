@@ -39,3 +39,7 @@ https://papers.phmsociety.org/index.php/phmconf/article/view/3906
 ## Benchmark 基准
 MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework
 https://arxiv.org/abs/2410.01553
+
+## Autism Spectrum Disorder 自闭症
+A Qualitative Investigation to Design Empathetic Agents as Conversation Partners for People with Autism Spectrum Disorder
+https://ieeexplore.ieee.org/abstract/document/10645560?casa_token=GY8qzzyrHZIAAAAA:QARsFcUMQM0RmuNnOqb2oZ-Sx_cDriGDPcoBOdwHtv5NsVS4-JrW1-mL8tVXYxuCNivVyb82ofY
