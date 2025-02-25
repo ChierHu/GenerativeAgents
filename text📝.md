@@ -17,3 +17,7 @@ https://arxiv.org/abs/2409.07286
 ## Conversation 对话
 Beyond Turn-taking: Introducing Text-based Overlap into Human-LLM Interactions
 https://arxiv.org/abs/2501.18103
+
+## poetry 诗歌
+LLM-based multi-agent poetry generation in non-cooperative environments
+https://arxiv.org/abs/2409.03659
