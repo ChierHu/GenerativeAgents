@@ -11,6 +11,10 @@ https://www.sciencedirect.com/science/article/pii/S1571064524001386
 PersonaFlow: Boosting Research Ideation with LLM-Simulated Expert Personas
 https://arxiv.org/abs/2409.12538
 
+## Research Repositories 研究存储库
+SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories
+https://arxiv.org/abs/2409.07440
+
 ## Simulation 模拟仿真
 AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA
 https://arxiv.org/abs/2410.15222
