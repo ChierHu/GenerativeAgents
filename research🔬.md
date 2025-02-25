@@ -31,10 +31,15 @@ https://arxiv.org/abs/2412.10415
 Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
 https://arxiv.org/abs/2410.09403
 
-## Particle Accelerators 粒子加速器 
+## 物理学 physics
+### Particle Accelerators 粒子加速器 
 Towards Agentic AI on Particle Accelerators
 https://arxiv.org/abs/2409.06336
 
-## fluid dynamics 流体动力学
+### fluid dynamics 流体动力学
 MetaOpenFOAM: an LLM-based multi-agent framework for CFD
 https://arxiv.org/abs/2407.21320
+
+## chemical 化学
+A multi-agent-driven robotic AI chemist enabling autonomous chemical research on demand
+https://chemrxiv.org/engage/chemrxiv/article-details/66a625c001103d79c5043c48
