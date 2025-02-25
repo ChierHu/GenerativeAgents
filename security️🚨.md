@@ -55,6 +55,9 @@ https://publications.cispa.de/articles/conference_contribution/YuraScanner_Lever
 A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns
 https://arxiv.org/abs/2410.16155
 
+RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent
+https://arxiv.org/abs/2407.16667
+
 ## Fake News/Rumors 假新闻/谣言
 From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution
 https://arxiv.org/abs/2410.19064
