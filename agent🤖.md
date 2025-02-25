@@ -62,6 +62,9 @@ https://arxiv.org/abs/2408.10455
 A Taxonomy of Architecture Options for Foundation Model-based Agents: Analysis and Decision Model
 https://arxiv.org/abs/2408.02920
 
+Self-learning restriction-based governance of multi-agent systems 
+https://www.proquest.com/docview/3132883256?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+
 ## Multimodality 多模态
 ### vision-language models 视觉语言模型
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
