@@ -49,6 +49,9 @@ https://arxiv.org/abs/2501.08579
 Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study
 https://arxiv.org/abs/2501.00168
 
+Y Social: an LLM-powered Social Media Digital Twin
+https://arxiv.org/abs/2408.00818
+
 Queering AI: Undoing the Self in the Algorithmic Borderlands
 https://arxiv.org/abs/2410.03713
 
