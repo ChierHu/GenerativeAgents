@@ -30,6 +30,9 @@ https://openreview.net/forum?id=DOMP5AgwQz#discussion
 PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection
 https://arxiv.org/abs/2408.10738
 
+Automated Phishing Detection Using URLs and Webpages
+https://arxiv.org/abs/2408.01667
+
 ## Incident Response 事件响应
 Multi-Agent Collaboration in Incident Response with Large Language Models
 https://arxiv.org/abs/2412.00652
