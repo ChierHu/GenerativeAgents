@@ -31,3 +31,6 @@ https://arxiv.org/abs/2409.14457
 
 A Hierarchical Model for Complex Adaptive System: From Adaptive Agent to AI Society
 https://dl.acm.org/doi/abs/10.1145/3686802
+
+A Survey on Large Language Model based Autonomous Agents
+https://arxiv.org/pdf/2308.11432
