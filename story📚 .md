@@ -59,3 +59,10 @@ https://arxiv.org/abs/2406.17962
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
+
+## Creative 创造/创新
+Generative AI Can Be Creative Too
+https://link.springer.com/chapter/10.1007/978-3-031-65572-2_1
+
+Exploring the Potential for Generative AI-based Conversational Cues for Real-Time Collaborative Ideation
+https://dl.acm.org/doi/abs/10.1145/3635636.3656184
