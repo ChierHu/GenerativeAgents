@@ -29,6 +29,9 @@ https://arxiv.org/abs/2409.16125
 Evaluation of Different Large Language Model Agent Frameworks for Design Engineering Tasks
 https://www.designsociety.org/publication/47666/Evaluation+of+Different+Large+Language+Model+Agent+Frameworks+for+Design+Engineering+Tasks
 
+CRDA: Content Risk Drift Assessment of Large Language Models through Adversarial Multi-Agent Interaction
+https://ieeexplore.ieee.org/abstract/document/10650172?casa_token=_bkFVuq1oKkAAAAA:twRShyUs8WaD_clCko_4LeoO2s37Qwb9YtokiiHXPmwlg5_qxEwSDI2jZZomBi6x6Cd3P61xvw
+
 ### Vision 视觉
 ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
 https://arxiv.org/abs/2410.06555
