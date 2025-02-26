@@ -55,6 +55,9 @@ https://arxiv.org/abs/2502.01390
 Designing and Evaluating AI Personas for Customer and User Understanding - Exploring Use Cases and Attitudes in an Industrial, B2B Context
 https://aaltodoc.aalto.fi/items/cc33f18a-7818-4572-a4bc-2b066d2ea710
 
+On LLM Wizards: Identifying Large Language Models' Behaviors for Wizard of Oz Experiments
+https://dl.acm.org/doi/abs/10.1145/3652988.3673967
+
 ## Individuality/Personality 个性/性格
 Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities
 https://arxiv.org/abs/2411.03252
