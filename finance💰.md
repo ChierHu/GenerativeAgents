@@ -18,6 +18,9 @@ https://www.annualreviews.org/content/journals/10.1146/annurev-control-022823-03
 MiniFed : Integrating LLM-based Agentic-Workflow for Simulating FOMC Meeting
 https://arxiv.org/abs/2410.18012
 
+Simulating Financial Market via Large Language Model based Agents
+https://arxiv.org/abs/2406.19966
+
 ## Accounting Auditing 会计审计
 Multi-Agent Systems and Generative Agent-Based Models in Accounting and Auditing
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052723
