@@ -23,6 +23,9 @@ https://arxiv.org/abs/2410.02829
 EFFICIENTLY IMITATING HUMAN MOVEMENT IN COUNTER-STRIKE
 https://www.proquest.com/docview/3149119064?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
 
+Collective Innovation in Groups of Large Language Models 
+https://direct.mit.edu/isal/proceedings/isal2024/36/16/123452
+
 ### NPC
 Primjena umjetne inteligencije u dinamičkom modeliranju ponašanja neigrivih likova
 https://repozitorij.unios.hr/islandora/object/etfos:4992
