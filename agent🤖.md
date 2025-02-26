@@ -141,9 +141,7 @@ https://arxiv.org/abs/2412.18899
 
 EscapeBench: Pushing Language Models to Think Outside the Box
 https://arxiv.org/abs/2412.13549
-## Creative 创造
-Generative AI Can Be Creative Too
-https://link.springer.com/chapter/10.1007/978-3-031-65572-2_1
+
 
 ## conversation 对话
 Personalized Large Language Model Assistant with Evolving Conditional Memory
