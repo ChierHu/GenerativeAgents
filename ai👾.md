@@ -30,4 +30,8 @@ Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
 Recommender Systems Meet Large Language Model Agents: A Survey
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062105
 
-FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing https://arxiv.org/abs/2410.20027
+FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing 
+https://arxiv.org/abs/2410.20027
+
+MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models
+https://dl.acm.org/doi/abs/10.1145/3627673.3679599?casa_token=eK-gIhpV5VcAAAAA:GsA2NbsYVaEqJ5w2Lhshxb_rHNqUVD014KWuTAPNu77AsQ4UPbXEN-kal1-2Assaw_n4IK6GWiW0bw
