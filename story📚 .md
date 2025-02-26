@@ -53,6 +53,9 @@ https://arxiv.org/abs/2409.13752
 LLM 과 상호작용하는 RAG 기반 AI 캐릭터
 https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11949322
 
+Crafting Customisable Characters with LLMs: Introducing SimsChat, a Persona-Driven Role-Playing Agent Framework
+https://arxiv.org/abs/2406.17962
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
