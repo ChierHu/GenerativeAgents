@@ -33,6 +33,9 @@ Enhancing spatially-disaggregated simulations with large
 language models
 https://handcock.github.io/publication/icoms2024/zaslavskyICoMS2024.pdf
 
+Enhancing spatially-disaggregated simulations with large language models
+https://dl.acm.org/doi/full/10.1145/3686592.3686595
+
 ## Health Management 健康管理
 Large Language Model Agents as Prognostics and Health Management Copilots
 https://papers.phmsociety.org/index.php/phmconf/article/view/3906
