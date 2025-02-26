@@ -72,6 +72,9 @@ https://arxiv.org/abs/2410.03713
 Towards LLM-Enhanced Digital Twins of Intelligent Computing Center
 https://ieeexplore.ieee.org/abstract/document/10727013?casa_token=XweqdEmCmQoAAAAA:2Y2gJxYDw6uIbIPR305L2kRWeiVZ9MwWkmRTyLfQxxkpatMTXlCMqvbVwhi_lyUH7odL5pHEQg
 
+From Simulation to Prediction: Enhancing Digital Twins with Advanced Generative AI Technologies
+https://ieeexplore.ieee.org/abstract/document/10591881?casa_token=v46NmRTzym0AAAAA:mqfB8nklT7caomnEjmbtBfyc6-E8hEXEMp_wyrNb0dS0K4ZL5YAtaLqcNaodoIGwNiWz12uqAQ
+
 ## 3D Scenes 3D 场景
 Towards Human-like Virtual Beings: Simulating Human Behavior in 3D Scenes
 https://openreview.net/forum?id=yc38vnXhTh
