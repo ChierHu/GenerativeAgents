@@ -16,3 +16,7 @@ https://arxiv.org/abs/2410.19811
 ## Chip Design 芯片设计
 Towards LLM4Floorplan: Agents Can Do What Engineers Do in Chip Design
 https://openreview.net/forum?id=n7s9EwG6hW
+
+## Tool Wear 刀具磨损
+Intelligent Recognition of Tool Wear with Artificial Intelligence Agent
+https://www.mdpi.com/2079-6412/14/7/827
