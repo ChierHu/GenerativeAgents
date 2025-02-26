@@ -28,6 +28,9 @@ https://www.researchgate.net/profile/Yuan-Hao-Jiang/publication/384803779_For_Le
 The Effects of Generative AI Agents and Scaffolding on Enhancing Students' Comprehension of Visual Learning Analytics
 https://arxiv.org/abs/2409.11645
 
+Aligning Teacher with Student Preferences for Tailored Training Data Generation
+https://arxiv.org/abs/2406.19227
+
 ## Teacher Training 教师培训
 Teaching via LLM-enhanced simulations: Authenticity and barriers to suspension of disbelief
 https://www.sciencedirect.com/science/article/abs/pii/S1096751624000526?casa_token=j_EMKJizJfAAAAAA:zZreOvM0U_-J3Jm-nvifHkfP_S1EmO6VUnf3BJXva0rKAbM7_vPfDuDRp3_ATqADmfix-9-ThwAl
