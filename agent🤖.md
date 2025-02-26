@@ -86,6 +86,9 @@ https://arxiv.org/abs/2412.07017
 Understanding World or Predicting Future? A Comprehensive Survey of World Models
 https://arxiv.org/abs/2411.14499
 
+AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
+https://arxiv.org/abs/2407.04363
+
 ## Consciousness 意识
 A Case for AI Consciousness: Language Agents and Global Workspace Theory
 https://arxiv.org/abs/2410.11407
