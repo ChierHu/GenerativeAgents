@@ -86,6 +86,10 @@ https://arxiv.org/abs/2412.07017
 Understanding World or Predicting Future? A Comprehensive Survey of World Models
 https://arxiv.org/abs/2411.14499
 
+## Consciousness 意识
+A Case for AI Consciousness: Language Agents and Global Workspace Theory
+https://arxiv.org/abs/2410.11407
+
 ## Cloud 云端
 SERVERLESS AI AGENTS IN THE CLOUD
 https://science.lpnu.ua/sites/default/files/journal-paper/2024/dec/36983/vsedoi-27-32.pdf
