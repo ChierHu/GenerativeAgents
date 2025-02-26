@@ -38,6 +38,9 @@ https://arxiv.org/abs/2412.07788
 Sociotechnical Risks of Simulating Humans with Language Model Agents
 https://www.carolynzou.com/files/zou-llm-robustness.pdf
 
+Application of Large Language Models in Stochastic Sampling Algorithms for Predictive Modeling of Population
+https://www.tandfonline.com/doi/full/10.1080/07421222.2024.2376382?casa_token=brG3oFwWno4AAAAA%3AJ8uUp__0vW6WedAGrpmoSHDGC3k8bH9VcklA257oWFSR5Bkr8m7uZZ7a4yWGv_hzMoYhyBWfPKqC5Q
+
 ## life Simulation 生命模拟
 JaxLife: An Open-Ended Agentic Simulator 
 https://direct.mit.edu/isal/proceedings/isal2024/36/47/123433
