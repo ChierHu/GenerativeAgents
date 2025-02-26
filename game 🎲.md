@@ -33,6 +33,9 @@ https://repozitorij.unios.hr/islandora/object/etfos:4992
 GPT-NPC: Enhancing NPC Human-Likeness and Autonomy in Video Games
 https://ore.exeter.ac.uk/rest/bitstreams/200625/retrieve
 
+Collaborative Quest Completion with LLM-driven Non-Player Characters in Minecraft
+https://arxiv.org/abs/2407.03460
+
 ## Board Games 桌游
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
 https://ojs.aaai.org/index.php/AIIDE/article/view/31861
