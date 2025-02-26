@@ -44,6 +44,9 @@ https://www.tandfonline.com/doi/full/10.1080/07421222.2024.2376382?casa_token=br
 Comp-HuSim: Persistent Digital Personality Simulation Platform
 https://dl.acm.org/doi/abs/10.1145/3631700.3664883?casa_token=0fyLol95xsAAAAAA:eduYRLx-UzO6GxpRTojlcjyk6LmLCo35H4gHAWUOZvBspDgW7HRxRuyRBG7MOQmrItf1cJ3cLiI21w
 
+Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks
+https://arxiv.org/abs/2406.17232
+
 ## life Simulation 生命模拟
 JaxLife: An Open-Ended Agentic Simulator 
 https://direct.mit.edu/isal/proceedings/isal2024/36/47/123433
