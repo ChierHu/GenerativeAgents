@@ -71,6 +71,9 @@ https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=tr
 Artificial Agency and Large Language Models
 https://arxiv.org/abs/2407.16190
 
+Simulador de propagación de objetivos
+https://upcommons.upc.edu/handle/2117/414823#
+
 ## Dynamic Scene 动态场景
 Dynamic Scene Generation for Embodied Navigation Benchmark
 https://openreview.net/forum?id=PBmjJj0KW7
