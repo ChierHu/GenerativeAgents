@@ -77,6 +77,10 @@ http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Ishikawa_etal.pdf
 How LLMs can evolve various personality traits within social dilemmas
 http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Suzuki_Arita.pdf
 
+## Mindfulness 正念
+Large Language Model Agents for Improving Engagement with Behavior Change Interventions: Application to Digital Mindfulness
+https://arxiv.org/abs/2407.13067
+
 ## Data simulation 数据模拟
 Synthesizing Bonds: Enhancing Adult Attachment Predictions with LLM-Generated Data
 https://openreview.net/forum?id=8WpRt9pjeh
