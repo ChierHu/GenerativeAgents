@@ -45,6 +45,9 @@ https://arxiv.org/abs/2501.14084
 Learning-by-teaching with ChatGPT: The effect of teachable ChatGPT agent on programming education
 https://arxiv.org/abs/2412.15226
 
+DevCoach: Supporting Students in Learning the Software Development Life Cycle at Scale with Generative Agents
+https://dl.acm.org/doi/abs/10.1145/3657604.3664663
+
 ## Math Education 数学教育
 Communicative AI Agents in Mathematical Task Design: A Qualitative Study of GPT Network Acting as a Multi-professional Team
 https://link.springer.com/article/10.1007/s40751-024-00161-w
