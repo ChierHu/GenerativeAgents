@@ -2,6 +2,9 @@
 Political-LLM: Large Language Models in Political Science
 https://arxiv.org/abs/2412.06864
 
+Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship
+https://arxiv.org/abs/2406.18702
+
 ## policy making 政策制定
 From Prediction to Foresight: The Role of AI in Designing Responsible Futures
 https://projecteuclid.org/journals/journal-of-artificial-intelligence-for-sustainable-development/volume-1/issue-1/From-Prediction-to-Foresight--The-Role-of-AI-in/10.69828/4d4kja.full
