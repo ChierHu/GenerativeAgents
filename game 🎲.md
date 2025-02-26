@@ -81,6 +81,9 @@ https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/679919/1/P
 Nicer Than Humans: How do Large Language Models Behave in the Prisoner's Dilemma?
 https://arxiv.org/abs/2406.13605
 
+Effect of Private Deliberation: Deception of Large Language Models in Game Play
+https://www.mdpi.com/1099-4300/26/6/524
+
 ### Cooperation 合作
 Get It Cooperating: Enhancing Generative Agent Cooperation with Commitment Devices
 https://openreview.net/forum?id=J39bW48ipI
