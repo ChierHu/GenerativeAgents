@@ -71,6 +71,9 @@ https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=tr
 Artificial Agency and Large Language Models
 https://arxiv.org/abs/2407.16190
 
+## Dynamic Scene 动态场景
+Dynamic Scene Generation for Embodied Navigation Benchmark
+https://openreview.net/forum?id=PBmjJj0KW7
 
 ## API
 Creating an LLM-based AI-agent: A high-level methodology towards enhancing LLMs with APIs
