@@ -205,6 +205,9 @@ https://aisel.aisnet.org/icis2024/humtechinter/humtechinter/8/
 Textualized Agent-Style Reasoning for Complex Tasks by Multiple Round LLM Generation
 https://arxiv.org/abs/2409.12411
 
+RRdE: A Decision Making Framework for Language Agents in Interactive Environments
+https://ieeexplore.ieee.org/abstract/document/10650094?casa_token=l_a2Dcf_HjYAAAAA:hVTcHGd8oCSkfA93pzXrcpJkWw-sdv7-Pzw9YVorBISnu2bslKbL4IiHZj-g2IoiPTjWz1jgFg
+
 ### Causal 因果 
 
 ADAM: An Embodied Causal Agent in Open-World Environments
