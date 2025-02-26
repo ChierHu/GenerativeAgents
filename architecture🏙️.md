@@ -11,6 +11,10 @@ https://dl.acm.org/doi/abs/10.1145/3671127.3699677
 CARD: Cross-modal Agent Framework for Generative and Editable Residential Design
 https://openreview.net/forum?id=cYQPfdMJHQ
 
+## energy 能源
+Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models
+https://www.sciencedirect.com/science/article/pii/S0378778824008077?casa_token=eLT3wBqFCjUAAAAA:5hIbKynlLScLtgF4gifKbM_Beq2ZtqwEFDY9pcejyJ_yOsivOpSfQqvPFeNfQJe-TmyQHd-SVMGc
+
 ## Urban Plan 城市规划
 Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning
 https://arxiv.org/abs/2412.20505
