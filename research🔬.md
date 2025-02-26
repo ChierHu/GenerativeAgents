@@ -11,6 +11,10 @@ https://www.sciencedirect.com/science/article/pii/S1571064524001386
 PersonaFlow: Boosting Research Ideation with LLM-Simulated Expert Personas
 https://arxiv.org/abs/2409.12538
 
+## Experiment Design 实验设计
+Large Language Model Assisted Experiment Design with Generative Human-Behavior Agents
+https://ieeexplore.ieee.org/abstract/document/10838726?casa_token=IBe_npjyJS4AAAAA:80_3pr3oR2CBYklPaYP9xOBCrQalCh--GHwC1Qa9hfYOB5cz2b0pniYmGbVYO-76rZJYiypYXA
+
 ## Research Repositories 研究存储库
 SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories
 https://arxiv.org/abs/2409.07440
