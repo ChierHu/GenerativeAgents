@@ -63,6 +63,9 @@ https://arxiv.org/abs/2408.00818
 Queering AI: Undoing the Self in the Algorithmic Borderlands
 https://arxiv.org/abs/2410.03713
 
+Towards LLM-Enhanced Digital Twins of Intelligent Computing Center
+https://ieeexplore.ieee.org/abstract/document/10727013?casa_token=XweqdEmCmQoAAAAA:2Y2gJxYDw6uIbIPR305L2kRWeiVZ9MwWkmRTyLfQxxkpatMTXlCMqvbVwhi_lyUH7odL5pHEQg
+
 ## 3D Scenes 3D 场景
 Towards Human-like Virtual Beings: Simulating Human Behavior in 3D Scenes
 https://openreview.net/forum?id=yc38vnXhTh
