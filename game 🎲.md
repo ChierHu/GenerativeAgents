@@ -66,6 +66,9 @@ https://arxiv.org/abs/2501.06322
 Multi-agent cooperation through learning-aware policy gradients
 https://arxiv.org/abs/2410.18636
 
+Efficacy of Language Model Self-Play in Non-Zero-Sum Games
+https://arxiv.org/abs/2406.18872
+
 ### Cooperation 合作
 Get It Cooperating: Enhancing Generative Agent Cooperation with Commitment Devices
 https://openreview.net/forum?id=J39bW48ipI
