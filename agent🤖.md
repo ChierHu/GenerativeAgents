@@ -259,3 +259,6 @@ https://arxiv.org/abs/2409.13449
 Memory with Meaning: Enabling Value-Centric Long-Term Human-Agent Dialogue
 https://dl.acm.org/doi/abs/10.1145/3652988.3673925
 
+# Evolutionary 演化
+EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms
+https://arxiv.org/abs/2406.14228
