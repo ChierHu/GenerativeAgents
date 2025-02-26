@@ -251,6 +251,9 @@ https://openreview.net/forum?id=GO4Sd6LUuY
 Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective
 https://arxiv.org/abs/2409.18028
 
+The Power of Atmosphere: LLM-Based Social Task Generation of Robots
+https://ieeexplore.ieee.org/abstract/document/10597450?casa_token=hyJY5DkrYfMAAAAA:no0blzfBEIbsy4q3_3gSrUT5xt5SSY66PJIjbwLXaDUNXx5M9QbneZm7_4MpuxrUg5A2GbtO3A
+
 ## Prompt 提示词
 Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts
 https://arxiv.org/abs/2409.13449
