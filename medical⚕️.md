@@ -43,3 +43,6 @@ https://arxiv.org/abs/2410.01553
 ## Autism Spectrum Disorder 自闭症
 A Qualitative Investigation to Design Empathetic Agents as Conversation Partners for People with Autism Spectrum Disorder
 https://ieeexplore.ieee.org/abstract/document/10645560?casa_token=GY8qzzyrHZIAAAAA:QARsFcUMQM0RmuNnOqb2oZ-Sx_cDriGDPcoBOdwHtv5NsVS4-JrW1-mL8tVXYxuCNivVyb82ofY
+## Radiology Report 放射科报道
+Two-Pronged Human Evaluation of ChatGPT Self-Correction in Radiology Report Simplification
+https://arxiv.org/abs/2406.18859
