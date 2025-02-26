@@ -69,6 +69,9 @@ https://arxiv.org/abs/2410.18636
 Efficacy of Language Model Self-Play in Non-Zero-Sum Games
 https://arxiv.org/abs/2406.18872
 
+Cooperate or Collapse: Emergence of Sustainability in a Society of LLM Agents
+https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/679919/1/Piatti_Giorgio.pdf
+
 ### Cooperation 合作
 Get It Cooperating: Enhancing Generative Agent Cooperation with Commitment Devices
 https://openreview.net/forum?id=J39bW48ipI
