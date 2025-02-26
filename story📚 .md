@@ -30,6 +30,9 @@ https://dl.acm.org/doi/abs/10.1145/3654777.3676352?casa_token=70F80WSZxi4AAAAA:h
 Drama Engine: A Framework for Narrative Agents
 https://arxiv.org/abs/2408.11574
 
+IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation
+https://arxiv.org/abs/2407.01093
+
 ## Role-Playing 角色扮演
 SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents
 From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents
