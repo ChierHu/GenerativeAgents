@@ -12,6 +12,12 @@ https://outbox.eait.uq.edu.au/uqsville/OzCHI2024/Long%20Papers/Mental%20State%20
 A concise review of intelligent game agent
 https://www.sciencedirect.com/science/article/pii/S1875952124002623?casa_token=06V-tqT4AAIAAAAA:6a4uNOhJFE1Om5tU6L8HNwEc_INPXv88I94M_MpLPAonJMFjN44HN3WFN9SvDNREOS3iF_Xs3Gf6vg
 
+The Case for AI Agents in Web3 Gaming and Entertainment
+Exploring how AI agents stand to be the “Ace in the Hole”
+for web3’s gaming & entertainment verticals, with
+supplemental case studies.
+https://static1.squarespace.com/static/64cbf1c27710c42fb2cb111c/t/668c380512fd052c33364952/1720465414896/The+Case+for+AI+Agents+in+Web3+Gaming+and+Entertainment.pdf
+
 ### Game Engine 游戏引擎
 A Text-to-Game Engine for UGC-Based Role-Playing Games
 https://arxiv.org/abs/2407.08195
