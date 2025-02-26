@@ -34,3 +34,6 @@ https://dl.acm.org/doi/abs/10.1145/3686802
 
 A Survey on Large Language Model based Autonomous Agents
 https://arxiv.org/pdf/2308.11432
+
+基于大语言模型的自主智能体概述(A Survey on Large Language Model based Autonomous Agents Xu Chen)
+https://aclanthology.org/2024.ccl-2.8/
