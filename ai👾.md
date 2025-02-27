@@ -22,6 +22,9 @@ http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240392
 LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions
 https://arxiv.org/abs/2405.11106
 
+Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning
+https://proceedings.neurips.cc/paper_files/paper/2024/hash/c848b7d3adc08fcd0bf1df3101ba6728-Abstract-Conference.html
+
 ## Knowledge Graph 知识图谱
 Zero-shot Knowledge Graph Question Generation via Multi-agent LLMs and Small Models Synthesis
 https://dl.acm.org/doi/abs/10.1145/3627673.3679805
