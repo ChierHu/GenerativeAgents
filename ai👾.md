@@ -16,6 +16,10 @@ https://arxiv.org/abs/2410.14383
 Language Grounded Multi-agent Reinforcement Learning with Human-interpretable Communication
 https://arxiv.org/abs/2409.17348
 
+## Small Language 小模型
+Sub-goal Distillation: A Method to Improve Small Language Agents
+https://arxiv.org/abs/2405.02749
+
 多智能体强化学习控制与决策研究综述
 http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240392
 
