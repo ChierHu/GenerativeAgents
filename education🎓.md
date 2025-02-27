@@ -31,6 +31,9 @@ https://arxiv.org/abs/2409.11645
 Aligning Teacher with Student Preferences for Tailored Training Data Generation
 https://arxiv.org/abs/2406.19227
 
+The AI Collaborator: Bridging Human-AI Interaction in Educational and Professional Settings
+https://arxiv.org/abs/2405.10460
+
 ## Teacher Training 教师培训
 Teaching via LLM-enhanced simulations: Authenticity and barriers to suspension of disbelief
 https://www.sciencedirect.com/science/article/abs/pii/S1096751624000526?casa_token=j_EMKJizJfAAAAAA:zZreOvM0U_-J3Jm-nvifHkfP_S1EmO6VUnf3BJXva0rKAbM7_vPfDuDRp3_ATqADmfix-9-ThwAl
