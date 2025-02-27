@@ -26,6 +26,9 @@ https://scholarspace.manoa.hawaii.edu/items/4082c992-41ba-4c72-a112-7b45951d3a95
 OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents
 https://arxiv.org/abs/2410.21286
 
+City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization
+https://arxiv.org/abs/2406.10958
+
 ## Smart Home 智能家居
 Generating Human Daily Activities with LLM for Smart Home Simulator Agents
 https://ieeexplore.ieee.org/abstract/document/10599909?casa_token=rUpOS6O5Gx4AAAAA:sgxZrGRR145wf6HNgHlCHt9JmcyzJJrlTp99clPc45YaL9ErlVYLQe6l9vE3DMuioSYJ87RKDw
