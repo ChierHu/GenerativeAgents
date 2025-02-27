@@ -18,6 +18,10 @@ https://arxiv.org/abs/2412.15305
 Reasoning and Planning with Large Language Models in Code Development
 https://dl.acm.org/doi/abs/10.1145/3637528.3671452
 
+Integrating Artificial Intelligence (AI) in Software Development
+Inventor(s)
+https://www.tdcommons.org/dpubs_series/7088/
+
 ## Process 流程
 Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System
 https://arxiv.org/abs/2409.06568
