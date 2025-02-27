@@ -221,6 +221,9 @@ https://openreview.net/forum?id=CVpuVe1N22
 Sharing Minds during MARL Training for Enhanced Cooperative LLM Agents
 https://openreview.net/forum?id=PvQj49LzJW
 
+Analysing Slow Thinking Capabilities in Large Language Model Agent-Agent Dialogue
+https://studenttheses.uu.nl/handle/20.500.12932/46440
+
 ## Proactive 主动
 Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance
 https://arxiv.org/abs/2410.12361
