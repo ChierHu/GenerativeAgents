@@ -24,3 +24,7 @@ https://arxiv.org/abs/2409.12670
 ## Contract 合同
 Composable Contracts for Multi-Agent Coordination
 https://openreview.net/forum?id=hq0lZ9u68G
+
+## White Collar 白领
+All You Need is Knowledge, Experience and Tools: A Framework for Integrating Digital Labour With White Collar Work
+https://ieeexplore.ieee.org/abstract/document/10602875?casa_token=3_cN1cpxVFkAAAAA:5gIJWT35qghGa3IdPVOKoYzgpQtblhofYnHWD3sdI0duDJ4XHozm4snrKJpiBG0MqH5kTfsPXA
