@@ -104,6 +104,9 @@ https://arxiv.org/abs/2410.07109
 Fusing Dynamics Equation: A Social Opinions Prediction Algorithm with LLM-based Agents
 https://arxiv.org/abs/2409.08717
 
+Large Language Models as Instruments of Power: New Regimes of Autonomous Manipulation and Control
+https://arxiv.org/abs/2405.03813
+
 ## socialize 社交
 LLM-AIDSim: LLM-Enhanced Agent-Based Influence Diffusion Simulation in Social Networks
 https://www.mdpi.com/2079-8954/13/1/29
