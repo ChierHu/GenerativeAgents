@@ -47,6 +47,10 @@ https://dl.acm.org/doi/abs/10.1145/3631700.3664883?casa_token=0fyLol95xsAAAAAA:e
 Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks
 https://arxiv.org/abs/2406.17232
 
+## Evaluating 评估
+Evaluating the LLM Agents for Simulating Humanoid Behavior
+https://heal-workshop.github.io/papers/35_evaluating_the_llm_agents_for_.pdf
+
 ## life Simulation 生命模拟
 JaxLife: An Open-Ended Agentic Simulator 
 https://direct.mit.edu/isal/proceedings/isal2024/36/47/123433
