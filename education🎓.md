@@ -41,6 +41,10 @@ https://arxiv.org/abs/2410.15701
 Enhancing Pre-service Teachers' Competence with a Generative Artificial Intelligence-Enhanced Virtual Reality Simulation
 https://www.researchgate.net/profile/Sumin-Hong-10/publication/383343662_Enhancing_Pre-service_Teachers'_Competence_with_a_Generative_Artificial_Intelligence-Enhanced_Virtual_Reality_Simulation/links/66c8eb6a97265406eaa641c9/Enhancing-Pre-service-Teachers-Competence-with-a-Generative-Artificial-Intelligence-Enhanced-Virtual-Reality-Simulation.pdf
 
+## Simulated Student 模拟学生
+Generative Students: Using LLM-Simulated Student Profiles to Support Question Item Evaluation
+https://dl.acm.org/doi/abs/10.1145/3657604.3662031?casa_token=_DD0yll7bmoAAAAA:W_r6oSCTZC5oK5oA7sxuHHAlN4rDy3OHX28DJDUKnuRN2JqlQYSWLMIjlDetyDP-WL-anPexurQhhe8
+
 ## Computer Education 计算机教育
 The Role of Generative AI in Software Student CollaborAItion
 https://arxiv.org/abs/2501.14084
