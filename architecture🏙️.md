@@ -35,3 +35,6 @@ https://arxiv.org/abs/2406.10958
 ## Smart Home 智能家居
 Generating Human Daily Activities with LLM for Smart Home Simulator Agents
 https://ieeexplore.ieee.org/abstract/document/10599909?casa_token=rUpOS6O5Gx4AAAAA:sgxZrGRR145wf6HNgHlCHt9JmcyzJJrlTp99clPc45YaL9ErlVYLQe6l9vE3DMuioSYJ87RKDw
+
+Designing Home Automation Routines Using an LLM-Based Chatbot
+https://www.mdpi.com/2411-9660/8/3/43
