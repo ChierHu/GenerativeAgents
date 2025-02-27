@@ -6,6 +6,9 @@ https://www.jstage.jst.go.jp/article/globis/3/0/3_7/_article/-char/ja/
 Enterprise Design, Operations and Computing with AI Agents: Accountability Using DSL
 https://link.springer.com/chapter/10.1007/978-3-031-78338-8_2
 
+Automating the Enterprise with Foundation Models
+https://dl.acm.org/doi/abs/10.14778/3681954.3681964?casa_token=vFeVoskhOfQAAAAA:lq9qXNr0qmEEP5iue1vYvltsxlpNf7yFw7GDG33VupMhx2B-gICNwbh4K2jl5oYbYbTs1JcaQ-DE
+
 ## E-commerce 电商
 LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation
 https://arxiv.org/abs/2412.09237
