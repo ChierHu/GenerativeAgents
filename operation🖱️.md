@@ -13,3 +13,6 @@ https://arxiv.org/abs/2411.00820
 
 MobA: A Two-Level Agent System for Efficient Mobile Task Automation
 https://arxiv.org/abs/2410.13757
+
+Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration
+https://arxiv.org/abs/2406.01014
