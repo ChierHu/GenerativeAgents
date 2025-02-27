@@ -37,3 +37,6 @@ https://arxiv.org/pdf/2308.11432
 
 基于大语言模型的自主智能体概述(A Survey on Large Language Model based Autonomous Agents Xu Chen)
 https://aclanthology.org/2024.ccl-2.8/
+
+Towards Rationality in Language and Multimodal Agents: A Survey
+https://arxiv.org/abs/2406.00252
