@@ -15,6 +15,9 @@ https://openreview.net/forum?id=cYQPfdMJHQ
 Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models
 https://www.sciencedirect.com/science/article/pii/S0378778824008077?casa_token=eLT3wBqFCjUAAAAA:5hIbKynlLScLtgF4gifKbM_Beq2ZtqwEFDY9pcejyJ_yOsivOpSfQqvPFeNfQJe-TmyQHd-SVMGc
 
+Can Private LLM Agents Synthesize Household Energy Consumption Data?
+https://dl.acm.org/doi/abs/10.1145/3632775.3661993
+
 ## Urban Plan 城市规划
 Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning
 https://arxiv.org/abs/2412.20505
