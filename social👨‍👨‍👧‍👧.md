@@ -35,6 +35,10 @@ https://arxiv.org/abs/2409.02822
 LLM に基づいたエージェントモデルの MASS への導入
 https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2F4GS504/_article/-char/ja/
 
+## Bargaining 讨价还价
+The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games
+https://arxiv.org/abs/2406.03299
+
 # simulated society 模拟社会
 Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory
 https://arxiv.org/abs/2406.14373
