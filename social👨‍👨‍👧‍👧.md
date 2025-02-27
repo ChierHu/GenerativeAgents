@@ -79,6 +79,10 @@ https://openreview.net/forum?id=JBzTculaVV
 Agent-Based Modelling Meets Generative AI in Social Network Simulations
 https://link.springer.com/chapter/10.1007/978-3-031-78541-2_10
 
+## 审查 Censorship
+Language Evolution for Evading Social Media Regulation via LLM-Based Multi-Agent Simulation
+https://ieeexplore.ieee.org/abstract/document/10612015?casa_token=wlItMSKGB_EAAAAA:tKovNi76KS8j_JEqNxvLNiFeAQkGOsIHtggH9uE1DrR1R1Q411k9ECIT7R1CGr0kR_w4AkuS
+
 ## Conformity 一致性
 Investigating social alignment via mirroring in a system of interacting language models
 https://arxiv.org/abs/2412.06834
