@@ -123,6 +123,9 @@ https://ieeexplore.ieee.org/abstract/document/10808396?casa_token=yC-t4TYQR-sAAA
 Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate
 https://arxiv.org/abs/2408.04472
 
+Improving Multi-Agent Debate with Sparse Communication Topology
+https://arxiv.org/abs/2406.11776
+
 ## Group Chat 群聊
 A Social Group Chatbot System by Multiple Topics Tracking and Atkinson-Shiffrin Memory Model Using AI Agents Collaboration
 https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13766?casa_token=vQhpP55k7msAAAAA%3AAi7eioX_t4feAv5UO2RD5YGel1AwKSmLv1oygAR4pGlDQ08YGnR5q7ywIwYRWYp5UlIXBxnDKBsHg_IF
