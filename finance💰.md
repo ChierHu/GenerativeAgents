@@ -21,6 +21,9 @@ https://arxiv.org/abs/2410.18012
 Simulating Financial Market via Large Language Model based Agents
 https://arxiv.org/abs/2406.19966
 
+FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models
+https://arxiv.org/abs/2405.14767
+
 ## Accounting Auditing 会计审计
 Multi-Agent Systems and Generative Agent-Based Models in Accounting and Auditing
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052723
