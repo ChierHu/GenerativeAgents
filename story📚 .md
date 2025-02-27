@@ -56,6 +56,9 @@ https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11949322
 Crafting Customisable Characters with LLMs: Introducing SimsChat, a Persona-Driven Role-Playing Agent Framework
 https://arxiv.org/abs/2406.17962
 
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents
+https://arxiv.org/abs/2405.19778
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
