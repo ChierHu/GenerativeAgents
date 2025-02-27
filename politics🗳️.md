@@ -5,6 +5,10 @@ https://arxiv.org/abs/2412.06864
 Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship
 https://arxiv.org/abs/2406.18702
 
+## Group Consensus 群体共识
+Large Language Models for Collective Problem-Solving: Insights into Group Consensus Decision-Making
+https://escholarship.org/uc/item/6s060914
+
 ## policy making 政策制定
 From Prediction to Foresight: The Role of AI in Designing Responsible Futures
 https://projecteuclid.org/journals/journal-of-artificial-intelligence-for-sustainable-development/volume-1/issue-1/From-Prediction-to-Foresight--The-Role-of-AI-in/10.69828/4d4kja.full
