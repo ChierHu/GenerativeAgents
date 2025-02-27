@@ -2,6 +2,9 @@
 MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization
 https://arxiv.org/abs/2410.07672
 
+LLM Theory of Mind and Alignment: Opportunities and Risks
+https://arxiv.org/abs/2405.08154
+
 ## Ethical 伦理道德
 On the Ethical Considerations of Generative Agents
 https://arxiv.org/abs/2411.19211
