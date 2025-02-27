@@ -8,6 +8,9 @@ https://arxiv.org/abs/2412.20826
 Focus Agent: LLM-Powered Virtual Focus Group
 https://dl.acm.org/doi/abs/10.1145/3652988.3673918
 
+Cognitive Framework for Preference Adaptation in Human-AI Interaction
+http://reports-archive.adm.cs.cmu.edu/anon/anon/srthesis/SeniorThesis24-ZU-Feiyu-Gavin.pdf
+
 ## Human-Robot Collaboration 人机协作
 ChatCollab: Exploring Collaboration Between Humans and AI Agents in Software Teams
 https://arxiv.org/abs/2412.01992
