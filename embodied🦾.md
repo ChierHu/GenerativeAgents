@@ -22,6 +22,9 @@ https://openreview.net/forum?id=irKHAnZjvc
 Advancing the Cognitive Abilities of Embodied Agents: Large-Scale Simulations and Multi-Agent Collaborations
 https://www.proquest.com/docview/3068898625?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
 
+Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models
+https://ieeexplore.ieee.org/abstract/document/10611448?casa_token=E2QFQyWJCXoAAAAA:aKAZzD2Toogogqx1OMF3qlQAqcIlA_HrXnCtGuzKlV40_YRhMcT7oVlnvLvbhwrRv2LI4iBI
+
 ## Action 动作
 PoAct: Policy and Action Dual-Control Agent for Generalized Applications
 https://arxiv.org/abs/2501.07054
