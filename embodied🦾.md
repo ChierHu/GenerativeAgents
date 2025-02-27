@@ -19,6 +19,9 @@ https://arxiv.org/abs/2410.16919
 Towards Humanoid: Value-Driven Agent Modeling Based on Large Language Models
 https://openreview.net/forum?id=irKHAnZjvc
 
+Advancing the Cognitive Abilities of Embodied Agents: Large-Scale Simulations and Multi-Agent Collaborations
+https://www.proquest.com/docview/3068898625?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+
 ## Action 动作
 PoAct: Policy and Action Dual-Control Agent for Generalized Applications
 https://arxiv.org/abs/2501.07054
