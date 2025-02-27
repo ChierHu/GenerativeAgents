@@ -6,6 +6,9 @@ https://arxiv.org/abs/2501.09099
 プロット駆動型マルチエージェントプランニングの提案
 https://www.jstage.jst.go.jp/article/jsaisigtwo/2024/DOCMAS-026/2024_05/_article/-char/ja/
 
+StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning
+https://dl.acm.org/doi/abs/10.1145/3649921.3656987?casa_token=s66NifMWzmsAAAAA:kvlae5E9WBcb0zZFRgfFMhSUpt3u6bLQs9GMyxz-YBx3hoB7Y28ybBwOm16dytA03HvVvsrLsqfwYxA
+
 ## Tabletop role-playing game 剧本杀
 MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments
 https://arxiv.org/abs/2501.01652
