@@ -73,3 +73,6 @@ https://ieeexplore.ieee.org/abstract/document/10857528
 
 Generative Co-Learners: Enhancing Cognitive and Social Presence of Students in Asynchronous Learning with Generative AI
 https://dl.acm.org/doi/abs/10.1145/3701198
+
+ClassMeta: Designing Interactive Virtual Classmate to Promote VR Classroom Participation
+https://dl.acm.org/doi/full/10.1145/3613904.3642947
