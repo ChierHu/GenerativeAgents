@@ -78,6 +78,10 @@ https://upcommons.upc.edu/handle/2117/414823#
 Dynamic Scene Generation for Embodied Navigation Benchmark
 https://openreview.net/forum?id=PBmjJj0KW7
 
+## Environmental Learning 适应环境
+AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning
+https://arxiv.org/abs/2405.16247
+
 ## Decision-Making 决策
 STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making
 https://arxiv.org/abs/2405.16376
