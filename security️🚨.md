@@ -26,6 +26,10 @@ https://arxiv.org/abs/2411.09523
 CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence
 https://openreview.net/forum?id=DOMP5AgwQz#discussion
 
+## Benchmark 基准
+Ollabench: Evaluating LLMs' Reasoning for Human-centric Interdependent Cybersecurity
+https://arxiv.org/abs/2406.06863
+
 ## Phish 钓鱼
 PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection
 https://arxiv.org/abs/2408.10738
