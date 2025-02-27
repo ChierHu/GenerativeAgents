@@ -8,6 +8,9 @@ https://www.sciencedirect.com/science/article/pii/S1474034624007171
 Large Language Model-Enabled Multi-Agent Manufacturing Systems
 https://ieeexplore.ieee.org/abstract/document/10711432?casa_token=w6I0NB0PkvAAAAAA:noQ_-gHW_Nky_q239GKjDVfIksUocML5R3x5zdBtUxwHvUWszgs5K_VRk-ZEPUccSk5BRuQVKg
 
+A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor
+https://arxiv.org/abs/2405.16887
+
 ## automobile 汽车
 Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering
 https://arxiv.org/abs/2410.12475
