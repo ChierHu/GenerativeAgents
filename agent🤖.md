@@ -133,7 +133,8 @@ https://arxiv.org/abs/2501.00383
 Retrieval-Augmented Decision Transformer: External Memory for In-context RL
 https://arxiv.org/abs/2410.07071
 
-
+Toward Conversational Agents with Context and Time Sensitive Long-term Memory
+https://arxiv.org/abs/2406.00057
 
 ## Innovation 创新
 GAI: Generative Agents for Innovation
