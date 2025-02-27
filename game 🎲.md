@@ -26,6 +26,9 @@ https://arxiv.org/abs/2407.08195
 Balancing multiplayer games design using deep learning techniques
 https://researchrepository.ul.ie/articles/thesis/Balancing_multiplayer_games_design_using_deep_learning_techniques/26509015?file=48223021
 
+Managing the Personality of NPCs with Your Interactions: A Game Design System Based on Large Language Models
+https://link.springer.com/chapter/10.1007/978-3-031-60692-2_17
+
 ### Player 玩家
 LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents
 https://arxiv.org/abs/2410.02829
