@@ -22,6 +22,10 @@ https://static1.squarespace.com/static/64cbf1c27710c42fb2cb111c/t/668c380512fd05
 A Text-to-Game Engine for UGC-Based Role-Playing Games
 https://arxiv.org/abs/2407.08195
 
+### games design 游戏设计
+Balancing multiplayer games design using deep learning techniques
+https://researchrepository.ul.ie/articles/thesis/Balancing_multiplayer_games_design_using_deep_learning_techniques/26509015?file=48223021
+
 ### Player 玩家
 LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents
 https://arxiv.org/abs/2410.02829
