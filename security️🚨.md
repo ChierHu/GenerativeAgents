@@ -72,3 +72,7 @@ https://arxiv.org/abs/2410.13909
 ## Network Security 网络安全
 Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments
 https://arxiv.org/abs/2409.11276
+
+## 欺骗
+Deception in Reinforced Autonomous Agents
+https://arxiv.org/abs/2405.04325
