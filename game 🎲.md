@@ -53,6 +53,9 @@ https://arxiv.org/abs/2407.03460
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
 https://ojs.aaai.org/index.php/AIIDE/article/view/31861
 
+Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf
+https://proceedings.neurips.cc/paper_files/paper/2024/hash/8cea78701eb986f3ec357eb9b7c6badd-Abstract-Conference.html
+
 ## Strategy 策略
 Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization
 https://arxiv.org/abs/2502.04686
