@@ -68,6 +68,10 @@ https://openreview.net/forum?id=XZ71GHf8aB
 PrettiSmart: Visual Interpretation of Smart Contracts via Simulation
 https://arxiv.org/abs/2412.18484
 
+## cryptocurrency 加密货币
+Tilburg School of Economics and Management Multi-agent conversations for sentiment analysis of the cryptocurrency market
+https://arno.uvt.nl/show.cgi?fid=171914
+
 ## Economic 经济
 Can AI with High Reasoning Ability Replicate Human-like Decision Making in Economic Experiments?
 https://arxiv.org/abs/2406.11426
