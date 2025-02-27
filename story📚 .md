@@ -69,9 +69,12 @@ https://dl.acm.org/doi/abs/10.1145/3640794.3665887?casa_token=sojQuZqwkGwAAAAA:e
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
 
-## Creative 创造/创新
+## Creative 创造/创新/创意
 Generative AI Can Be Creative Too
 https://link.springer.com/chapter/10.1007/978-3-031-65572-2_1
 
 Exploring the Potential for Generative AI-based Conversational Cues for Real-Time Collaborative Ideation
 https://dl.acm.org/doi/abs/10.1145/3635636.3656184
+
+LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play
+https://arxiv.org/abs/2405.06373
