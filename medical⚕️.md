@@ -17,6 +17,9 @@ https://arxiv.org/abs/2412.11716
 PICOAS: a clinical knowledge linking model for delivering up-to-date, interrelated, and personalized decision support
 https://ieeexplore.ieee.org/abstract/document/10821913?casa_token=S9GWmNssugQAAAAA:-tg917mUzU7R5c-ZLxIaYkz9Lq7TbptatTsYPmcuNe_9J2Cb0WfykUUjb0qLcrqQxbXa2aQjng
 
+Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents
+https://arxiv.org/abs/2405.02957
+
 ## Data synthesis 数据合成
 Chatting Up Attachment: Using LLMs to Predict Adult Bonds
 https://arxiv.org/abs/2409.00347
