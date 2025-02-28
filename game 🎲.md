@@ -18,6 +18,9 @@ for web3’s gaming & entertainment verticals, with
 supplemental case studies.
 https://static1.squarespace.com/static/64cbf1c27710c42fb2cb111c/t/668c380512fd052c33364952/1720465414896/The+Case+for+AI+Agents+in+Web3+Gaming+and+Entertainment.pdf
 
+Simulating Life: The Application of Generative Agents in Virtual Environments
+https://ieeexplore.ieee.org/abstract/document/10585387
+
 ### Game Engine 游戏引擎
 A Text-to-Game Engine for UGC-Based Role-Playing Games
 https://arxiv.org/abs/2407.08195
