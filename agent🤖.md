@@ -113,6 +113,9 @@ https://arxiv.org/abs/2407.04363
 A Case for AI Consciousness: Language Agents and Global Workspace Theory
 https://arxiv.org/abs/2410.11407
 
+ITCMA: A Generative Agent Based on a Computational Consciousness Structure
+https://arxiv.org/abs/2403.20097
+
 ## Cloud 云端
 SERVERLESS AI AGENTS IN THE CLOUD
 https://science.lpnu.ua/sites/default/files/journal-paper/2024/dec/36983/vsedoi-27-32.pdf
