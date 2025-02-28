@@ -35,3 +35,7 @@ https://arxiv.org/abs/2501.07054
 ## Long-Term Memory 长期记忆
 CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding
 https://arxiv.org/abs/2501.09645
+
+## Smart Hardware 智能硬件
+LaSofa: Integrating Fantasy Storytelling in Human-Robot Interaction through an Interactive Sofa Robot
+https://dl.acm.org/doi/abs/10.1145/3610978.3640672
