@@ -72,6 +72,8 @@ https://www.tdcommons.org/dpubs_series/7372/
 Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation
 https://arxiv.org/abs/2403.09738
 
+A Comprehensive Synthetic Dataset of Simulated RWH User Daily Activities and Preferences
+http://www.polibits.ojs.gelbukh.com/ojs/index.php/CyS/article/view/5298
 
 ## Digital Twin 数字孪生/模拟人
 What Limits LLM-based Human Simulation: LLMs or Our Design?
