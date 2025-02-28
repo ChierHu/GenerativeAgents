@@ -14,6 +14,9 @@ http://reports-archive.adm.cs.cmu.edu/anon/anon/srthesis/SeniorThesis24-ZU-Feiyu
 Challenges and Opportunities of LLM-Based Synthetic Personae and Data in HCI
 https://dl.acm.org/doi/abs/10.1145/3678884.3681826?casa_token=NIgqXH0904IAAAAA:hoIbem2rlnVn7771CiHcPJiyjSjQ3LB2LJBAGfdiSBkumzNdvp5319ltrpFmRiK-9Ka_AfK1neOX
 
+Evolving Agents: Interactive Simulation of Dynamic and Diverse Human Personalities
+https://arxiv.org/abs/2404.02718
+
 ## Human-Robot Collaboration 人机协作
 ChatCollab: Exploring Collaboration Between Humans and AI Agents in Software Teams
 https://arxiv.org/abs/2412.01992
