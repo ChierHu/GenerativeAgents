@@ -18,6 +18,9 @@ https://link.springer.com/chapter/10.1007/978-3-031-72989-8_4
 From Data to Story: Towards Automatic Animated Data Video Creation with LLM-Based Multi-Agent Systems
 https://ieeexplore.ieee.org/abstract/document/10766492?casa_token=eSv_KXPm1AgAAAAA:nGh80LccgzCQZB7dgcUIoP2FTRLIZ7-BGtWqGRF99e7VgMLQLshl32QzwPpgXckL6HOLkHgz2d0
 
+Using LLMs to Animate Interactive Story Characters with Emotions and Personality
+https://ieeexplore.ieee.org/abstract/document/10536546
+
 ## Image 图像
 Precise Image Editing with Multimodal Agents
 https://ieeexplore.ieee.org/abstract/document/10826725?casa_token=DljKAOS-m9QAAAAA:hueTypCIn1nYhuji7MmHWSiWjVqoskhVeLnnq_LWidrPunoG1ODvYKXw_OXPKKioVFfQgvpHFpE
