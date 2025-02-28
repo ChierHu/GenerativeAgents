@@ -48,6 +48,9 @@ https://www.researchgate.net/profile/Sumin-Hong-10/publication/383343662_Enhanci
 Generative Students: Using LLM-Simulated Student Profiles to Support Question Item Evaluation
 https://dl.acm.org/doi/abs/10.1145/3657604.3662031?casa_token=_DD0yll7bmoAAAAA:W_r6oSCTZC5oK5oA7sxuHHAlN4rDy3OHX28DJDUKnuRN2JqlQYSWLMIjlDetyDP-WL-anPexurQhhe8
 
+EduAgent: Generative Student Agents in Learning
+https://arxiv.org/abs/2404.07963
+
 ## Computer Education 计算机教育
 The Role of Generative AI in Software Student CollaborAItion
 https://arxiv.org/abs/2501.14084
