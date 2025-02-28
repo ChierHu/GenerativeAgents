@@ -24,6 +24,10 @@ https://arxiv.org/abs/2406.19966
 FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models
 https://arxiv.org/abs/2405.14767
 
+## Anomaly Detection 异常检测
+Enhancing Anomaly Detection in Financial Markets with an LLM-based Multi-Agent Framework
+https://arxiv.org/abs/2403.19735
+
 ## Accounting Auditing 会计审计
 Multi-Agent Systems and Generative Agent-Based Models in Accounting and Auditing
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052723
