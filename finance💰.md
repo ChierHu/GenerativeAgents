@@ -79,6 +79,9 @@ https://arno.uvt.nl/show.cgi?fid=171914
 Can AI with High Reasoning Ability Replicate Human-like Decision Making in Economic Experiments?
 https://arxiv.org/abs/2406.11426
 
+Experimental Evidence on Large Language Models
+https://www.researchgate.net/profile/Ali_Zarifhonarvar/publication/380551775_Experimental_Evidence_on_Large_Language_Models/links/66704bf7a54c5f0b9468f60a/Experimental-Evidence-on-Large-Language-Models.pdf
+
 ## Decentralized 去中心化 
 LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning
 https://arxiv.org/abs/2502.05453
