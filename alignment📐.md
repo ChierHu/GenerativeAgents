@@ -17,3 +17,7 @@ https://aclanthology.org/2024.yrrsds-1.24/
 
 Can artificial intelligence embody moral values?
 https://link.springer.com/article/10.1007/s43681-025-00662-3
+
+## Hallucination 幻觉
+Hallucination Detection in Foundation Models for Decision-Making: A Flexible Definition and Review of the State of the Art
+https://dl.acm.org/doi/abs/10.1145/3716846
