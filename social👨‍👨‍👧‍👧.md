@@ -40,6 +40,9 @@ https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2F4GS504/_article
 Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory
 https://arxiv.org/abs/2406.14373
 
+Emergence of Social Norms in Generative Agent Societies: Principles and Architecture
+https://arxiv.org/abs/2403.08251
+
 ## social 社交
 Estuary: A Framework For Building Multimodal Low-Latency Real-Time Socially Interactive Agents
 https://dl.acm.org/doi/abs/10.1145/3652988.3696198
