@@ -52,6 +52,9 @@ https://arxiv.org/abs/2407.03460
 Building LLM-based AI Agents in Social Virtual Reality
 https://dl.acm.org/doi/abs/10.1145/3613905.3651026
 
+MemoryRepository for AI NPC
+https://ieeexplore.ieee.org/abstract/document/10508558
+
 ## Board Games 桌游
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
 https://ojs.aaai.org/index.php/AIIDE/article/view/31861
