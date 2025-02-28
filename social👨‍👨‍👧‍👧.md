@@ -36,8 +36,6 @@ LLM に基づいたエージェントモデルの MASS への導入
 https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2F4GS504/_article/-char/ja/
 
 
-
-
 # simulated society 模拟社会
 Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory
 https://arxiv.org/abs/2406.14373
@@ -77,6 +75,9 @@ https://openreview.net/forum?id=JBzTculaVV
 
 Agent-Based Modelling Meets Generative AI in Social Network Simulations
 https://link.springer.com/chapter/10.1007/978-3-031-78541-2_10
+
+Knowledge Boundary and Persona Dynamic Shape A Better Social Media Agent
+https://arxiv.org/abs/2403.19275
 
 ### Profile 个人资料
 Apollonion: Profile-centric Dialog Agent
