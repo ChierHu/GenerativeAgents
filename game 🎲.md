@@ -22,6 +22,9 @@ https://static1.squarespace.com/static/64cbf1c27710c42fb2cb111c/t/668c380512fd05
 A Text-to-Game Engine for UGC-Based Role-Playing Games
 https://arxiv.org/abs/2407.08195
 
+Prototyping Slice of Life: Social Physics with Symbolically Grounded LLM-based Generative Dialogue
+https://dl.acm.org/doi/abs/10.1145/3649921.3656988
+
 ### games design 游戏设计
 Balancing multiplayer games design using deep learning techniques
 https://researchrepository.ul.ie/articles/thesis/Balancing_multiplayer_games_design_using_deep_learning_techniques/26509015?file=48223021
