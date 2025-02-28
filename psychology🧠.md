@@ -22,6 +22,9 @@ https://www.sciencedirect.com/science/article/pii/B9780443219962000139
 Benchmarking AI in Mental Health: A Critical Examination of LLMs Across Key Performance and Ethical Metrics
 https://link.springer.com/chapter/10.1007/978-3-031-78104-9_24
 
+VCounselor: a psychological intervention chat agent based on a knowledge-enhanced large language model
+https://link.springer.com/article/10.1007/s00530-024-01467-w
+
 ## Peer Support 同伴支持
 ComPeer: A Generative Conversational Agent for Proactive Peer Support
 https://dl.acm.org/doi/abs/10.1145/3654777.3676430?casa_token=SqBvkzAFgRUAAAAA:3-SiJyEBryYT_bTTr9If9UDot0JCWk8GggQZBiAJOrqmC2FXlczKG1GdrTGlOkVewYv7sUrgu8AjtGI
