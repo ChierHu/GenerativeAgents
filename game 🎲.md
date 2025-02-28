@@ -21,6 +21,8 @@ https://static1.squarespace.com/static/64cbf1c27710c42fb2cb111c/t/668c380512fd05
 Simulating Life: The Application of Generative Agents in Virtual Environments
 https://ieeexplore.ieee.org/abstract/document/10585387
 
+
+
 ### Game Engine 游戏引擎
 A Text-to-Game Engine for UGC-Based Role-Playing Games
 https://arxiv.org/abs/2407.08195
@@ -108,6 +110,9 @@ https://arxiv.org/abs/2406.13605
 
 Effect of Private Deliberation: Deception of Large Language Models in Game Play
 https://www.mdpi.com/1099-4300/26/6/524
+
+Strategizing with AI: Insights from a Beauty Contest Experiment
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754435
 
 ### Cooperation 合作
 Get It Cooperating: Enhancing Generative Agent Cooperation with Commitment Devices
