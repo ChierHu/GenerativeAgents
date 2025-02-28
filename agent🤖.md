@@ -224,6 +224,9 @@ https://arxiv.org/abs/2409.12411
 RRdE: A Decision Making Framework for Language Agents in Interactive Environments
 https://ieeexplore.ieee.org/abstract/document/10650094?casa_token=l_a2Dcf_HjYAAAAA:hVTcHGd8oCSkfA93pzXrcpJkWw-sdv7-Pzw9YVorBISnu2bslKbL4IiHZj-g2IoiPTjWz1jgFg
 
+LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models
+https://arxiv.org/abs/2404.01230
+
 ### Causal 因果 
 
 ADAM: An Embodied Causal Agent in Open-World Environments
