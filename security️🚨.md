@@ -26,6 +26,9 @@ https://arxiv.org/abs/2411.09523
 CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence
 https://openreview.net/forum?id=DOMP5AgwQz#discussion
 
+Depending on yourself when you should: Mentoring LLM with RL agents to become the master in cybersecurity games
+https://arxiv.org/abs/2403.17674
+
 ## Benchmark 基准
 Ollabench: Evaluating LLMs' Reasoning for Human-centric Interdependent Cybersecurity
 https://arxiv.org/abs/2406.06863
