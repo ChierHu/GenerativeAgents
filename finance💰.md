@@ -85,3 +85,11 @@ https://www.researchgate.net/profile/Ali_Zarifhonarvar/publication/380551775_Exp
 ## Decentralized 去中心化 
 LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning
 https://arxiv.org/abs/2502.05453
+
+## Bargaining 讨价还价
+The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games
+https://arxiv.org/abs/2406.03299
+
+## Shopping 购物
+ChatShop: Interactive Information Seeking with Language Agents
+https://arxiv.org/abs/2404.09911
