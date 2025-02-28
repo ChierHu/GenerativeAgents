@@ -55,6 +55,9 @@ https://dl.acm.org/doi/abs/10.1145/3613905.3651026
 MemoryRepository for AI NPC
 https://ieeexplore.ieee.org/abstract/document/10508558
 
+Att öka den mänskliga faktorn hos NPCs i rollspel med hjälp av modern AI: Parametrar som påverkar spelarens preferenser
+https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1853983&dswid=7536
+
 ## Board Games 桌游
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
 https://ojs.aaai.org/index.php/AIIDE/article/view/31861
