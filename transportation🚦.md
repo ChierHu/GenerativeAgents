@@ -12,3 +12,6 @@ https://arxiv.org/abs/2412.03563
 ## Autonomous driving 自动驾驶
 ALGPT: Multi-Agent Cooperative Framework for Open-Vocabulary Multi-Modal Auto-Annotating in Autonomous Driving
 https://ieeexplore.ieee.org/abstract/document/10681241
+
+Taking LM as the Brain: A Novel Approach Integrating Language Model and Generative Agent for Intelligent Decision Systems
+http://ijns.jalaxy.com.tw/contents/ijns-v26-n3/ijns-2024-v26-n3-p386-393.pdf
