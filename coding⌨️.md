@@ -25,6 +25,9 @@ https://www.tdcommons.org/dpubs_series/7088/
 LLM-MA(Large Language Model Multi Agent)를 활용한 소프트웨어 개발에 대한 연구 동향 분석
 https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11891113
 
+GOEX: PERSPECTIVES AND DESIGNS TOWARDS A RUNTIME FOR AUTONOMOUS LLM APPLICATIONS
+https://storage.prod.researchhub.com/uploads/papers/2024/04/24/2404.06921.pdf
+
 ## Process 流程
 Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System
 https://arxiv.org/abs/2409.06568
