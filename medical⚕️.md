@@ -20,6 +20,9 @@ https://ieeexplore.ieee.org/abstract/document/10821913?casa_token=S9GWmNssugQAAA
 Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents
 https://arxiv.org/abs/2405.02957
 
+Evaluating large language models as agents in the clinic
+https://www.nature.com/articles/s41746-024-01083-y
+
 ## Data synthesis 数据合成
 Chatting Up Attachment: Using LLMs to Predict Adult Bonds
 https://arxiv.org/abs/2409.00347
