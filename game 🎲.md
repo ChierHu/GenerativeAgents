@@ -121,5 +121,7 @@ https://arxiv.org/abs/2502.02441
 Personalized decision-making for agents in face-to-face interaction in virtual reality
 https://link.springer.com/article/10.1007/s00530-024-01591-7
 
+ConnectVR: A Trigger-Action Interface for Creating Agent-based Interactive VR Stories
+https://ieeexplore.ieee.org/abstract/document/10494109?casa_token=x92M0e7eI70AAAAA:USC-BwHJ22-zIFobpowGDbuF-s9vegH7kHbgjEE6HnxpdEfp6yeZHUwXn2-KgiAMy9QsrL5ExQ
 
 
