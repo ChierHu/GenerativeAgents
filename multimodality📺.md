@@ -14,6 +14,10 @@ https://arxiv.org/abs/2403.13248
 VideoAgent: Long-Form Video Understanding with Large Language Model as Agent
 https://link.springer.com/chapter/10.1007/978-3-031-72989-8_4
 
+### Odor 气味
+OdorAgent: Generate Odor Sequences for Movies Based on Large Language Model
+https://ieeexplore.ieee.org/abstract/document/10494179?casa_token=ncpFyzgQSeQAAAAA:hKVUkA3bmeo_hakB-VntrFpVU8I5R186gIFsoFetYfRLUjd95VF35fr40rwrkGEkNipeENxyaQ
+
 ## Animation 动画
 From Data to Story: Towards Automatic Animated Data Video Creation with LLM-Based Multi-Agent Systems
 https://ieeexplore.ieee.org/abstract/document/10766492?casa_token=eSv_KXPm1AgAAAAA:nGh80LccgzCQZB7dgcUIoP2FTRLIZ7-BGtWqGRF99e7VgMLQLshl32QzwPpgXckL6HOLkHgz2d0
