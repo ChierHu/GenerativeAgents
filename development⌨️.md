@@ -53,3 +53,7 @@ https://arxiv.org/abs/2411.03455
 ## Assistants 助手
 Need Help? Designing Proactive AI Assistants for Programming
 https://arxiv.org/abs/2410.04596
+
+## UI
+Generating Automatic Feedback on UI Mockups with Large Language Models
+https://dl.acm.org/doi/full/10.1145/3613904.3642782
