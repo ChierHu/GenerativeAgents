@@ -74,6 +74,9 @@ https://arxiv.org/abs/2407.16190
 Simulador de propagación de objetivos
 https://upcommons.upc.edu/handle/2117/414823#
 
+マルチエージェントに挫折, HAI を開拓, そして今再挑戦
+https://www.jstage.jst.go.jp/article/jjsai/39/3/39_288/_article/-char/ja/
+
 ## Dynamic Scene 动态场景
 Dynamic Scene Generation for Embodied Navigation Benchmark
 https://openreview.net/forum?id=PBmjJj0KW7
