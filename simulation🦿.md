@@ -53,6 +53,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802019
 An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems
 https://ieeexplore.ieee.org/abstract/document/10590311?casa_token=96-VCTs_aJMAAAAA:13OFSQ4zo70adRw5dd07HoKTRnWwRXDnov2ErRYMdJbpHpB049bfVbIeLCDR0UbiYtMVr3dVeQ
 
+Self-Alignment of Large Language Models via Multi-Agent Social Simulation
+https://openreview.net/forum?id=8jUdgJdxTw
+
 ## Evaluating 评估
 Evaluating the LLM Agents for Simulating Humanoid Behavior
 https://heal-workshop.github.io/papers/35_evaluating_the_llm_agents_for_.pdf
