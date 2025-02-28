@@ -69,6 +69,10 @@ https://direct.mit.edu/isal/proceedings/isal2024/36/47/123433
 Simulating Authentic User Personas to Generate Analytics for Evaluating Digital Products
 https://www.tdcommons.org/dpubs_series/7372/
 
+Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation
+https://arxiv.org/abs/2403.09738
+
+
 ## Digital Twin 数字孪生/模拟人
 What Limits LLM-based Human Simulation: LLMs or Our Design?
 https://arxiv.org/abs/2501.08579
