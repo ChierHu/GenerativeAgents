@@ -35,6 +35,9 @@ https://dl.acm.org/doi/abs/10.1145/3686802
 A Survey on Large Language Model based Autonomous Agents
 https://arxiv.org/pdf/2308.11432
 
+A Comprehensive Study on LLM Agent Challenges
+https://aair-lab.github.io/aia2024/papers/ingle_aia24.pdf
+
 基于大语言模型的自主智能体概述(A Survey on Large Language Model based Autonomous Agents Xu Chen)
 https://aclanthology.org/2024.ccl-2.8/
 
