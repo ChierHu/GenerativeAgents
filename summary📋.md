@@ -40,3 +40,6 @@ https://aclanthology.org/2024.ccl-2.8/
 
 Towards Rationality in Language and Multimodal Agents: A Survey
 https://arxiv.org/abs/2406.00252
+
+マルチエージェント研究は人工知能の 「残り滓」 か?
+https://www.jstage.jst.go.jp/article/jjsai/39/3/39_318/_article/-char/ja/
