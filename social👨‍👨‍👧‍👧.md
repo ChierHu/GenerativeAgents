@@ -151,6 +151,8 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13766?casa_token=vQhpP55k7m
 Social-RAG: Retrieving from Group Interactions to Socially Ground AI Generation
 https://arxiv.org/abs/2411.02353
 
+AgentGroupChat: An Interactive Group Chat Simulacra For Better Eliciting Emergent Behavior
+https://arxiv.org/abs/2403.13433
 
 ## Echo chamber 回音室效应
 
