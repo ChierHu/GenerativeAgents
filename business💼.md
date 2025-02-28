@@ -16,6 +16,17 @@ https://arxiv.org/abs/2412.09237
 TWO SIDES OF THE SAME COIN: AN E-COMMERCE ECOSYSTEM AGENT-BASED SIMULATION
 https://aisel.aisnet.org/wi2024/59/
 
+### Bargaining 讨价还价
+The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games
+https://arxiv.org/abs/2406.03299
+
+### Shopping 购物
+ChatShop: Interactive Information Seeking with Language Agents
+https://arxiv.org/abs/2404.09911
+
+ChatShop: Interactive Information Seeking with Language Agents
+https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-27.pdf
+
 ## Advertising Marketing 广告营销
 A Large-scale Time-aware Agents Simulation for Influencer Selection in Digital Advertising Campaigns
 https://arxiv.org/abs/2411.01143
