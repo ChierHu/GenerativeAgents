@@ -24,6 +24,13 @@ https://arxiv.org/abs/2411.18908
 PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks
 https://arxiv.org/abs/2411.00081
 
+Scaling Large-Language-Model-based Multi-Agent Collaboration
+https://arxiv.org/abs/2406.07155
+
+AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration
+https://arxiv.org/abs/2404.11943
+
+
 ## Workflow 工作流
 
 Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension
