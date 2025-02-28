@@ -33,6 +33,8 @@ https://arxiv.org/abs/2406.07155
 AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration
 https://arxiv.org/abs/2404.11943
 
+GOLF: Goal-Oriented Long-term liFe tasks supported by human-AI collaboration
+https://dl.acm.org/doi/abs/10.1145/3626772.3657655?casa_token=kPEtoH5WDZIAAAAA:EW_CWeS4sQv825aP4srVXwy20pDK-MGvhYiOiKXXcDtioEPa8Daj_xSF3Cy_6o071pScQEyxx2h0VA
 
 ## Workflow 工作流
 
