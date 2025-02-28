@@ -80,6 +80,9 @@ https://www.jstage.jst.go.jp/article/jjsai/39/3/39_288/_article/-char/ja/
 COMBO: Compositional World Models for Embodied Multi-Agent Cooperation
 https://arxiv.org/abs/2404.10775
 
+"My agent understands me better": Integrating Dynamic Human-like Memory Recall and Consolidation in LLM-Based Agents
+https://dl.acm.org/doi/full/10.1145/3613905.3650839?casa_token=OZr8SEbTVYMAAAAA%3AzsmQ7KT57QIIhHtTGUWX5_d7H3nJojkBH9Yx2aHkoclTDyv5fDBUl3YS4uh_LACRxqqu-fr5E6S9rg
+
 ## Dynamic Scene 动态场景
 Dynamic Scene Generation for Embodied Navigation Benchmark
 https://openreview.net/forum?id=PBmjJj0KW7
