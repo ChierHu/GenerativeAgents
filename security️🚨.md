@@ -37,6 +37,9 @@ https://arxiv.org/abs/2408.10738
 Automated Phishing Detection Using URLs and Webpages
 https://arxiv.org/abs/2408.01667
 
+Simulation Tests in Anti-phishing Training
+https://link.springer.com/chapter/10.1007/978-3-031-56599-1_12
+
 ## Incident Response 事件响应
 Multi-Agent Collaboration in Incident Response with Large Language Models
 https://arxiv.org/abs/2412.00652
