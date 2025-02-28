@@ -25,6 +25,9 @@ https://www.proquest.com/docview/3068898625?pq-origsite=gscholar&fromopenview=tr
 Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models
 https://ieeexplore.ieee.org/abstract/document/10611448?casa_token=E2QFQyWJCXoAAAAA:aKAZzD2Toogogqx1OMF3qlQAqcIlA_HrXnCtGuzKlV40_YRhMcT7oVlnvLvbhwrRv2LI4iBI
 
+Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment
+https://dl.acm.org/doi/abs/10.1145/3610978.3640671
+
 ## Action 动作
 PoAct: Policy and Action Dual-Control Agent for Generalized Applications
 https://arxiv.org/abs/2501.07054
