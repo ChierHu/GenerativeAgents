@@ -81,6 +81,9 @@ Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
 
 ## Creative 创造/创新/创意
+Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs
+https://arxiv.org/abs/2502.20356
+
 Generative AI Can Be Creative Too
 https://link.springer.com/chapter/10.1007/978-3-031-65572-2_1
 
