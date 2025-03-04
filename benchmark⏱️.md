@@ -14,6 +14,9 @@ https://aclanthology.org/2024.findings-acl.928/
 
 ## Agent Evaluation 代理评估
 
+Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents
+https://arxiv.org/abs/2502.20073
+
 Evaluating The Architecture Of Large Language Model-Based Agents
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017297
 
