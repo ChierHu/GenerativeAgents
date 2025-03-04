@@ -1,4 +1,8 @@
 # Social Sciences 社会科学
+
+SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention
+https://arxiv.org/abs/2502.10937
+
 Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation
 https://arxiv.org/abs/2502.00903
 
