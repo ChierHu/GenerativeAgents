@@ -34,6 +34,9 @@ Designing LLM-Agents with Personalities: A Psychometric Approach
 https://arxiv.org/abs/2410.19238
 
 ## Emotions/Mood 情感/情绪
+Exploring Persona Sentiment Sensitivity in Personalized Dialogue Generation
+https://arxiv.org/abs/2502.11423
+
 Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval
 https://arxiv.org/abs/2410.23041
 
