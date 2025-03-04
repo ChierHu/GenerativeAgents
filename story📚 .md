@@ -54,6 +54,10 @@ https://arxiv.org/abs/2408.11574
 IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation
 https://arxiv.org/abs/2407.01093
 
+## Screenwriter 编剧 
+Understanding Screenwriters' Practices, Attitudes, and Future Expectations in Human-AI Co-Creation
+https://arxiv.org/abs/2502.16153
+
 ## Role-Playing 角色扮演
 
 Reasoning Does Not Necessarily Improve Role-Playing Ability
