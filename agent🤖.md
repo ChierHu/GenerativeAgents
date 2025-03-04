@@ -1,4 +1,7 @@
 # Agent Framework 智能体框架
+Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents
+https://arxiv.org/abs/2502.13843
+
 AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning
 https://openreview.net/forum?id=Pwl9n4zlf5
 
