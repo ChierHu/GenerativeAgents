@@ -207,6 +207,9 @@ https://arxiv.org/abs/2409.14908
 
 
 ## Reasoning 推理
+AURORA:Automated Training Framework of Universal Process Reward Models via Ensemble Prompting and Reverse Verification
+https://arxiv.org/abs/2502.11520
+
 Evolving Deeper LLM Thinking
 https://arxiv.org/abs/2501.09891
 
