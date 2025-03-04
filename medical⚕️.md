@@ -50,8 +50,14 @@ MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Fra
 https://arxiv.org/abs/2410.01553
 
 ## Autism Spectrum Disorder 自闭症
+
+Generative Role-Play Communication Training in Virtual Reality for Autistic Individuals: A Study on Job Coach Experiences in Vocational Training Programs
+https://www.researchgate.net/profile/Roshan-Peiris-2/publication/389210762_Generative_Role-Play_Communication_Training_in_Virtual_Reality_for_Autistic_Individu-als_A_Study_on_Job_Coach_Experiences_in_Vocational_Training_Programs/links/67b8e80496e7fb48b9c9c910/Generative-Role-Play-Communication-Training-in-Virtual-Reality-for-Autistic-Individu-als-A-Study-on-Job-Coach-Experiences-in-Vocational-Training-Programs.pdf
+
 A Qualitative Investigation to Design Empathetic Agents as Conversation Partners for People with Autism Spectrum Disorder
 https://ieeexplore.ieee.org/abstract/document/10645560?casa_token=GY8qzzyrHZIAAAAA:QARsFcUMQM0RmuNnOqb2oZ-Sx_cDriGDPcoBOdwHtv5NsVS4-JrW1-mL8tVXYxuCNivVyb82ofY
+
+
 ## Radiology Report 放射科报道
 Two-Pronged Human Evaluation of ChatGPT Self-Correction in Radiology Report Simplification
 https://arxiv.org/abs/2406.18859
