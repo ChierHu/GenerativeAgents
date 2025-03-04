@@ -1,4 +1,7 @@
 # Alignment 对齐
+Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs
+https://arxiv.org/abs/2502.08640
+
 MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization
 https://arxiv.org/abs/2410.07672
 
