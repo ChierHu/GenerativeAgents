@@ -1,4 +1,7 @@
 # Summary 总结
+Multi-Agent Coordination across Diverse Applications: A Survey
+https://arxiv.org/abs/2502.14743
+
 A Survey on LLM-based Multi-Agent System: Recent Advances and New Frontiers in Application
 https://arxiv.org/abs/2412.17481
 
