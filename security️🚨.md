@@ -1,4 +1,7 @@
 # Security/Hacking/Adversarial 安全/黑客/对抗
+CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models
+https://arxiv.org/abs/2502.14529
+
 Preventing Rogue Agents Improves Multi-Agent Collaboration
 https://arxiv.org/abs/2502.05986
 
