@@ -40,6 +40,9 @@ Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
 Enhancing Recommendation Explanations through User-Centric Refinement
 https://arxiv.org/abs/2502.11721
 
+A Survey on LLM-powered Agents for Recommender Systems
+https://arxiv.org/abs/2502.10050
+
 Recommender Systems Meet Large Language Model Agents: A Survey
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062105
 
