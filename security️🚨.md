@@ -3,6 +3,9 @@
 AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection
 https://arxiv.org/abs/2502.11448
 
+G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems
+https://arxiv.org/abs/2502.11127
+
 CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models
 https://arxiv.org/abs/2502.14529
 
