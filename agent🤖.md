@@ -276,6 +276,9 @@ MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior P
 https://arxiv.org/abs/2409.16686
 
 ## Task 任务
+Nexus: A Lightweight and Scalable Multi-Agent Framework for Complex Tasks Automation
+https://arxiv.org/abs/2502.19091
+
 Explicit-Constrained Single Agent for Enhanced Task-Solving in LLMs
 https://openreview.net/forum?id=GO4Sd6LUuY
 
