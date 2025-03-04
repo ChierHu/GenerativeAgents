@@ -1,4 +1,8 @@
 # Security/Hacking/Adversarial 安全/黑客/对抗
+
+AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection
+https://arxiv.org/abs/2502.11448
+
 CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models
 https://arxiv.org/abs/2502.14529
 
