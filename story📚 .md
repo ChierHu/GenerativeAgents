@@ -91,6 +91,10 @@ https://arxiv.org/abs/2405.19778
 Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents
 https://dl.acm.org/doi/abs/10.1145/3640794.3665887?casa_token=sojQuZqwkGwAAAAA:ecPXIzNNrptVKsEe-7PpXpv2UC-DYpDSin5z4IRn0icLJhjUr9Wua_vfme2EUuM7DCyoqHcv-FxWBuY
 
+### Evaluation 评估
+Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents
+https://arxiv.org/abs/2502.13012
+
 ## Novel 小说
 Agents' Room: Narrative Generation through Multi-step Collaboration
 https://arxiv.org/abs/2410.02603
