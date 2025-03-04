@@ -75,6 +75,10 @@ https://arxiv.org/abs/2410.19064
 Large Language Model-driven Multi-Agent Simulation for News Diffusion Under Different Network Structures
 https://arxiv.org/abs/2410.13909
 
+## Fact-Checking 事实核查
+FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models
+https://arxiv.org/abs/2502.17924
+
 ## Network Security 网络安全
 Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments
 https://arxiv.org/abs/2409.11276
