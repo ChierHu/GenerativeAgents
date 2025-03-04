@@ -28,3 +28,7 @@ https://arxiv.org/abs/2410.20746
 ## international conflicts 国际冲突
 War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars
 https://openreview.net/forum?id=RBaDiInDRg
+
+## Decision-Making 决策
+Reliable Decision-Making for Multi-Agent LLM Systems
+https://multiagents.org/2025_artifacts/reliable_decision_making_for_multi_agent_llm_systems.pdf
