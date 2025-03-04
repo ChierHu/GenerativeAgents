@@ -94,6 +94,10 @@ https://arxiv.org/abs/2502.14296
 Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments
 https://arxiv.org/abs/2409.11276
 
-## 欺骗
+## Deception 欺骗
 Deception in Reinforced Autonomous Agents
 https://arxiv.org/abs/2405.04325
+
+## Watermarking 水印
+Inaccessible Entropy for Watermarking Generative Agents
+https://eprint.iacr.org/2025/256
