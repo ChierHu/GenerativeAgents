@@ -55,3 +55,7 @@ https://dl.acm.org/doi/abs/10.1145/3627673.3679599?casa_token=eK-gIhpV5VcAAAAA:G
 ## CV 计算机视觉
 IMPROVE: Iterative Model Pipeline Refinement and Optimization Leveraging LLM Agents
 https://arxiv.org/abs/2502.18530
+
+## Zero-Shot 零样本
+A Cooperative Multi-Agent Framework for Zero-Shot Named Entity Recognition
+https://arxiv.org/abs/2502.18702
