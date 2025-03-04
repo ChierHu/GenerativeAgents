@@ -1,4 +1,8 @@
 # Finance 金融
+
+Scaling AI Adoption in Finance: Modelling Framework and Implementation Study
+https://conferences.big.tuwien.ac.at/biweek2024/pdfs/biweek2024_paper_118.pdf
+
 Agentic AI Systems Applied to tasks in Financial Services: Modeling and model risk management crews
 https://arxiv.org/abs/2502.05439
 
