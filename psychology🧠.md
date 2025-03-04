@@ -94,3 +94,7 @@ https://openreview.net/forum?id=F6h0v1CTpC
 
 LLM-Based Empathetic Response Through Psychologist-Agent Debate
 https://link.springer.com/chapter/10.1007/978-981-97-7232-2_14
+
+## theory of mind 心智理论
+Improving ToM Capabilities of LLMs in Applied Domains
+https://www.preprints.org/frontend/manuscript/7c3df8d7640ff346c4352633e0020d78/download_pub
