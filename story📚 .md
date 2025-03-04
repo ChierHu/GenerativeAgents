@@ -60,6 +60,9 @@ https://arxiv.org/abs/2502.16153
 
 ## Role-Playing 角色扮演
 
+RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following
+https://arxiv.org/abs/2502.11387
+
 Reasoning Does Not Necessarily Improve Role-Playing Ability
 https://arxiv.org/abs/2502.16940
 
