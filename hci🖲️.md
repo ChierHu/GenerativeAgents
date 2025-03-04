@@ -1,4 +1,7 @@
 # Human-computer interaction 人机交互
+Carbon and Silicon, Coexist or Compete? A Survey on Human-AI Interactions in Agent-based Modeling and Simulation
+https://arxiv.org/abs/2502.18145
+
 Toyteller: AI-powered Visual Storytelling Through Toy-Playing with Character Symbols
 https://arxiv.org/abs/2501.13284
 
