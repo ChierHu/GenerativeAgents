@@ -109,3 +109,6 @@ https://eprint.iacr.org/2025/256
 ## Embodied AI 具身智能
 Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks
 https://arxiv.org/abs/2502.13175
+## Catastrophic Risks 灾难性风险
+"Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents
+https://arxiv.org/abs/2502.11355
