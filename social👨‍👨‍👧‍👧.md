@@ -53,6 +53,9 @@ https://arxiv.org/abs/2409.06750
 Social Connections between Large Language Model Agents
 https://dl.gi.de/items/b93ef816-c79b-44cc-a205-b7382d85c0cd
 
+Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs
+https://arxiv.org/abs/2403.05020
+
 ## Voice 语音
 In Whose Voice?: Examining AI Agent Representation of People in Social Interaction through Generative Speech
 https://dl.acm.org/doi/abs/10.1145/3643834.3661555
