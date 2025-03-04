@@ -1,6 +1,7 @@
 # Finance 金融
 
 Scaling AI Adoption in Finance: Modelling Framework and Implementation Study
+https://www.google.com/books/edition/Enterprise_Design_Operations_and_Computi/-EhEEQAAQBAJ?hl=en&gbpv=1&pg=PA221&printsec=frontcover
 https://conferences.big.tuwien.ac.at/biweek2024/pdfs/biweek2024_paper_118.pdf
 https://www.springerprofessional.de/scaling-ai-adoption-in-finance-modelling-framework-and-implement/50614876
 
