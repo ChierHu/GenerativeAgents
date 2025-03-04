@@ -65,3 +65,7 @@ https://openreview.net/forum?id=w1MEIGDepc
 ## Relationship 关系
 The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships
 https://ojs.aaai.org/index.php/AIES/article/view/31694
+
+## Usability Testing 可用性测试
+UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design
+https://arxiv.org/abs/2502.12561
