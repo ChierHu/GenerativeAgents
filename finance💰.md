@@ -41,6 +41,9 @@ Hierarchical Organization Simulacra in the Investment Sector
 https://arxiv.org/abs/2410.00354
 
 ## Trading 交易
+HedgeAgents: A Balanced-aware Multi-agent Financial Trading System
+https://arxiv.org/abs/2502.13165
+
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 https://arxiv.org/abs/2412.20138
 
