@@ -170,6 +170,9 @@ https://arxiv.org/abs/2403.13433
 
 ## Echo chamber 回音室效应
 
+Large Language Model Driven Agents for Simulating Echo Chamber Formation
+https://arxiv.org/abs/2502.18138
+
 Emergence of human-like polarization among large language model agents
 https://arxiv.org/abs/2501.05171
 
