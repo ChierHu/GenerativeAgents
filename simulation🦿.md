@@ -4,6 +4,9 @@
 From ChatGPT to DeepSeek: Can LLMs Simulate Humanity?
 https://arxiv.org/abs/2502.18210
 
+Walkthrough of Anthropomorphic Features in AI Assistant Tools
+https://arxiv.org/abs/2502.16345
+
 Personas within Parameters: Fine-Tuning Small Language Models with Low-Rank Adapters to Mimic User Behaviors
 https://openreview.net/forum?id=WMtvukapVW
 
