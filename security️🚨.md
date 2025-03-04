@@ -29,6 +29,10 @@ https://openreview.net/forum?id=DOMP5AgwQz#discussion
 Depending on yourself when you should: Mentoring LLM with RL agents to become the master in cybersecurity games
 https://arxiv.org/abs/2403.17674
 
+## Red-Teaming 红队
+Red-Teaming LLM Multi-Agent Systems via Communication Attacks
+https://arxiv.org/abs/2502.14847
+
 ## Benchmark 基准
 Ollabench: Evaluating LLMs' Reasoning for Human-centric Interdependent Cybersecurity
 https://arxiv.org/abs/2406.06863
