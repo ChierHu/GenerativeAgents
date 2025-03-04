@@ -41,6 +41,9 @@ Patchview: LLM-powered Worldbuilding with Generative Dust and Magnet Visualizati
 https://dl.acm.org/doi/abs/10.1145/3654777.3676352?casa_token=70F80WSZxi4AAAAA:htgfWrRTtl6SRsY1KYdebSL68A0lCY3hApUY9j1DhNP3DdHgusfkAH_vA9aQ_08_pcbIW2hVi_kGDeM
 
 ## Drama 戏剧
+Towards Enhanced Immersion and Agency for LLM-based Interactive Drama
+https://arxiv.org/abs/2502.17878
+
 Drama Engine: A Framework for Narrative Agents
 https://arxiv.org/abs/2408.11574
 
