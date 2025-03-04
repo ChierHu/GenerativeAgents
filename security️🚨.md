@@ -101,3 +101,7 @@ https://arxiv.org/abs/2405.04325
 ## Watermarking 水印
 Inaccessible Entropy for Watermarking Generative Agents
 https://eprint.iacr.org/2025/256
+
+## Embodied AI 具身智能
+Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks
+https://arxiv.org/abs/2502.13175
