@@ -1,5 +1,8 @@
 # Security/Hacking/Adversarial 安全/黑客/对抗
 
+TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution (2025)
+https://breznikar.com/article/trustagent-towards-safe-and-trustworthy-llm-based-agents-through-agent-constitution/4397
+
 AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection
 https://arxiv.org/abs/2502.11448
 
