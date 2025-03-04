@@ -47,6 +47,9 @@ Emergence of Social Norms in Generative Agent Societies: Principles and Architec
 https://arxiv.org/abs/2403.08251
 
 ## social 社交
+SOTOPIA-Ω: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents
+https://arxiv.org/abs/2502.15538
+
 Estuary: A Framework For Building Multimodal Low-Latency Real-Time Socially Interactive Agents
 https://dl.acm.org/doi/abs/10.1145/3652988.3696198
 
