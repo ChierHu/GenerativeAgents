@@ -114,3 +114,8 @@ https://dl.acm.org/doi/abs/10.1145/3635636.3656184
 
 LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play
 https://arxiv.org/abs/2405.06373
+
+## Humor 幽默
+
+AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor
+https://arxiv.org/abs/2502.07981
