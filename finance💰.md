@@ -42,6 +42,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052723
 LLM ベースのエージェントによる人工市場シミュレーションの構築
 https://www.jstage.jst.go.jp/article/jsaisigtwo/2025/FIN-034/2025_42/_article/-char/ja/
 
+Advanced Digital Simulation for Financial Market Dynamics: A Case of Commodity Futures
+https://www.techrxiv.org/doi/full/10.36227/techrxiv.174000482.22151732
+
 ## Investment 投资
 Hierarchical Organization Simulacra in the Investment Sector
 https://arxiv.org/abs/2410.00354
