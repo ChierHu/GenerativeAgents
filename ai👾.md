@@ -37,6 +37,9 @@ https://dl.acm.org/doi/abs/10.1145/3627673.3679805
 Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
 
 ## Recommender Systems 推荐系统
+Enhancing Recommendation Explanations through User-Centric Refinement
+https://arxiv.org/abs/2502.11721
+
 Recommender Systems Meet Large Language Model Agents: A Survey
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062105
 
