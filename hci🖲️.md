@@ -1,4 +1,5 @@
 # Human-computer interaction 人机交互
+
 Beyond Words: Integrating Personality Traits and Context-Driven
 Gestures in Human-Robot Interactions
 https://www.researchgate.net/profile/Mohammad-Tareq-4/publication/389204552_Beyond_Words_Integrating_Personality_Traits_and_Context-Driven_Gestures_in_Human-Robot_Interactions/links/67b86e2a8311ce680c6f3a52/Beyond-Words-Integrating-Personality-Traits-and-Context-Driven-Gestures-in-Human-Robot-Interactions.pdf
@@ -23,6 +24,10 @@ https://dl.acm.org/doi/abs/10.1145/3678884.3681826?casa_token=NIgqXH0904IAAAAA:h
 
 Evolving Agents: Interactive Simulation of Dynamic and Diverse Human Personalities
 https://arxiv.org/abs/2404.02718
+
+## Benchmark 基准
+InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback
+https://arxiv.org/abs/2502.15027
 
 ## Human-Robot Collaboration 人机协作
 ChatCollab: Exploring Collaboration Between Humans and AI Agents in Software Teams
