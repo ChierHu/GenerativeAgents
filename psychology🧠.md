@@ -101,3 +101,6 @@ https://link.springer.com/chapter/10.1007/978-981-97-7232-2_14
 ## theory of mind 心智理论
 Improving ToM Capabilities of LLMs in Applied Domains
 https://www.preprints.org/frontend/manuscript/7c3df8d7640ff346c4352633e0020d78/download_pub
+
+A Survey of Theory of Mind in Large Language Models: Evaluations, Representations, and Safety Risks
+https://arxiv.org/abs/2502.06470
