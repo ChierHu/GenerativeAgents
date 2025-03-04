@@ -90,8 +90,13 @@ Apollonion: Profile-centric Dialog Agent
 https://arxiv.org/abs/2404.08692
 
 ## 审查 Censorship
+
+Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms
+https://arxiv.org/abs/2502.19193
+
 Language Evolution for Evading Social Media Regulation via LLM-Based Multi-Agent Simulation
 https://ieeexplore.ieee.org/abstract/document/10612015?casa_token=wlItMSKGB_EAAAAA:tKovNi76KS8j_JEqNxvLNiFeAQkGOsIHtggH9uE1DrR1R1Q411k9ECIT7R1CGr0kR_w4AkuS
+
 
 ## Conformity 一致性
 Investigating social alignment via mirroring in a system of interacting language models
