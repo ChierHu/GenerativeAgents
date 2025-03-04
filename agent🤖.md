@@ -197,20 +197,7 @@ https://arxiv.org/abs/2410.13553
 KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems
 https://arxiv.org/abs/2409.14908
 
-### Episodic memory 情景记忆
-Episodic memory in AI agents poses risks that should be studied and mitigated
-https://arxiv.org/abs/2501.11739
 
-## Reflection 反思
-DORA: Dynamic Optimization Prompt for Continuous Reflection of LLM-based Agent
-https://aclanthology.org/2025.coling-main.504/
-
-## Planning 规划
-A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
-https://arxiv.org/abs/2501.08068
-
-LLM Reasoner and Automated Planner: A new NPC approach
-https://arxiv.org/abs/2501.10106
 
 ## Reasoning 推理
 Evolving Deeper LLM Thinking
@@ -239,6 +226,24 @@ https://ieeexplore.ieee.org/abstract/document/10650094?casa_token=l_a2Dcf_HjYAAA
 
 LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models
 https://arxiv.org/abs/2404.01230
+
+### Episodic memory 情景记忆
+Episodic memory in AI agents poses risks that should be studied and mitigated
+https://arxiv.org/abs/2501.11739
+
+### Reflection 反思
+DORA: Dynamic Optimization Prompt for Continuous Reflection of LLM-based Agent
+https://aclanthology.org/2025.coling-main.504/
+
+### Planning 规划
+A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
+https://openreview.net/forum?id=q3XpgsgwXX
+
+A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
+https://arxiv.org/abs/2501.08068
+
+LLM Reasoner and Automated Planner: A new NPC approach
+https://arxiv.org/abs/2501.10106
 
 ### Causal 因果 
 
