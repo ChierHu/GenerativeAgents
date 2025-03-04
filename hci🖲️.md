@@ -30,6 +30,9 @@ InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via
 https://arxiv.org/abs/2502.15027
 
 ## Human-Robot Collaboration 人机协作
+Relational Norms for Human-AI Cooperation
+https://arxiv.org/abs/2502.12102
+
 ChatCollab: Exploring Collaboration Between Humans and AI Agents in Software Teams
 https://arxiv.org/abs/2412.01992
 
