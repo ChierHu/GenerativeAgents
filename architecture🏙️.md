@@ -23,6 +23,9 @@ Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urb
 https://arxiv.org/abs/2412.20505
 
 ## Smart City 智慧城市
+Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation
+https://proceedings.neurips.cc/paper_files/paper/2024/hash/e142fd2b70f10db2543c64bca1417de8-Abstract-Conference.html
+
 Leveraging Meta AI, Spatial AI, and Character AI Model for Generative Smart Cities
 https://scholarspace.manoa.hawaii.edu/items/4082c992-41ba-4c72-a112-7b45951d3a95
 
