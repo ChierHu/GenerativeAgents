@@ -48,6 +48,9 @@ https://www.cell.com/patterns/fulltext/S2666-3899(24)00233-2
 
 ## Workflow 工作流
 
+FlowAgent: Achieving Compliance and Flexibility for Workflow Agents
+https://arxiv.org/abs/2502.14345
+
 Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension
 https://arxiv.org/abs/2412.05958
 
