@@ -44,6 +44,9 @@ https://arxiv.org/abs/2502.12504
 Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents
 https://arxiv.org/abs/2502.12450
 
+Large language models that replace human participants can harmfully misportray and flatten identity groups
+https://www.nature.com/articles/s42256-025-00986-z
+
 TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human Trajectory Simulation
 https://arxiv.org/abs/2502.18712
 
