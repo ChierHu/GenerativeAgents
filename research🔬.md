@@ -48,5 +48,11 @@ MetaOpenFOAM: an LLM-based multi-agent framework for CFD
 https://arxiv.org/abs/2407.21320
 
 ## chemical 化学
+
+A review of large language models and autonomous agents in chemistry
+https://pubs.rsc.org/en/content/articlehtml/2025/sc/d4sc03921a
+
 A multi-agent-driven robotic AI chemist enabling autonomous chemical research on demand
 https://chemrxiv.org/engage/chemrxiv/article-details/66a625c001103d79c5043c48
+
+
