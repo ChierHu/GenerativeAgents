@@ -1,6 +1,9 @@
 # Simulation 模拟
 ## Human Simulation 人类模拟
 
+From ChatGPT to DeepSeek: Can LLMs Simulate Humanity?
+https://arxiv.org/abs/2502.18210
+
 Personas within Parameters: Fine-Tuning Small Language Models with Low-Rank Adapters to Mimic User Behaviors
 https://openreview.net/forum?id=WMtvukapVW
 
