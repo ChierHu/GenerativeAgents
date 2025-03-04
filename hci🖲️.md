@@ -1,4 +1,8 @@
 # Human-computer interaction 人机交互
+Beyond Words: Integrating Personality Traits and Context-Driven
+Gestures in Human-Robot Interactions
+https://www.researchgate.net/profile/Mohammad-Tareq-4/publication/389204552_Beyond_Words_Integrating_Personality_Traits_and_Context-Driven_Gestures_in_Human-Robot_Interactions/links/67b86e2a8311ce680c6f3a52/Beyond-Words-Integrating-Personality-Traits-and-Context-Driven-Gestures-in-Human-Robot-Interactions.pdf
+
 Carbon and Silicon, Coexist or Compete? A Survey on Human-AI Interactions in Agent-based Modeling and Simulation
 https://arxiv.org/abs/2502.18145
 
