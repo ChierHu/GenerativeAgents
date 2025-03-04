@@ -37,6 +37,10 @@ https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2F4GS504/_article
 
 
 # simulated society 模拟社会
+
+Simulating Cooperative Prosocial Behavior with Multi-Agent LLMs: Evidence and Mechanisms for AI Agents to Inform Policy Decisions
+https://arxiv.org/abs/2502.12504
+
 TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human Trajectory Simulation
 https://arxiv.org/abs/2502.18712
 
