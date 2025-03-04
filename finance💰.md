@@ -32,6 +32,10 @@ https://arxiv.org/abs/2403.19735
 Multi-Agent Systems and Generative Agent-Based Models in Accounting and Auditing
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052723
 
+## Market 市场
+LLM ベースのエージェントによる人工市場シミュレーションの構築
+https://www.jstage.jst.go.jp/article/jsaisigtwo/2025/FIN-034/2025_42/_article/-char/ja/
+
 ## Investment 投资
 Hierarchical Organization Simulacra in the Investment Sector
 https://arxiv.org/abs/2410.00354
