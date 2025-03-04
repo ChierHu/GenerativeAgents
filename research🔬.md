@@ -1,4 +1,7 @@
 # Research 科研
+Accelerating scientific breakthroughs with an AI co-scientist
+https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/
+
 Aviary: training language agents on challenging scientific tasks
 https://arxiv.org/abs/2412.21154
 
