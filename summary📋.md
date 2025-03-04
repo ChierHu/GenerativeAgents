@@ -46,3 +46,6 @@ https://arxiv.org/abs/2406.00252
 
 マルチエージェント研究は人工知能の 「残り滓」 か?
 https://www.jstage.jst.go.jp/article/jjsai/39/3/39_318/_article/-char/ja/
+
+The rise and potential of large language model based agents: a survey
+https://link.springer.com/article/10.1007/s11432-024-4222-0
