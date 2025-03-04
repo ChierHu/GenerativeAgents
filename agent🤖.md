@@ -2,6 +2,9 @@
 Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents
 https://arxiv.org/abs/2502.13843
 
+Understanding Dynamic Diffusion Process of LLM-based Agents under Information Asymmetry
+https://arxiv.org/abs/2502.13160
+
 AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning
 https://openreview.net/forum?id=Pwl9n4zlf5
 
