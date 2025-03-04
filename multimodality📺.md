@@ -1,6 +1,10 @@
 # multimodal 多模态
 
 ### vision-language models 视觉语言模型
+
+Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions
+https://arxiv.org/abs/2502.15336
+
 VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
 https://arxiv.org/abs/2410.16400
 
