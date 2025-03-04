@@ -55,6 +55,10 @@ IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama
 https://arxiv.org/abs/2407.01093
 
 ## Role-Playing 角色扮演
+
+Reasoning Does Not Necessarily Improve Role-Playing Ability
+https://arxiv.org/abs/2502.16940
+
 SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents
 From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents
 https://arxiv.org/abs/2411.07965
