@@ -1,4 +1,7 @@
 # Summary 总结
+Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems
+https://arxiv.org/abs/2502.14321
+
 Multi-Agent Coordination across Diverse Applications: A Survey
 https://arxiv.org/abs/2502.14743
 
