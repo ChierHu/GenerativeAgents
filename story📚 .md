@@ -1,5 +1,8 @@
 # Storytelling 讲故事
 
+WhatELSE: Shaping Narrative Spaces at Configurable Level of Abstraction for AI-bridged Interactive Storytelling
+https://arxiv.org/abs/2502.18641
+
 Drama Llama: An LLM-Powered Storylets Framework for Authorable Responsiveness in Interactive Narrative
 https://arxiv.org/abs/2501.09099
 
@@ -8,6 +11,7 @@ https://www.jstage.jst.go.jp/article/jsaisigtwo/2024/DOCMAS-026/2024_05/_article
 
 StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning
 https://dl.acm.org/doi/abs/10.1145/3649921.3656987?casa_token=s66NifMWzmsAAAAA:kvlae5E9WBcb0zZFRgfFMhSUpt3u6bLQs9GMyxz-YBx3hoB7Y28ybBwOm16dytA03HvVvsrLsqfwYxA
+
 
 ## Co-Creation 再创造
 Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the
