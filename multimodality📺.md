@@ -16,6 +16,9 @@ https://arxiv.org/abs/2410.16400
 Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos
 https://arxiv.org/abs/2410.16259
 
+StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration
+https://arxiv.org/abs/2411.04925
+
 Temporal Preference Optimization for Long-Form Video Understanding
 https://arxiv.org/abs/2501.13919
 
