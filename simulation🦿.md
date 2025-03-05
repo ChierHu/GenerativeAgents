@@ -62,6 +62,11 @@ https://ieeexplore.ieee.org/abstract/document/10590311?casa_token=96-VCTs_aJMAAA
 Self-Alignment of Large Language Models via Multi-Agent Social Simulation
 https://openreview.net/forum?id=8jUdgJdxTw
 
+## Human Feedback 人类反馈
+AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback
+Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Main Conference Track
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html
+
 ## Evaluating 评估
 Evaluating the LLM Agents for Simulating Humanoid Behavior
 https://heal-workshop.github.io/papers/35_evaluating_the_llm_agents_for_.pdf
