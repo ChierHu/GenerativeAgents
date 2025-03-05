@@ -97,6 +97,9 @@ https://dl.acm.org/doi/abs/10.1145/3640794.3665887?casa_token=sojQuZqwkGwAAAAA:e
 Role play with large language models
 https://www.nature.com/articles/s41586-023-06647-8
 
+In-Context Impersonation Reveals Large Language Models' Strengths and Biases
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb12a97193f41-Abstract-Conference.html
+
 ### Evaluation 评估
 Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents
 https://arxiv.org/abs/2502.13012
