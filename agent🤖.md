@@ -184,6 +184,9 @@ https://arxiv.org/abs/2406.00057
 An iterative approach to find safe context window size limits for agentized LLMs
 https://gregorvomscheidt.com/wp-content/uploads/2023/05/iterative-approach-to-safe-context-windows-2023-05-20.pdf
 
+MemGPT: Towards LLMs as Operating Systems
+https://par.nsf.gov/servlets/purl/10524107
+
 ## Innovation 创新
 GAI: Generative Agents for Innovation
 https://arxiv.org/abs/2412.18899
