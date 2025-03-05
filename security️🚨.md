@@ -122,6 +122,9 @@ https://arxiv.org/abs/2409.11276
 Deception in Reinforced Autonomous Agents
 https://arxiv.org/abs/2405.04325
 
+Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation
+https://arxiv.org/abs/2310.01320
+
 ## Watermarking 水印
 Inaccessible Entropy for Watermarking Generative Agents
 https://eprint.iacr.org/2025/256
