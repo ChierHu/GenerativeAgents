@@ -1,4 +1,4 @@
-# Security/Hacking/Adversarial 安全/黑客/对抗
+# Security/Hacking 安全/黑客
 
 TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution (2025)
 https://breznikar.com/article/trustagent-towards-safe-and-trustworthy-llm-based-agents-through-agent-constitution/4397
@@ -45,7 +45,11 @@ https://arxiv.org/abs/2403.17674
 Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks
 https://arxiv.org/abs/2310.10844
 
-## Red-Teaming 红队
+## Verification 验证
+Speaker Verification in Agent-Generated Conversations
+https://arxiv.org/abs/2405.10150
+
+## Adversarial 对抗
 Red-Teaming LLM Multi-Agent Systems via Communication Attacks
 https://arxiv.org/abs/2502.14847
 
