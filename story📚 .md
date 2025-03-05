@@ -103,6 +103,9 @@ https://proceedings.neurips.cc/paper_files/paper/2023/hash/e3fe7b34ba4f378df39cb
 Character-LLM: A Trainable Agent for Role-Playing
 https://arxiv.org/abs/2310.10158
 
+RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
+https://arxiv.org/abs/2310.00746
+
 ### Evaluation 评估
 Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents
 https://arxiv.org/abs/2502.13012
