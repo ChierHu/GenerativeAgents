@@ -20,6 +20,10 @@ Reflexion: language agents with verbal reinforcement learning
 Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Main Conference Track
 https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html
 
+## Neural Architecture 神经架构
+NADER: Neural Architecture Design via Multi-Agent Collaboration
+https://arxiv.org/abs/2412.19206
+
 ## Small Language 小模型
 Sub-goal Distillation: A Method to Improve Small Language Agents
 https://arxiv.org/abs/2405.02749
