@@ -28,6 +28,9 @@ https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd8
 Secrets of RLHF in Large Language Models Part I: PPO
 https://arxiv.org/abs/2307.04964
 
+UltraFeedback: Boosting Language Models with Scaled AI Feedback
+https://arxiv.org/abs/2310.01377
+
 ## Neural Architecture 神经架构
 NADER: Neural Architecture Design via Multi-Agent Collaboration
 https://arxiv.org/abs/2412.19206
