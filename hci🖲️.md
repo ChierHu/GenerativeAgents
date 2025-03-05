@@ -25,7 +25,8 @@ https://dl.acm.org/doi/abs/10.1145/3678884.3681826?casa_token=NIgqXH0904IAAAAA:h
 Evolving Agents: Interactive Simulation of Dynamic and Diverse Human Personalities
 https://arxiv.org/abs/2404.02718
 
-
+You Only Look at Screens: Multimodal Chain-of-Action Agents
+https://arxiv.org/abs/2309.11436
 
 ## Benchmark 基准
 InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback
