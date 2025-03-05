@@ -94,6 +94,9 @@ https://arxiv.org/abs/2405.19778
 Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents
 https://dl.acm.org/doi/abs/10.1145/3640794.3665887?casa_token=sojQuZqwkGwAAAAA:ecPXIzNNrptVKsEe-7PpXpv2UC-DYpDSin5z4IRn0icLJhjUr9Wua_vfme2EUuM7DCyoqHcv-FxWBuY
 
+Role play with large language models
+https://www.nature.com/articles/s41586-023-06647-8
+
 ### Evaluation 评估
 Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents
 https://arxiv.org/abs/2502.13012
