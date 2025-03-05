@@ -93,6 +93,9 @@ https://gregorvomscheidt.com/wp-content/uploads/2023/05/iterative-approach-to-sa
 MemGPT: Towards LLMs as Operating Systems
 https://par.nsf.gov/servlets/purl/10524107
 
+ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory
+https://arxiv.org/abs/2306.03901
+
 ## Innovation 创新
 GAI: Generative Agents for Innovation
 https://arxiv.org/abs/2412.18899
