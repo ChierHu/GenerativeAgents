@@ -42,6 +42,9 @@ https://openreview.net/forum?id=DOMP5AgwQz#discussion
 Depending on yourself when you should: Mentoring LLM with RL agents to become the master in cybersecurity games
 https://arxiv.org/abs/2403.17674
 
+Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks
+https://arxiv.org/abs/2310.10844
+
 ## Red-Teaming 红队
 Red-Teaming LLM Multi-Agent Systems via Communication Attacks
 https://arxiv.org/abs/2502.14847
