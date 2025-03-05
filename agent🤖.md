@@ -293,6 +293,9 @@ https://dl.acm.org/doi/abs/10.1145/3673791.3698439
 ERATTA: Extreme RAG for Table To Answers with Large Language Models
 https://arxiv.org/abs/2405.03963
 
+Large Language Models for Information Retrieval: A Survey
+https://arxiv.org/abs/2308.07107
+
 ## Insight 洞察
 MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making
 https://arxiv.org/abs/2409.16686
