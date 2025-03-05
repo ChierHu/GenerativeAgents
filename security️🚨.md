@@ -84,6 +84,10 @@ https://arxiv.org/abs/2412.01778
 AutoPenBench: Benchmarking Generative Agents for Penetration Testing
 https://arxiv.org/abs/2410.03225
 
+Getting pwn’d by AI: Penetration Testing with Large Language Models
+Authors: Andreas Happe, Jürgen CitoAuthors Info & Claims
+https://dl.acm.org/doi/abs/10.1145/3611643.3613083
+
 ## Vulnerability 漏洞
 YuraScanner: Leveraging LLMs for Task-driven Web App Scanning
 https://publications.cispa.de/articles/conference_contribution/YuraScanner_Leveraging_LLMs_for_Task-driven_Web_App_Scanning/27993545?file=51062570
