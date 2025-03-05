@@ -69,6 +69,10 @@ https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b8dfb8c0c12e6fafc6c2
 ADAM: An Embodied Causal Agent in Open-World Environments
 https://arxiv.org/abs/2410.22194
 
+## Analogical Reason 类比推理
+Large Language Models as Analogical Reasoners
+https://arxiv.org/abs/2310.01714
+
 ## Memory 记忆
 On the Structural Memory of LLM Agents
 https://arxiv.org/abs/2412.15266
