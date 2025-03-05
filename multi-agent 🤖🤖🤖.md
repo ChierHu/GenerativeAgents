@@ -26,3 +26,17 @@ https://arxiv.org/abs/2403.18230
 
 ExpertPrompting: Instructing Large Language Models to be Distinguished Experts
 https://arxiv.org/abs/2305.14688
+
+## conversation 对话
+Personalized Large Language Model Assistant with Evolving Conditional Memory
+https://arxiv.org/abs/2312.17257
+
+DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing
+https://openreview.net/forum?id=mNVR9jJYqK
+
+Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues
+https://arxiv.org/abs/2407.09897
+
+## Contest 比赛
+AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms
+https://arxiv.org/abs/2502.18754
