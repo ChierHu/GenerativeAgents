@@ -276,6 +276,10 @@ https://arxiv.org/abs/2501.10106
 Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
 https://arxiv.org/abs/2302.01560
 
+Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents
+Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Main Conference Track
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b8dfb8c0c12e6fafc6c256cb08a5ca7-Abstract-Conference.html
+
 ### Causal 因果 
 
 ADAM: An Embodied Causal Agent in Open-World Environments
