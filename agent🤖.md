@@ -253,6 +253,4 @@ https://dl.acm.org/doi/abs/10.1145/3652988.3673925
 EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms
 https://arxiv.org/abs/2406.14228
 
-# cooperate 合作
-Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot
-https://arxiv.org/abs/2403.11381
+
