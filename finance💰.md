@@ -86,6 +86,10 @@ https://arxiv.org/abs/2502.00792
 Evidence from the Synthetic Laboratory: Language Models as Auction Participants
 https://openreview.net/forum?id=XZ71GHf8aB
 
+## Negotiation 谈判
+Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback
+https://arxiv.org/abs/2305.10142
+
 ## Blockchain区块链
 ### Smart contracts 智能合约
 PrettiSmart: Visual Interpretation of Smart Contracts via Simulation
