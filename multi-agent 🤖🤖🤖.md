@@ -8,3 +8,7 @@ https://arxiv.org/abs/2310.06500
 
 Theory of Mind for Multi-Agent Collaboration via Large Language Models
 https://arxiv.org/abs/2310.10701
+
+## cooperate 合作
+Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot
+https://arxiv.org/abs/2403.11381
