@@ -24,6 +24,9 @@ Reflexion: language agents with verbal reinforcement learning
 Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Main Conference Track
 https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html
 
+Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization
+https://arxiv.org/abs/2308.02151
+
 ### RLHF 人类反馈
 Secrets of RLHF in Large Language Models Part I: PPO
 https://arxiv.org/abs/2307.04964
