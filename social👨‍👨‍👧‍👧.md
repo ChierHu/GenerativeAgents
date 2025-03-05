@@ -39,6 +39,9 @@ https://arxiv.org/abs/2409.02822
 LLM に基づいたエージェントモデルの MASS への導入
 https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2F4GS504/_article/-char/ja/
 
+## conflict 冲突
+War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars
+https://arxiv.org/abs/2311.17227
 
 # simulated society 模拟社会
 
