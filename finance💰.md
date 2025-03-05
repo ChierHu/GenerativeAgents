@@ -106,6 +106,9 @@ https://arxiv.org/abs/2406.11426
 Experimental Evidence on Large Language Models
 https://www.researchgate.net/profile/Ali_Zarifhonarvar/publication/380551775_Experimental_Evidence_on_Large_Language_Models/links/66704bf7a54c5f0b9468f60a/Experimental-Evidence-on-Large-Language-Models.pdf
 
+EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities
+https://arxiv.org/abs/2310.10436
+
 ## Decentralized 去中心化 
 LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning
 https://arxiv.org/abs/2502.05453
