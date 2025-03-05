@@ -35,6 +35,9 @@ https://arxiv.org/pdf/2307.07924
 ChatDev: Communicative Agents for Software Development
 https://arxiv.org/abs/2307.07924
 
+AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation
+https://arxiv.org/abs/2312.13010
+
 ## Process 流程
 Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System
 https://arxiv.org/abs/2409.06568
