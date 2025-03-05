@@ -28,6 +28,10 @@ https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11891113
 GOEX: PERSPECTIVES AND DESIGNS TOWARDS A RUNTIME FOR AUTONOMOUS LLM APPLICATIONS
 https://storage.prod.researchhub.com/uploads/papers/2024/04/24/2404.06921.pdf
 
+Communicative Agents for Software Development
+https://openreview.net/pdf?id=yW0AZ5wPji
+https://arxiv.org/pdf/2307.07924
+
 ## Process 流程
 Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System
 https://arxiv.org/abs/2409.06568
