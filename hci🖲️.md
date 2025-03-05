@@ -54,6 +54,9 @@ https://dl.acm.org/doi/abs/10.1145/3626772.3657655?casa_token=kPEtoH5WDZIAAAAA:E
 AI-enhanced collective intelligence
 https://www.cell.com/patterns/fulltext/S2666-3899(24)00233-2
 
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration
+https://arxiv.org/abs/2307.05300
+
 ## Workflow 工作流
 
 FlowAgent: Achieving Compliance and Flexibility for Workflow Agents
