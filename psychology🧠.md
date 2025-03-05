@@ -107,3 +107,6 @@ https://www.preprints.org/frontend/manuscript/7c3df8d7640ff346c4352633e0020d78/d
 
 A Survey of Theory of Mind in Large Language Models: Evaluations, Representations, and Safety Risks
 https://arxiv.org/abs/2502.06470
+
+How FaR Are Large Language Models From Agents with Theory-of-Mind?
+https://arxiv.org/abs/2310.03051
