@@ -53,6 +53,9 @@ https://arxiv.org/abs/2502.14847
 Ollabench: Evaluating LLMs' Reasoning for Human-centric Interdependent Cybersecurity
 https://arxiv.org/abs/2406.06863
 
+Identifying the Risks of LM Agents with an LM-Emulated Sandbox
+https://arxiv.org/abs/2309.15817
+
 ## Phish 钓鱼
 PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection
 https://arxiv.org/abs/2408.10738
