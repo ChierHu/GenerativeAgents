@@ -56,6 +56,14 @@ https://dl.acm.org/doi/abs/10.1145/3626772.3657655?casa_token=kPEtoH5WDZIAAAAA:E
 AI-enhanced collective intelligence
 https://www.cell.com/patterns/fulltext/S2666-3899(24)00233-2
 
+## Team Coordination 团队合作
+MetaAgents: Large Language Model Based Agents for Decision-making on Teaming
+https://zjanice.github.io/assets/papers/CSCW25_MetaAgents.pdf
+
+Probabilistic Modeling of False Beliefs and Team Coordination
+https://www.proquest.com/docview/3053860286?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+
+
 
 ## Workflow 工作流
 
