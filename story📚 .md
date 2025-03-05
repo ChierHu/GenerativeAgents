@@ -18,18 +18,12 @@ Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the
 Creative Industries
 https://generativeaiandhci.github.io/papers/2024/genaichi2024_5.pdf
 
-## Tabletop role-playing game 剧本杀
+## Tabletop role-playing game 桌面扮演
 MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments
 https://arxiv.org/abs/2501.01652
 
 CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds
 https://arxiv.org/abs/2412.05631
-
-Who Speaks Next? Multi-party AI Discussion Leveraging the Systematics of Turn-taking in Murder Mystery Games
-https://arxiv.org/abs/2412.04937
-
-COMPLEX NEGOTIATION AMONG AI LANGUAGE AGENTS IN WEREWOLF
-https://collisteru.net/docs/thesis_prop_redacted.pdf
 
 From Words to Worlds: Transforming One-line Prompts into Multi-modal Digital Stories with LLM Agents
 https://dl.acm.org/doi/abs/10.1145/3677388.3696321
@@ -37,11 +31,22 @@ https://dl.acm.org/doi/abs/10.1145/3677388.3696321
 Questioning the Unknown: Optimising Multi-Agent Collaboration in Narrative-Driven Games
 https://arxiv.org/abs/2404.17662
 
+## murder mysteries 剧本杀
+
+Who Speaks Next? Multi-party AI Discussion Leveraging the Systematics of Turn-taking in Murder Mystery Games
+https://arxiv.org/abs/2412.04937
+
+COMPLEX NEGOTIATION AMONG AI LANGUAGE AGENTS IN WEREWOLF
+https://collisteru.net/docs/thesis_prop_redacted.pdf
+
 Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game
 https://arxiv.org/abs/2404.01602
 
 Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf
 https://arxiv.org/abs/2309.04658
+
+Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game
+https://arxiv.org/abs/2310.18940
 
 ## Worldbuilding 世界构建
 Patchview: LLM-powered Worldbuilding with Generative Dust and Magnet Visualization
