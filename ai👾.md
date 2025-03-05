@@ -63,3 +63,10 @@ https://arxiv.org/abs/2502.18530
 ## Zero-Shot 零样本
 A Cooperative Multi-Agent Framework for Zero-Shot Named Entity Recognition
 https://arxiv.org/abs/2502.18702
+
+## Prompt 提示词
+APPL: A Prompt Programming Language for Harmonious Integration of Programs and Large Language Model Prompts
+https://arxiv.org/abs/2406.13161
+
+Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution
+https://arxiv.org/abs/2309.16797
