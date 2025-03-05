@@ -249,6 +249,9 @@ https://arxiv.org/abs/2501.11739
 DORA: Dynamic Optimization Prompt for Continuous Reflection of LLM-based Agent
 https://aclanthology.org/2025.coling-main.504/
 
+Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate
+https://arxiv.org/abs/2305.19118
+
 ### Planning 规划
 A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
 https://openreview.net/forum?id=q3XpgsgwXX
