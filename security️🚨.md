@@ -126,6 +126,10 @@ https://arxiv.org/abs/2405.04325
 Inaccessible Entropy for Watermarking Generative Agents
 https://eprint.iacr.org/2025/256
 
+## botnet 僵尸网络
+Anatomy of an AI-powered malicious social botnet
+https://arxiv.org/abs/2307.16336
+
 ## Embodied AI 具身智能
 Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks
 https://arxiv.org/abs/2502.13175
