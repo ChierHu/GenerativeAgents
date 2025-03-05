@@ -97,3 +97,6 @@ https://arxiv.org/abs/2308.08155
 
 AutoAgents: A Framework for Automatic Agent Generation
 https://arxiv.org/abs/2309.17288
+
+BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents
+https://arxiv.org/abs/2308.05960
