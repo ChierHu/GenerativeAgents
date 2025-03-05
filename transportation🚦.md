@@ -15,3 +15,6 @@ https://ieeexplore.ieee.org/abstract/document/10681241
 
 Taking LM as the Brain: A Novel Approach Integrating Language Model and Generative Agent for Intelligent Decision Systems
 http://ijns.jalaxy.com.tw/contents/ijns-v26-n3/ijns-2024-v26-n3-p386-393.pdf
+
+DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
+https://arxiv.org/abs/2309.16292
