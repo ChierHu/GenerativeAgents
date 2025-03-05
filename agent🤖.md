@@ -89,6 +89,7 @@ https://arxiv.org/abs/2404.10775
 "My agent understands me better": Integrating Dynamic Human-like Memory Recall and Consolidation in LLM-Based Agents
 https://dl.acm.org/doi/full/10.1145/3613905.3650839?casa_token=OZr8SEbTVYMAAAAA%3AzsmQ7KT57QIIhHtTGUWX5_d7H3nJojkBH9Yx2aHkoclTDyv5fDBUl3YS4uh_LACRxqqu-fr5E6S9rg
 
+
 ## 鲁棒性
 Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems
 https://arxiv.org/abs/2502.15153
@@ -257,6 +258,10 @@ https://arxiv.org/abs/2501.08068
 
 LLM Reasoner and Automated Planner: A new NPC approach
 https://arxiv.org/abs/2501.10106
+
+
+Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
+https://arxiv.org/abs/2302.01560
 
 ### Causal 因果 
 
