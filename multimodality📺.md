@@ -2,6 +2,10 @@
 
 ### vision-language models 视觉语言模型
 
+
+Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation
+https://arxiv.org/abs/2501.03225
+
 Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions
 https://arxiv.org/abs/2502.15336
 
@@ -9,6 +13,9 @@ VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration an
 https://arxiv.org/abs/2410.16400
 
 ## Video 视频
+Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos
+https://arxiv.org/abs/2410.16259
+
 Temporal Preference Optimization for Long-Form Video Understanding
 https://arxiv.org/abs/2501.13919
 
