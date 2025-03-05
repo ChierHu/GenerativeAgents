@@ -21,7 +21,8 @@ https://static1.squarespace.com/static/64cbf1c27710c42fb2cb111c/t/668c380512fd05
 Simulating Life: The Application of Generative Agents in Virtual Environments
 https://ieeexplore.ieee.org/abstract/document/10585387
 
-
+MindAgent: Emergent Gaming Interaction
+https://arxiv.org/abs/2309.09971
 
 ### Game Engine 游戏引擎
 A Text-to-Game Engine for UGC-Based Role-Playing Games
