@@ -8,9 +8,7 @@ https://openreview.net/forum?id=1i6ZCvflQJ
 Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems
 https://arxiv.org/abs/2502.15153
 
-## Contest 比赛
-AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms
-https://arxiv.org/abs/2502.18754
+
 
 ## Dynamic Scene 动态场景
 Dynamic Scene Generation for Embodied Navigation Benchmark
@@ -23,6 +21,10 @@ https://arxiv.org/abs/2405.16247
 ## Decision-Making 决策
 STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making
 https://arxiv.org/abs/2405.16376
+
+## Use Tools 工具使用
+MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use
+https://arxiv.org/abs/2310.03128
 
 ## API
 Creating an LLM-based AI-agent: A high-level methodology towards enhancing LLMs with APIs
@@ -98,16 +100,6 @@ https://arxiv.org/abs/2412.18899
 EscapeBench: Pushing Language Models to Think Outside the Box
 https://arxiv.org/abs/2412.13549
 
-
-## conversation 对话
-Personalized Large Language Model Assistant with Evolving Conditional Memory
-https://arxiv.org/abs/2312.17257
-
-DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing
-https://openreview.net/forum?id=mNVR9jJYqK
-
-Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues
-https://arxiv.org/abs/2407.09897
 
 
 
