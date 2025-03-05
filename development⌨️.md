@@ -32,6 +32,9 @@ Communicative Agents for Software Development
 https://openreview.net/pdf?id=yW0AZ5wPji
 https://arxiv.org/pdf/2307.07924
 
+ChatDev: Communicative Agents for Software Development
+https://arxiv.org/abs/2307.07924
+
 ## Process 流程
 Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System
 https://arxiv.org/abs/2409.06568
