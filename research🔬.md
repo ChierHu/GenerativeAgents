@@ -58,6 +58,9 @@ https://pubs.rsc.org/en/content/articlehtml/2025/sc/d4sc03921a
 A multi-agent-driven robotic AI chemist enabling autonomous chemical research on demand
 https://chemrxiv.org/engage/chemrxiv/article-details/66a625c001103d79c5043c48
 
+ChatGPT Research Group for Optimizing the Crystallinity of MOFs and COFs
+https://pubs.acs.org/doi/full/10.1021/acscentsci.3c01087
+
 ## ecology 生态学
 Generative AI as a tool to accelerate the field of ecology
 https://www.nature.com/articles/s41559-024-02623-1
