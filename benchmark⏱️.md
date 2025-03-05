@@ -12,6 +12,9 @@ https://arxiv.org/abs/2408.13545
 CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions
 https://aclanthology.org/2024.findings-acl.928/
 
+ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
+https://arxiv.org/abs/2308.07201
+
 ## Agent Evaluation 代理评估
 
 Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents
