@@ -83,6 +83,9 @@ http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Ishikawa_etal.pdf
 How LLMs can evolve various personality traits within social dilemmas
 http://abmhub.cs.ucl.ac.uk/2024/camera_ready/Suzuki_Arita.pdf
 
+PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits
+https://arxiv.org/abs/2305.02547
+
 ## Mindfulness 正念
 Large Language Model Agents for Improving Engagement with Behavior Change Interventions: Application to Digital Mindfulness
 https://arxiv.org/abs/2407.13067
