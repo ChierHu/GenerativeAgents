@@ -89,6 +89,10 @@ https://arxiv.org/abs/2404.10775
 "My agent understands me better": Integrating Dynamic Human-like Memory Recall and Consolidation in LLM-Based Agents
 https://dl.acm.org/doi/full/10.1145/3613905.3650839?casa_token=OZr8SEbTVYMAAAAA%3AzsmQ7KT57QIIhHtTGUWX5_d7H3nJojkBH9Yx2aHkoclTDyv5fDBUl3YS4uh_LACRxqqu-fr5E6S9rg
 
+## Framework 框架
+AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
+https://arxiv.org/abs/2308.08155
+
 ## Cognitive 认知
 Cognitive Architectures for Language Agents
 https://openreview.net/forum?id=1i6ZCvflQJ
