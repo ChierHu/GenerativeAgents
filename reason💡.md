@@ -32,6 +32,9 @@ https://arxiv.org/abs/2404.01230
 Igniting Language Intelligence: The Hitchhiker's Guide from Chain-of-Thought Reasoning to Language Agents
 https://dl.acm.org/doi/abs/10.1145/3719341
 
+Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs
+https://arxiv.org/abs/2311.04892
+
 ### Episodic memory 情景记忆
 Episodic memory in AI agents poses risks that should be studied and mitigated
 https://arxiv.org/abs/2501.11739
