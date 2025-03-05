@@ -13,6 +13,10 @@ https://arxiv.org/abs/2310.10701
 Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot
 https://arxiv.org/abs/2403.11381
 
+## Competition 竞争
+CompeteAI: Understanding the Competition Dynamics in Large Language Model-based Agents
+https://arxiv.org/abs/2310.17512
+
 ## Experts专家/智囊团
 Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models
 https://arxiv.org/abs/2411.00492
