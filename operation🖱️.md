@@ -7,6 +7,10 @@ https://arxiv.org/abs/2410.08164
 A2C2 - Natural Language-Instructed Autonomous Agent for Computer Control
 https://www.zhaw.ch/storage/engineering/institute-zentren/cai/studentische_arbeiten/Spring_2024/BA_FS24_Nobel-vonWartburg_A2C2.pdf
 
+## Operating System 操作系统
+KAOS: Large Model Multi-Agent Operating System
+https://arxiv.org/abs/2406.11342
+
 ## Mobile operation 手机操作
 MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions
 https://arxiv.org/abs/2502.16796
