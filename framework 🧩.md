@@ -92,6 +92,8 @@ https://dl.acm.org/doi/full/10.1145/3613905.3650839?casa_token=OZr8SEbTVYMAAAAA%
 Building Cooperative Embodied Agents Modularly with Large Language Models
 https://arxiv.org/abs/2307.02485
 
-## Framework 框架
 AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
 https://arxiv.org/abs/2308.08155
+
+AutoAgents: A Framework for Automatic Agent Generation
+https://arxiv.org/abs/2309.17288
