@@ -41,6 +41,9 @@ https://ieeexplore.ieee.org/abstract/document/10650172?casa_token=_bkFVuq1oKkAAA
 AgentBench: Evaluating LLMs as Agents
 https://arxiv.org/abs/2308.03688
 
+Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions
+https://arxiv.org/abs/2306.02224
+
 ### Vision 视觉
 ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
 https://arxiv.org/abs/2410.06555
