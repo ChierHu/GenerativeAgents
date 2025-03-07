@@ -13,7 +13,8 @@ https://arxiv.org/abs/2502.16565
 Large Language Models for Collective Problem-Solving: Insights into Group Consensus Decision-Making
 https://escholarship.org/uc/item/6s060914
 
-
+Multi-Agent Consensus Seeking via Large Language Models
+https://arxiv.org/abs/2310.20151
 
 ## policy making 政策制定
 From Prediction to Foresight: The Role of AI in Designing Responsible Futures
@@ -25,6 +26,7 @@ https://journals.sagepub.com/doi/full/10.1177/00375497241295765
 ## Election 选举
 ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents
 https://arxiv.org/abs/2410.20746
+
 ## international conflicts 国际冲突
 War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars
 https://openreview.net/forum?id=RBaDiInDRg
