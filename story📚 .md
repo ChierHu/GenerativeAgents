@@ -114,6 +114,9 @@ https://arxiv.org/abs/2310.10158
 RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
 https://arxiv.org/abs/2310.00746
 
+CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models
+https://arxiv.org/abs/2311.16832
+
 ### Evaluation 评估
 Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents
 https://arxiv.org/abs/2502.13012
