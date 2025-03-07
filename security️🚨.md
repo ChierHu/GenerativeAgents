@@ -95,6 +95,8 @@ https://dl.acm.org/doi/abs/10.1145/3611643.3613083
 YuraScanner: Leveraging LLMs for Task-driven Web App Scanning
 https://publications.cispa.de/articles/conference_contribution/YuraScanner_Leveraging_LLMs_for_Task-driven_Web_App_Scanning/27993545?file=51062570
 
+Large Language Model-Powered Smart Contract Vulnerability https://ieeexplore.ieee.org/abstract/document/10431564?casa_token=pE7roW9HHtoAAAAA:fuwyIAHUR4REZI10DjdrOPnTsAyKlN-W5aVdKb8DICnzOAf0_K8ByH5phPjia4mA0qqk_Kd41CXaNhs
+
 ## Jailbreak 越狱
 A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns
 https://arxiv.org/abs/2410.16155
