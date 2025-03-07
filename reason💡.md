@@ -38,6 +38,9 @@ https://arxiv.org/abs/2311.04892
 Corex: Pushing the boundaries of complex reasoning through multi-model collaboration 
 https://arxiv.org/abs/2310.00280
 
+Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning
+https://arxiv.org/abs/2312.05230
+
 ## Memory 记忆
 On the Structural Memory of LLM Agents
 https://arxiv.org/abs/2412.15266
