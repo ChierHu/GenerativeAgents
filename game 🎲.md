@@ -69,6 +69,9 @@ https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1853983&dswid=7536
 
 생성형 에이전트 NPC 를 적용한 생존형 RPG 게임 설계 http://journal.dcs.or.kr/_PR/view/?aidx=38955&bidx=3508
 
+Conversational Interactions with NPCs in LLM-Driven Gaming: Guidelines from a Content Analysis of Player Feedback
+https://link.springer.com/chapter/10.1007/978-3-031-54975-5_10
+
 ## Board Games 桌游
 ‘Journeys in the Dark’ - Towards Game Master AI in Complex Board Games
 https://ojs.aaai.org/index.php/AIIDE/article/view/31861
