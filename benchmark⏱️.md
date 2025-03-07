@@ -47,6 +47,9 @@ https://arxiv.org/abs/2306.02224
 MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation
 https://arxiv.org/abs/2310.03302
 
+Benchmarking Large Language Models as AI Research Agents
+https://openreview.net/forum?id=kXlTY0BmK3
+
 ### Vision 视觉
 ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
 https://arxiv.org/abs/2410.06555
