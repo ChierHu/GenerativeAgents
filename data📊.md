@@ -10,6 +10,9 @@ https://arxiv.org/abs/2412.13520
 Trustworthy and Efficient LLMs Meet Databases
 https://arxiv.org/abs/2412.18022
 
+D-Bot: Database Diagnosis System using Large Language Models
+https://arxiv.org/abs/2312.01454
+
 
 ## Tabular 表格
 AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models
