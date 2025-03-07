@@ -68,6 +68,9 @@ https://arxiv.org/abs/2310.11501
 The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective
 https://arxiv.org/abs/2312.15524
 
+Large Language Models as Subpopulation Representative Models: A Review
+https://arxiv.org/abs/2310.17888
+
 ## Human Feedback 人类反馈
 AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback
 Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Main Conference Track
