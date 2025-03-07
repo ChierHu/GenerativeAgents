@@ -42,3 +42,7 @@ https://arxiv.org/abs/2501.09645
 ## Smart Hardware 智能硬件
 LaSofa: Integrating Fantasy Storytelling in Human-Robot Interaction through an Interactive Sofa Robot
 https://dl.acm.org/doi/abs/10.1145/3610978.3640672
+
+## Decision Making 决策
+Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond
+https://arxiv.org/abs/2310.02071
