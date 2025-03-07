@@ -62,6 +62,9 @@ https://ieeexplore.ieee.org/abstract/document/10807411
 Large Language Model Agent in Financial Trading: A Survey
 https://arxiv.org/abs/2408.06361
 
+TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance
+https://arxiv.org/abs/2309.03736
+
 ## Data 数据
 FinDABench: Benchmarking Financial Data Analysis Ability of Large Language Models
 https://arxiv.org/abs/2401.02982
