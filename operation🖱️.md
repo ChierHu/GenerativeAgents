@@ -7,6 +7,9 @@ https://arxiv.org/abs/2410.08164
 A2C2 - Natural Language-Instructed Autonomous Agent for Computer Control
 https://www.zhaw.ch/storage/engineering/institute-zentren/cai/studentische_arbeiten/Spring_2024/BA_FS24_Nobel-vonWartburg_A2C2.pdf
 
+Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control
+https://arxiv.org/abs/2306.07863
+
 ## Operating System 操作系统
 KAOS: Large Model Multi-Agent Operating System
 https://arxiv.org/abs/2406.11342
