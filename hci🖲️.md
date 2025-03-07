@@ -32,7 +32,7 @@ https://arxiv.org/abs/2309.11436
 InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback
 https://arxiv.org/abs/2502.15027
 
-## Human-Robot Collaboration 人机协作
+## Human-Robot Collaboration/Coordination 人机协作/协调
 Relational Norms for Human-AI Cooperation
 https://arxiv.org/abs/2502.12102
 
@@ -56,6 +56,9 @@ https://dl.acm.org/doi/abs/10.1145/3626772.3657655?casa_token=kPEtoH5WDZIAAAAA:E
 
 AI-enhanced collective intelligence
 https://www.cell.com/patterns/fulltext/S2666-3899(24)00233-2
+
+LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination
+https://arxiv.org/abs/2312.15224
 
 ## Team Coordination 团队合作
 MetaAgents: Large Language Model Based Agents for Decision-making on Teaming
