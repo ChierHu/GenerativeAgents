@@ -95,3 +95,7 @@ https://arxiv.org/abs/2309.16797
 ## Generative 生成式
 CreepyCoCreator? Investigating AI Representation Modes for 3D Object Co-Creation in Virtual Reality
 https://arxiv.org/abs/2502.03069
+
+## LLM
+Interactive Natural Language Processing
+https://arxiv.org/abs/2305.13246
