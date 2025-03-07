@@ -35,6 +35,9 @@ https://dl.acm.org/doi/abs/10.1145/3719341
 Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs
 https://arxiv.org/abs/2311.04892
 
+Corex: Pushing the boundaries of complex reasoning through multi-model collaboration 
+https://arxiv.org/abs/2310.00280
+
 ### Episodic memory 情景记忆
 Episodic memory in AI agents poses risks that should be studied and mitigated
 https://arxiv.org/abs/2501.11739
