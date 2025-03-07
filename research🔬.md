@@ -37,6 +37,9 @@ https://arxiv.org/abs/2501.10120
 Generative Adversarial Reviews: When LLMs Become the Critic
 https://arxiv.org/abs/2412.10415
 
+ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing
+https://arxiv.org/abs/2306.00622
+
 ## Scientists 科学家
 Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
 https://arxiv.org/abs/2410.09403
