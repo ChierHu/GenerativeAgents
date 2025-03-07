@@ -44,6 +44,9 @@ https://arxiv.org/abs/2308.03688
 Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions
 https://arxiv.org/abs/2306.02224
 
+MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation
+https://arxiv.org/abs/2310.03302
+
 ### Vision 视觉
 ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
 https://arxiv.org/abs/2410.06555
