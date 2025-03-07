@@ -92,6 +92,9 @@ https://arxiv.org/abs/2307.14984
 SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents
 https://arxiv.org/abs/2310.11667
 
+Do LLM Agents Exhibit Social Behavior?
+https://arxiv.org/abs/2312.15198
+
 ## Voice 语音
 In Whose Voice?: Examining AI Agent Representation of People in Social Interaction through Generative Speech
 https://dl.acm.org/doi/abs/10.1145/3643834.3661555
