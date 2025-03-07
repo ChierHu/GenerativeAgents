@@ -102,3 +102,6 @@ https://arxiv.org/abs/2502.03069
 ## LLM
 Interactive Natural Language Processing
 https://arxiv.org/abs/2305.13246
+
+Agent Instructs Large Language Models to be General Zero-Shot Reasoners
+https://arxiv.org/abs/2310.03710
