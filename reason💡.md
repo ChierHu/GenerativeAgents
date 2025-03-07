@@ -60,6 +60,9 @@ https://arxiv.org/abs/2409.14908
 RET-LLM: Towards a General Read-Write Memory for Large Language Models
 https://arxiv.org/abs/2305.14322
 
+Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents
+https://dl.acm.org/doi/abs/10.1145/3586182.3615796?casa_token=lHDCllR4dJYAAAAA:DyqQVbvMLfYT0QyGbe-e_KnJzMm0ezQPMfFWqPYJ-WO1K9ugmjrxMBD0LcwySLwAeC5B1WJgxaTkoiY
+
 ### Episodic memory 情景记忆
 Episodic memory in AI agents poses risks that should be studied and mitigated
 https://arxiv.org/abs/2501.11739
