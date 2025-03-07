@@ -15,6 +15,9 @@ https://aclanthology.org/2024.findings-acl.928/
 ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
 https://arxiv.org/abs/2308.07201
 
+Clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents
+https://arxiv.org/abs/2305.13455
+
 ## Agent Evaluation 代理评估
 
 Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents
