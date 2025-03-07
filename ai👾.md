@@ -27,6 +27,9 @@ https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd8
 Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization
 https://arxiv.org/abs/2308.02151
 
+A Survey of Progress on Cooperative Multi-agent Reinforcement Learning in Open Environment
+https://arxiv.org/abs/2312.01058
+
 ### RLHF 人类反馈
 Secrets of RLHF in Large Language Models Part I: PPO
 https://arxiv.org/abs/2307.04964
