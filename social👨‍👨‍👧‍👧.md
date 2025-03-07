@@ -63,6 +63,10 @@ https://arxiv.org/abs/2406.14373
 Emergence of Social Norms in Generative Agent Societies: Principles and Architecture
 https://arxiv.org/abs/2403.08251
 
+## Opinion 意见
+Simulating Opinion Dynamics with Networks of LLM-based Agents
+https://arxiv.org/abs/2311.09618
+
 ## social 社交
 SOTOPIA-Ω: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents
 https://arxiv.org/abs/2502.15538
