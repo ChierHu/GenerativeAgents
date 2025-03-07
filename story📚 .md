@@ -12,6 +12,8 @@ https://www.jstage.jst.go.jp/article/jsaisigtwo/2024/DOCMAS-026/2024_05/_article
 StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning
 https://dl.acm.org/doi/abs/10.1145/3649921.3656987?casa_token=s66NifMWzmsAAAAA:kvlae5E9WBcb0zZFRgfFMhSUpt3u6bLQs9GMyxz-YBx3hoB7Y28ybBwOm16dytA03HvVvsrLsqfwYxA
 
+Language as Reality: A Co-Creative Storytelling Game Experience in 1001 Nights Using Generative AI
+https://ojs.aaai.org/index.php/AIIDE/article/view/27539
 
 ## Co-Creation 再创造
 Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the
