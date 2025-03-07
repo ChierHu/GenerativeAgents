@@ -18,3 +18,6 @@ http://ijns.jalaxy.com.tw/contents/ijns-v26-n3/ijns-2024-v26-n3-p386-393.pdf
 
 DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 https://arxiv.org/abs/2309.16292
+
+Towards Knowledge-driven Autonomous Driving
+https://arxiv.org/abs/2312.04316
