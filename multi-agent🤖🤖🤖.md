@@ -12,6 +12,9 @@ https://arxiv.org/abs/2310.10701
 MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration
 https://arxiv.org/abs/2311.08562
 
+Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach
+https://arxiv.org/abs/2311.13884
+
 ## cooperate 合作
 Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot
 https://arxiv.org/abs/2403.11381
