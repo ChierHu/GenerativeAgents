@@ -178,6 +178,9 @@ https://ieeexplore.ieee.org/abstract/document/10865026?casa_token=yhNw3NricLQAAA
 Virtual Community: A Generative Social World for Embodied AI
 https://openreview.net/forum?id=aRxLDcxFcL
 
+Training Socially Aligned Language Models on Simulated Social Interactions
+https://arxiv.org/abs/2305.16960
+
 ## Debate 辩论
 Multi-LLM Debate: Framework, Principals, and Interventions
 https://openreview.net/forum?id=sy7eSEXdPC
