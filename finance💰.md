@@ -86,6 +86,9 @@ https://arxiv.org/abs/2502.00792
 Evidence from the Synthetic Laboratory: Language Models as Auction Participants
 https://openreview.net/forum?id=XZ71GHf8aB
 
+Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena
+https://arxiv.org/abs/2310.05746
+
 ## Negotiation 谈判
 Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback
 https://arxiv.org/abs/2305.10142
