@@ -117,6 +117,9 @@ https://www.mdpi.com/1099-4300/26/6/524
 Strategizing with AI: Insights from a Beauty Contest Experiment
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754435
 
+INVESTIGATING EMERGENT GOAL-LIKE BEHAVIOUR IN LARGE LANGUAGE MODELS USING EXPERIMENTAL ECONOMICS
+https://www.researchgate.net/profile/Yvan-Russell/publication/370776214_The_Machine_Psychology_of_Cooperation_Can_GPT_Models_Operationalise_Prompts_for_Altruism_Cooperation_Competitiveness_and_Selfishness_in_Economic_Games/links/6464caf9702026631653f4cd/The-Machine-Psychology-of-Cooperation-Can-GPT-Models-Operationalise-Prompts-for-Altruism-Cooperation-Competitiveness-and-Selfishness-in-Economic-Games.pdf
+
 ### Cooperation 合作
 Get It Cooperating: Enhancing Generative Agent Cooperation with Commitment Devices
 https://openreview.net/forum?id=J39bW48ipI
