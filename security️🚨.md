@@ -45,6 +45,9 @@ https://arxiv.org/abs/2403.17674
 Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks
 https://arxiv.org/abs/2310.10844
 
+Evil Geniuses: Delving into the Safety of LLM-based Agents
+https://arxiv.org/abs/2311.11855
+
 ## Verification 验证
 Speaker Verification in Agent-Generated Conversations
 https://arxiv.org/abs/2405.10150
