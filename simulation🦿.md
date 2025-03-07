@@ -108,6 +108,9 @@ https://ieeexplore.ieee.org/abstract/document/10727013?casa_token=XweqdEmCmQoAAA
 From Simulation to Prediction: Enhancing Digital Twins with Advanced Generative AI Technologies
 https://ieeexplore.ieee.org/abstract/document/10591881?casa_token=v46NmRTzym0AAAAA:mqfB8nklT7caomnEjmbtBfyc6-E8hEXEMp_wyrNb0dS0K4ZL5YAtaLqcNaodoIGwNiWz12uqAQ
 
+User Simulation for Evaluating Information Access Systems
+https://dl.acm.org/doi/abs/10.1145/3624918.3629549?casa_token=N4I9YEvGuR0AAAAA:noOnM7mfVG2anhIa0wrbyhV7ikWSkXRh0QukGY7axlhhUT3i7LIYXznt-bc0_wo_wVMkb3MQsGQFprE
+
 ## 3D Scenes 3D 场景
 Towards Human-like Virtual Beings: Simulating Human Behavior in 3D Scenes
 https://openreview.net/forum?id=yc38vnXhTh
