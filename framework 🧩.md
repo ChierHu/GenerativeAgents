@@ -100,3 +100,6 @@ https://arxiv.org/abs/2309.17288
 
 BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents
 https://arxiv.org/abs/2308.05960
+
+OpenAgents: An Open Platform for Language Agents in the Wild
+https://arxiv.org/abs/2310.10634
