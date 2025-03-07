@@ -115,6 +115,9 @@ https://link.springer.com/chapter/10.1007/978-3-031-78541-2_10
 Knowledge Boundary and Persona Dynamic Shape A Better Social Media Agent
 https://arxiv.org/abs/2403.19275
 
+Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms
+https://arxiv.org/abs/2310.05984
+
 ### Profile 个人资料
 Apollonion: Profile-centric Dialog Agent
 https://arxiv.org/abs/2404.08692
