@@ -63,6 +63,9 @@ https://arxiv.org/abs/2406.14373
 Emergence of Social Norms in Generative Agent Societies: Principles and Architecture
 https://arxiv.org/abs/2403.08251
 
+User Behavior Simulation with Large Language Model based Agents
+https://arxiv.org/abs/2306.02552
+
 ## Opinion 意见
 Simulating Opinion Dynamics with Networks of LLM-based Agents
 https://arxiv.org/abs/2311.09618
