@@ -110,3 +110,6 @@ https://arxiv.org/abs/2502.06470
 
 How FaR Are Large Language Models From Agents with Theory-of-Mind?
 https://arxiv.org/abs/2310.03051
+
+HI-TOM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models
+https://arxiv.org/abs/2310.16755
