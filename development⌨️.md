@@ -38,6 +38,9 @@ https://arxiv.org/abs/2307.07924
 AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation
 https://arxiv.org/abs/2312.13010
 
+Experiential Co-Learning of Software-Developing Agents
+https://arxiv.org/abs/2312.17025
+
 ## Testing 测试
 Towards Autonomous Testing Agents via Conversational Large Language Models
 https://ieeexplore.ieee.org/abstract/document/10298360?casa_token=_RDxK66AsYwAAAAA:MZo4Dfy1tJ9wNRqjL45UKBWC2UqRjp7cLIXJ86kAai_Kq-3lyIFS4_jloweO7YJIalof1J0U0uOPtSg
