@@ -65,6 +65,9 @@ https://openreview.net/forum?id=8jUdgJdxTw
 CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations
 https://arxiv.org/abs/2310.11501
 
+The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective
+https://arxiv.org/abs/2312.15524
+
 ## Human Feedback 人类反馈
 AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback
 Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Main Conference Track
