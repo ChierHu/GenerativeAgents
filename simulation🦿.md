@@ -92,6 +92,10 @@ https://arxiv.org/abs/2403.09738
 A Comprehensive Synthetic Dataset of Simulated RWH User Daily Activities and Preferences
 http://www.polibits.ojs.gelbukh.com/ojs/index.php/CyS/article/view/5298
 
+## User Modeling 用户建模
+User Modeling in the Era of Large Language Models: Current Research and Future Directions
+https://arxiv.org/abs/2312.11518
+
 ## Digital Twin 数字孪生/模拟人
 What Limits LLM-based Human Simulation: LLMs or Our Design?
 https://arxiv.org/abs/2501.08579
